@@ -1,0 +1,184 @@
+
+main{
+	max-width: 800px;
+	margin: 0 auto;
+}
+
+.sortButtons > span {
+	font-size: smaller;
+	margin-right: 4px;
+	cursor: pointer;
+}
+
+.songLists{
+	max-width: 400px;
+	display: inline-block;
+	float: left;
+}
+
+.song {
+	font-size: small;
+    display: inline-block;
+    padding: .5ex 0;
+    margin: 3px 0;
+    border: 1px solid #CCC;
+    border-radius: 6px;
+}
+.song.type_Original {
+	border-color: #08F;
+}
+.song.type_Cover {
+	border-color: #F80;
+}
+.song.type_Original:nth-child(even){
+	background: #F0F0FF;
+}
+.song.type_Cover:nth-child(even){
+	background: #FFF0F0;
+}
+.song.type_Original:hover, .song.type_Original.active {
+	background-color: #D0EFFF !important;
+	cursor: pointer;
+}
+.song.type_Cover:hover, .song.type_Cover.active {
+	background-color: #FFEFC0 !important;
+	cursor: pointer;
+}
+
+.diff {
+	width: 14px;
+    height: 14px;
+    display: inline-block;
+    margin: 1px;
+    font-size: 8px;
+    background-size: cover;
+    vertical-align: sub;
+}
+
+.difficults {
+	display: inline-block;
+	width: 85px;
+}
+
+.name {
+	display: inline-block;
+	width: 300px;
+	margin-right: 10px;
+	text-align: right;
+}
+
+
+
+.editSongData {
+	width: 350px;
+	display: inline-block;
+	float: right;
+	position: fixed;
+	border-radius: 4px;
+	margin: 0.5ex 0 0 2ex;
+	padding: 0.5ex;
+	min-height: 400px;
+}
+
+
+.songname {
+	text-decoration: underline;
+	margin: 0.5ex 0 1.5ex;
+	text-align: center;
+}
+
+.tabs {
+	width: 95%;
+	margin: 0 auto;
+	font-size: smaller;
+}
+
+.tabs .tab {
+	box-sizing: border-box;
+	display: inline-block;
+	text-align: center;
+	cursor: pointer;
+	border-width: 0 0 1px;
+	border-style: solid;
+	color: #666;
+}
+.tabs.tabs_4 .tab{
+	width: 25%;
+}
+.tabs.tabs_5 .tab{
+	width: 20%;
+}
+.editSongData.type_Original .tabs .tab{
+	border-color: #08F;
+}
+.editSongData.type_Cover .tabs .tab{
+	border-color: #F80;
+}
+.tabs .tab:hover, .tabs .tab.active {
+	border-width: 1px 1px 0 1px !important;
+	color: #000;
+}
+
+.scoreform {
+	padding: 1.5ex 1ex;
+	margin: -1px 1ex;
+	border-width: 0px 1px 1px;
+	border-style: solid;
+}
+.editSongData.type_Original .scoreform{
+	border-color: #08F;
+}
+.editSongData.type_Cover .scoreform{
+	border-color: #F80;
+}
+
+.scoreform label {
+	font-size: small;
+	width: 50%;
+	display: inline-block;
+	text-align: right;
+	margin-right: 5px;
+}
+
+.scoreform input[type=number] {
+	text-align: right;
+	width: 25%;
+	border-width: 0 0 1px;
+	border-color: #444;
+	margin: 2px 0 5px;
+	font-size: larger;
+	font-family: monospace;
+}
+
+.scoreform textarea {
+	width: 90%;
+	min-width: 90%;
+	max-width: 100%;
+	margin: 2ex auto;
+	min-height: 70px;
+	box-sizing: content-box;
+	display: block;
+}
+.scoreform button {
+	display: block;
+	margin: 0 auto;
+	width: 25%;
+	cursor: pointer;
+}
+
+
+
+.diff.clearState_0 {
+	background-image: url(./image/clear_0.png);
+}
+.diff.clearState_1 {
+	background-image: url(./image/clear_1.png);
+}
+.diff.clearState_2 {
+	background-image: url(./image/clear_2.png);
+}
+.diff.clearState_3 {
+	background-image: url(./image/clear_3.png);
+}
+
+

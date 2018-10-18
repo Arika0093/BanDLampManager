@@ -1,0 +1,8 @@
+# for server setup(debug)
+serverSetup:
+  listen_port: 5000
+  proxy_port: 3000
+
+# gulpfile
+gulpfile:
+  is_debug: true
