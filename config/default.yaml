@@ -5,4 +5,4 @@ serverSetup:
 
 # gulpfile
 gulpfile:
-  is_debug: true
+  is_debug: false
