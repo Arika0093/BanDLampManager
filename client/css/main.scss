@@ -4,6 +4,17 @@ main{
 	margin: 0 auto;
 }
 
+.sortButtons {
+	position: fixed;
+	top: 0;
+	left: 0;
+	background: rgba(255, 255, 255, 0.9);
+	width: 100%;
+	padding-bottom: 3px;
+	border-bottom: 1px solid #000;
+	text-align: center;
+	z-index: 1000;
+}
 .sortButtons > span {
 	font-size: smaller;
 	margin-right: 4px;
@@ -33,7 +44,7 @@ input#viewOnlyMode + label{
 	max-width: 400px;
 	display: inline-block;
 	float: left;
-	margin-top: 1ex;
+	margin-top: 3ex;
 	counter-reset: songs;
 }
 .songLists.wideView{
@@ -137,6 +148,7 @@ span.comment {
 	margin: 0.5ex 0 0 2ex;
 	padding: 0.5ex;
 	min-height: 400px;
+	margin-top: 2.5ex;
 }
 
 
