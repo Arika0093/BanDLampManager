@@ -3,6 +3,7 @@ main
 	div.sortButtons
 		span(class='{ active: sortType == 0 }' onclick='{ sortClick.bind(this, 0) }') ▼標準
 		span(class='{ active: sortType == 1 }' onclick='{ sortClick.bind(this, 1) }') ▼レベル順
+		span(class='{ active: sortType == 4 }' onclick='{ sortClick.bind(this, 4) }') ▼クリア状況順
 		span(class='{ active: sortType == 2 }' onclick='{ sortClick.bind(this, 2) }') ▼Gr数順
 		span(class='{ active: sortType == 3 }' onclick='{ sortClick.bind(this, 3) }') ▼Notes数順
 		select#targetDifficults(onchange='{ sortClick }')
@@ -11,13 +12,22 @@ main
 			option(data-index=2, value="Hard") Hard
 			option(data-index=3, value="Expert" selected=true) Expert
 			option(data-index=4, value="Special") Special
+		input#viewOnlyMode(type="checkbox" onclick='{ toggleViewOnlyMode }')
+		label(for="viewOnlyMode") 閲覧用モード
 
-	div.songLists
-		div.song(each='{s in allSongNameList}' class='type_{s.type}' data-index='{s.index}' onclick='{ showEditForm.bind(this, s) }')
+	div.songLists(class='{wideView: viewOnly}')
+		div.song(each='{s in allSongNameList}' class='type_{s.type}' data-disp='{s.dispValue}' data-index='{s.index}' onclick='{ showEditForm.bind(this, s) }')
 			div.name {s.name}
 			div.difficults(if='{s.diffs}')
 				div.diff(each='{d in s.diffs}' class='diff_{d.diff} clearState_{d.clearState}')
-			
+			div.scores(if='{viewOnly}')
+				span.score {s.seldiff.perfect}
+				span.score {s.seldiff.great}
+				span.score {s.seldiff.good}
+				span.score {s.seldiff.bad}
+				span.score {s.seldiff.miss}
+				span.comment {s.seldiff.comment}
+
 	div.editSongData(if='{editSong}' class='type_{editSong.type}')
 		div.songname {editSong.name}
 		div.latestupdate(if='{editSong.update}') {editSong.update}
@@ -71,6 +81,12 @@ main
 							explevel: e.level,
 							totalnotes: e.totalnotes,
 							clearState: sd.clearState || 0,
+							perfect:	sd.perfect >= 0 ? sd.perfect	: "---",
+							great:		sd.great >= 0	? sd.great		: "---",
+							good: 		sd.good >= 0	? sd.good		: "---",
+							bad:		sd.bad >= 0		? sd.bad		: "---",
+							miss: 		sd.miss >= 0	? sd.miss		: "---",
+							comment: sd.comment || "",
 							grCount: sd_grCount,
 							msCount: sd_msCount,
 						},
@@ -91,8 +107,21 @@ main
 							})
 					} 
 				});
+			// dispValue Set
+			allSongNameList.forEach(e => {
+				if(!sortType){ e.dispValue = e.index + 1 }
+				if(sortType == 1){ e.dispValue = e.seldiff.explevel }
+				if(sortType == 2){
+					e.dispValue = (e.seldiff.grCount <= e.seldiff.totalnotes ? e.seldiff.grCount : "---")
+				}
+				if(sortType == 3){ e.dispValue = e.seldiff.totalnotes }
+				if(sortType == 4) {
+					var d = ["NC", "CL", "FC", "AP"];
+					e.dispValue = d[e.seldiff.clearState || 0];
+				}
+			});
+			
 			if(sortType >= 1){
-				// Lv Sort
 				allSongNameList.sort((a,b) => {
 					if(sortType == 1){
 						// 降順
@@ -108,6 +137,11 @@ main
 						// 降順
 						if (a.seldiff.totalnotes < b.seldiff.totalnotes) return +1;
 						if (a.seldiff.totalnotes > b.seldiff.totalnotes) return -1;
+					}
+					if (sortType == 4) {
+						// 降順
+						if (a.seldiff.clearState < b.seldiff.clearState) return +1;
+						if (a.seldiff.clearState > b.seldiff.clearState) return -1;
 					}
 					if(a.index > b.index) return 1;
 					if(a.index < b.index) return -1;
@@ -151,14 +185,17 @@ main
 		showEditForm(song) {
 			$(`.song`).removeClass("active");
 			$(`.song[data-index=${song.index}]`).addClass("active");
-			this.editSong = song;
 			
-			// load selected diff
-			var seled = $("#targetDifficults option:selected");
-			var selectedDiff = seled.val() || "Expert";
-			var selectedIndex = seled.data("index") || 3;
-			this.activeTabIndex = selectedIndex;
-			this.editSongDiff = extractSeledDiffData(song, selectedDiff);
+			if(!this.viewOnly){
+				this.editSong = song;
+				
+				// load selected diff
+				var seled = $("#targetDifficults option:selected");
+				var selectedDiff = seled.val() || "Expert";
+				var selectedIndex = seled.data("index") || 3;
+				this.activeTabIndex = selectedIndex;
+				this.editSongDiff = extractSeledDiffData(song, selectedDiff);
+			}
 		}
 		
 		// show edit
@@ -222,6 +259,12 @@ main
 			lenderingUpdate(savedData, global.sortType);
 		}
 		
+		toggleViewOnlyMode() {
+			if(this.viewOnly = $("#viewOnlyMode").prop("checked")){
+				this.editSong = null;
+				this.editSongDiff = null;
+			}
+		}
 		
 		// get localstrage saved score
 		function getSaveData() {

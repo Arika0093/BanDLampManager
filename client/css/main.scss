@@ -20,6 +20,14 @@ select#targetDifficults {
 	padding: 2px;
 }
 
+input#viewOnlyMode {
+	vertical-align: middle;
+	margin-left: 2ex;
+}
+input#viewOnlyMode + label{
+	font-size: smaller;
+}
+
 
 .songLists{
 	max-width: 400px;
@@ -28,6 +36,10 @@ select#targetDifficults {
 	margin-top: 1ex;
 	counter-reset: songs;
 }
+.songLists.wideView{
+	max-width: 100%;
+}
+
 
 .song {
 	font-size: small;
@@ -39,7 +51,8 @@ select#targetDifficults {
 }
 .song::before{
 	counter-increment: songs;
-	content: counter(songs)"";
+	//content: counter(songs)"";
+	content: attr(data-disp)"";
 	position: absolute;
 	margin-left: 1ex;
 	color: #444;
@@ -85,6 +98,32 @@ select#targetDifficults {
 	width: 300px;
 	margin-right: 10px;
 	text-align: right;
+}
+
+.scores{
+	display: inline-block;
+	width: 350px;
+	/* font-size: smaller; */
+	padding-left: 1ex;
+	color: #666;
+}
+.scores > .score{
+	display: inline-block;
+	width: 28px;
+	text-align: right;
+}
+span.score:not(:first-child) {
+	border-left: 1px solid #666;
+	margin-left: 1ex;
+}
+span.comment {
+	margin-left: 2ex;
+	display: inline-block;
+	overflow: hidden;
+	white-space: nowrap;
+	text-overflow: ellipsis;
+	width: 160px;
+	vertical-align: bottom;
 }
 
 
