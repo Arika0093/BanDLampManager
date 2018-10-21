@@ -112,7 +112,15 @@ main
 				if(!sortType){ e.dispValue = e.index + 1 }
 				if(sortType == 1){ e.dispValue = e.seldiff.explevel }
 				if(sortType == 2){
-					e.dispValue = (e.seldiff.grCount <= e.seldiff.totalnotes ? e.seldiff.grCount : "---")
+					if(e.seldiff.grCount > e.seldiff.totalnotes){
+						e.dispValue = "---";
+					}
+					else if(e.seldiff.grCount <= 0){
+						e.dispValue = "AP";
+					}
+					else {
+						e.dispValue = e.seldiff.grCount;
+					}
 				}
 				if(sortType == 3){ e.dispValue = e.seldiff.totalnotes }
 				if(sortType == 4) {
