@@ -137,9 +137,11 @@ main
 						if (a.seldiff.explevel > b.seldiff.explevel) return -1;
 					}
 					if(sortType == 2){
-						// 昇順
-						if (a.seldiff.grCount < b.seldiff.grCount) return -1;
-						if (a.seldiff.grCount > b.seldiff.grCount) return +1;
+						// 昇順 ただしAPはNCの手前に表示
+						var ac = a.seldiff.grCount || 8888;
+						var bc = b.seldiff.grCount || 8888;
+						if (ac < bc) return -1;
+						if (ac > bc) return +1;
 					}
 					if(sortType == 3) {
 						// 降順
