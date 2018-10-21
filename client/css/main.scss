@@ -26,6 +26,7 @@ select#targetDifficults {
 	display: inline-block;
 	float: left;
 	margin-top: 1ex;
+	counter-reset: songs;
 }
 
 .song {
@@ -35,6 +36,13 @@ select#targetDifficults {
     margin: 3px 0;
     border: 1px solid #CCC;
     border-radius: 6px;
+}
+.song::before{
+	counter-increment: songs;
+	content: counter(songs)":";
+	position: absolute;
+	margin-left: 1ex;
+	color: #444;
 }
 .song.type_Original {
 	border-color: #08F;
