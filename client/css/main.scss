@@ -39,7 +39,7 @@ select#targetDifficults {
 }
 .song::before{
 	counter-increment: songs;
-	content: counter(songs)":";
+	content: counter(songs)"";
 	position: absolute;
 	margin-left: 1ex;
 	color: #444;
