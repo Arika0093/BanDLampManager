@@ -13,7 +13,9 @@
   "engines": {
     "node": "8.x.x"
   },
-  "dependencies": {},
+  "dependencies": {
+    "zlib": "^1.0.5"
+  },
   "devDependencies": {
     "body-parser": "^1.18.2",
     "browser-sync": "^2.23.6",

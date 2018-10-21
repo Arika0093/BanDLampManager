@@ -1,8 +1,17 @@
 main
 	header
 	div.sortButtons
-		span(onclick='{ sortClick.bind(this, 0) }') ▼標準
-		span(onclick='{ sortClick.bind(this, 1) }') ▼EXレベル順
+		span(class='{ active: sortType == 0 }' onclick='{ sortClick.bind(this, 0) }') ▼標準
+		span(class='{ active: sortType == 1 }' onclick='{ sortClick.bind(this, 1) }') ▼レベル順
+		span(class='{ active: sortType == 2 }' onclick='{ sortClick.bind(this, 2) }') ▼Gr数順
+		span(class='{ active: sortType == 3 }' onclick='{ sortClick.bind(this, 3) }') ▼Notes数順
+		select#targetDifficults(onchange='{ sortClick }')
+			option(data-index=0, value="Easy") Easy
+			option(data-index=1, value="Normal") Normal
+			option(data-index=2, value="Hard") Hard
+			option(data-index=3, value="Expert" selected=true) Expert
+			option(data-index=4, value="Special") Special
+
 	div.songLists
 		div.song(each='{s in allSongNameList}' class='type_{s.type}' data-index='{s.index}' onclick='{ showEditForm.bind(this, s) }')
 			div.name {s.name}
@@ -13,7 +22,7 @@ main
 		div.songname {editSong.name}
 		div.latestupdate(if='{editSong.update}') {editSong.update}
 		div.tabs(class='tabs_{editSong.diffs.length}')
-			div.tab(each='{d,i in editSong.diffs}' class='diff_{d.diff}' data-index='{i}' onclick='{ showEditFormDiff.bind(this, editSong, d, i) }' ) {d.diff}
+			div.tab(each='{d,i in editSong.diffs}' class='diff_{d.diff} {active: activeTabIndex == i}' data-index='{i}' onclick='{ showEditFormDiff.bind(this, editSong, d, i) }' ) {d.diff}
 		div.scoreform(if='{editSongDiff}')
 			label(for="sdPerf") Perfect(自動入力)
 			input#sdPerf(type="number" onchange='{ onChangePerfectCounts }' min=0 value="{editSongDiff.perfect}" readonly)
@@ -48,30 +57,58 @@ main
 		
 		// re-lendering
 		var lenderingUpdate = (savedData, sortType) => {
+			var selectedDiff = $("#targetDifficults option:selected").val() || "Expert";
 			var allSongNameList = global.allSongList
-				.filter(e => e.difficult === "Expert")
+				.filter(e => e.difficult === selectedDiff)
 				.map((e,i) => {
+					var sd = findSaveDataItem(savedData, e.name, e.difficult);
+					var sd_grCount = sd.name ? (sd.great + sd.good + sd.bad + sd.miss) : 9999;
+					var sd_msCount = sd.name ? (sd.good + sd.bad + sd.miss) : 9999;
 					return {
 						name: e.name,
 						type: e.type,
-						explevel: e.level,
+						seldiff: {
+							explevel: e.level,
+							totalnotes: e.totalnotes,
+							clearState: sd.clearState || 0,
+							grCount: sd_grCount,
+							msCount: sd_msCount,
+						},
 						index: i,
 						diffs: global.allSongList
 							.filter(e_ => e_.name === e.name)
 							.map(e_ => {
 								var ssd = findSaveDataItem(savedData, e_.name, e_.difficult);
+								var grCount = ssd.great + ssd.good + ssd.bad + ssd.miss;
+								var msCount = ssd.good + ssd.bad + ssd.miss;
 								return {
 									diff: e_.difficult,
 									totalnotes: e_.totalnotes,
 									clearState: ssd.clearState || 0,
+									grCount,
+									msCount,
 								};
 							})
 					} 
 				});
-			if(sortType == 1){
+			if(sortType >= 1){
+				// Lv Sort
 				allSongNameList.sort((a,b) => {
-					if(a.explevel < b.explevel) return 1;
-					if(a.explevel > b.explevel) return -1;
+					if(sortType == 1){
+						// 降順
+						if (a.seldiff.explevel < b.seldiff.explevel) return +1;
+						if (a.seldiff.explevel > b.seldiff.explevel) return -1;
+					}
+					if(sortType == 2){
+						// 昇順
+						if (a.seldiff.grCount < b.seldiff.grCount) return -1;
+						if (a.seldiff.grCount > b.seldiff.grCount) return +1;
+					}
+					if(sortType == 3) {
+						// 降順
+						if (a.seldiff.totalnotes < b.seldiff.totalnotes) return +1;
+						if (a.seldiff.totalnotes > b.seldiff.totalnotes) return -1;
+					}
 					if(a.index > b.index) return 1;
 					if(a.index < b.index) return -1;
 				})
@@ -89,24 +126,14 @@ main
 			lenderingUpdate(savedData);
 		}
 		
-		// 
-		showEditForm(song) {
-			$(`.song`).removeClass("active");
-			$(`.song[data-index=${song.index}]`).addClass("active");
-			this.editSong = song;
-			this.editSongDiff = undefined;
-		}
-		
-		// show edit
-		showEditFormDiff(song, diff, i) {
-			$(`.tab`).removeClass("active");
-			$(`.tab[data-index=${i}]`).addClass("active");
+		// extractSeledDiffData
+		function extractSeledDiffData(song, diff) {
 			// load savedata
 			var sd = getSaveData();
-			var ssd = findSaveDataItem(sd, song.name, diff.diff);
-			var totalnotes = song.diffs.find(e => e.diff === diff.diff).totalnotes;
+			var ssd = findSaveDataItem(sd, song.name, diff);
+			var totalnotes = song.diffs.find(e => e.diff === diff).totalnotes;
 			var df = {
-				diff: diff.diff,
+				diff,
 				perfect: ssd.perfect || totalnotes,
 				great: ssd.great || 0,
 				good: ssd.good || 0,
@@ -117,7 +144,28 @@ main
 				is_FC: ssd.clearState >= 2,
 			}
 			global.totalnotes = totalnotes;
-			this.editSongDiff = df;
+			return df;
+		}
+		
+		// 
+		showEditForm(song) {
+			$(`.song`).removeClass("active");
+			$(`.song[data-index=${song.index}]`).addClass("active");
+			this.editSong = song;
+			
+			// load selected diff
+			var seled = $("#targetDifficults option:selected");
+			var selectedDiff = seled.val() || "Expert";
+			var selectedIndex = seled.data("index") || 3;
+			this.activeTabIndex = selectedIndex;
+			this.editSongDiff = extractSeledDiffData(song, selectedDiff);
+		}
+		
+		// show edit
+		showEditFormDiff(song, diff, i) {
+			this.activeTabIndex = i;
+			// load savedata
+			this.editSongDiff = extractSeledDiffData(song, diff.diff);
 		}
 		
 		// update songdata
@@ -133,7 +181,7 @@ main
 			var isF = $("#isFC").prop("checked");
 			
 			var missCountZero = (gd + bd + ms <= 0);
-			var simpleAliveCount = (bd * 50 + ms * 100 <= 1000);
+			var simpleAliveCount = (bd * 50 + ms * 100 < 1000);
 			var clearState = (pf === t) ? 3 : (isF || missCountZero) ? 2 : (isC || simpleAliveCount) ? 1 : 0;
 			
 			var name = song.name;
@@ -168,8 +216,10 @@ main
 		
 		// sort Songlist
 		sortClick(type) {
-			global.sortType = type;
-			lenderingUpdate(savedData, type);
+			if(type >= 0){
+				this.sortType = global.sortType = type;
+			}
+			lenderingUpdate(savedData, global.sortType);
 		}
 		
 		
@@ -177,7 +227,6 @@ main
 		function getSaveData() {
 			// localstrage data get
 			var lst = localStorage.getItem("savedScore");
-			console.log(lst);
 			return JSON.parse(lst || "[]");
 		}
 		function setSaveData(sd){
@@ -206,7 +255,6 @@ main
 			return sd.indexOf(elm);
 		}
 
-		
 		
 		
 		

@@ -9,11 +9,23 @@ main{
 	margin-right: 4px;
 	cursor: pointer;
 }
+.sortButtons > span.active {
+	color: #06C;
+	text-decoration: underline;
+}
+
+select#targetDifficults {
+	margin-left: 1ex;
+	width: 100px;
+	padding: 2px;
+}
+
 
 .songLists{
 	max-width: 400px;
 	display: inline-block;
 	float: left;
+	margin-top: 1ex;
 }
 
 .song {

@@ -22,6 +22,7 @@ var sourcemap = require("gulp-sourcemaps");
 var listen_port = config.serverSetup.listen_port;
 var proxy_port = config.serverSetup.proxy_port;
 var is_debug = config.gulpfile.is_debug;
+var obfuscator = config.gulpfile.obfuscator;
 
 // --------------------------------------------
 // for envity
@@ -118,7 +119,7 @@ gulp.task('riot-browserfy', () =>{
 // Riot browserfy
 gulp.task('obfuscator', ["riot-browserfy"], () => {
 	var s = gulp.src('./docs/bundle.js');
-	if(!is_debug){
+	if(!is_debug && obfuscator){
 		s.pipe(gulp_obf({
 			sourceMap: false
 		})).pipe(gulp.dest('./docs/'));
