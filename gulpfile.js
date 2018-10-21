@@ -116,7 +116,7 @@ gulp.task('riot-browserfy', () =>{
 		.pipe(gulp.dest('./docs/'));
 });
 
-// Riot browserfy
+// obfuscator
 gulp.task('obfuscator', ["riot-browserfy"], () => {
 	var s = gulp.src('./docs/bundle.js');
 	if(!is_debug && obfuscator){
@@ -125,6 +125,15 @@ gulp.task('obfuscator', ["riot-browserfy"], () => {
 		})).pipe(gulp.dest('./docs/'));
 	}
 	return s;
+});
+
+// obfuscator(pre-commit)
+gulp.task('obfuscator-must', ["riot-browserfy"], () => {
+	return gulp.src('./docs/bundle.js')
+		.pipe(gulp_obf({
+			sourceMap: false
+		}))
+		.pipe(gulp.dest('./docs/'));
 });
 
 // watching
@@ -138,6 +147,11 @@ gulp.task("watchResource", () => {
 // --------------------------------------------
 // compile
 gulp.task("compile", ["riot-browserfy", "obfuscator"], () => {
+	
+});
+
+// compile
+gulp.task("compile-precommit", ["riot-browserfy", "obfuscator-must"], () => {
 	
 });
 

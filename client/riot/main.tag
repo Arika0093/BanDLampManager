@@ -11,6 +11,15 @@ main
 			option(data-index=2, value="Hard") Hard
 			option(data-index=3, value="Expert" selected=true) Expert
 			option(data-index=4, value="Special") Special
+		div#countShow
+			.diff.clearState_3
+			| :{countAP}
+			.diff.clearState_2
+			| :{countFC}
+			.diff.clearState_1
+			| :{countCL}
+			.diff.clearState_0
+			| :{countNC}
 		input#viewOnlyMode(type="checkbox" onclick='{ toggleViewOnlyMode }')
 		label(for="viewOnlyMode") 閲覧用モード
 
@@ -157,6 +166,10 @@ main
 				})
 			}
 			this.allSongNameList = global.allSongNameList = allSongNameList;
+			this.countAP = allSongNameList.filter(e => e.seldiff.clearState == 3).length;
+			this.countFC = allSongNameList.filter(e => e.seldiff.clearState == 2).length;
+			this.countCL = allSongNameList.filter(e => e.seldiff.clearState == 1).length;
+			this.countNC = allSongNameList.filter(e => e.seldiff.clearState == 0).length;
 		}
 		
 		// on Loading Action
@@ -201,8 +214,8 @@ main
 				// load selected diff
 				var seled = $("#targetDifficults option:selected");
 				var selectedDiff = seled.val() || "Expert";
-				var selectedIndex = seled.data("index") || 3;
-				this.activeTabIndex = selectedIndex;
+				var selectedIndex = seled.data("index");
+				this.activeTabIndex = selectedIndex >= 0 ? selectedIndex : 3;
 				this.editSongDiff = extractSeledDiffData(song, selectedDiff);
 			}
 		}
