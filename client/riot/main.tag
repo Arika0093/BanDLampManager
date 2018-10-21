@@ -11,7 +11,7 @@ main
 			option(data-index=2, value="Hard") Hard
 			option(data-index=3, value="Expert" selected=true) Expert
 			option(data-index=4, value="Special") Special
-		div#countShow
+		div#countShow 
 			.diff.clearState_3
 			| :{countAP}
 			.diff.clearState_2
