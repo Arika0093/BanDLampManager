@@ -4,7 +4,7 @@ main{
 	margin: 0 auto;
 }
 
-.sortButtons {
+header {
 	position: fixed;
 	top: 0;
 	left: 0;
@@ -15,12 +15,12 @@ main{
 	text-align: center;
 	z-index: 1000;
 }
-.sortButtons > span {
+header > span {
 	font-size: smaller;
 	margin-right: 4px;
 	cursor: pointer;
 }
-.sortButtons > span.active {
+header > span.active {
 	color: #06C;
 	text-decoration: underline;
 }
