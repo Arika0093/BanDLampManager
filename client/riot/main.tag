@@ -208,7 +208,7 @@ main
 			lenderingUpdate(savedData);
 		
 			this.update();
-		})();
+		})(); 
 		
 		// extractSeledDiffData
 		function extractSeledDiffData(song, diff) {
