@@ -27,7 +27,7 @@ var obfuscator = config.gulpfile.obfuscator;
 // --------------------------------------------
 // for envity
 var Envs = {
-	
+	BITLY_ACCESS_TOKEN: config.bitly.acc_token,
 };
 
 

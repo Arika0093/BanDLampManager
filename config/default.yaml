@@ -7,3 +7,7 @@ serverSetup:
 gulpfile:
   is_debug: false
   obfuscator: false
+  
+#bitly
+bitly:
+  acc_token: "c72064c324947645ff111c4aab510176af0326ea"
