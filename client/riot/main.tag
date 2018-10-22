@@ -1,6 +1,6 @@
 main
 	header
-		a#title(href="/" title="BanG-Dream Clear Manager") BDGCM
+		a#title(href="/" title="BanG-Dream Clear Manager") BGDCM
 		span(class='{ active: sortType == 0 }' onclick='{ sortClick.bind(this, 0) }') ▼標準
 		span(class='{ active: sortType == 1 }' onclick='{ sortClick.bind(this, 1) }') ▼レベル順
 		span(class='{ active: sortType == 4 }' onclick='{ sortClick.bind(this, 4) }') ▼クリア状況順
