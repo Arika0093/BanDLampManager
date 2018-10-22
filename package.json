@@ -14,6 +14,7 @@
     "node": "8.x.x"
   },
   "dependencies": {
+    "query-string": "^6.2.0",
     "zlib": "^1.0.5"
   },
   "devDependencies": {

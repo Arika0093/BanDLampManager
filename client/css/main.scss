@@ -25,6 +25,23 @@ header > span.active {
 	text-decoration: underline;
 }
 
+#title {
+	background: linear-gradient(150deg,
+			rgba(255,255,255,1) 0%,
+			rgba(255,89,249,1) 20%,
+			rgba(219,40,255,1) 50%,
+			rgba(94,24,244,1) 60%,
+			rgba(23,207,239,1) 80%,
+			rgba(125,185,232,1) 100%
+	);
+	color:transparent;
+	-webkit-background-clip: text;
+	background-clip: text;
+	font-weight: bolder;
+	margin-right: 2ex;
+}
+
+
 select#targetDifficults {
 	margin-left: 1ex;
 	width: 100px;
@@ -44,6 +61,21 @@ input#viewOnlyMode {
 input#viewOnlyMode + label{
 	font-size: smaller;
 }
+
+button#sharedData {
+	background: #FFF;
+	border: 1px solid #08F;
+	margin-left: 2ex;
+	padding: 0 2ex;
+}
+button#sharedData:hover {
+	background: #8CF;
+	cursor: pointer;
+}
+.hidden {
+	display: none;
+}
+
 
 
 .songLists{

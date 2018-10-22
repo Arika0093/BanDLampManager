@@ -6,4 +6,4 @@ serverSetup:
 # gulpfile
 gulpfile:
   is_debug: false
-  obfuscator: true
+  obfuscator: false

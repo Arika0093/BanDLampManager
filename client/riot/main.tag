@@ -1,5 +1,6 @@
 main
 	header
+		a#title(href="/" title="BanG-Dream Clear Manager") BDGCM
 		span(class='{ active: sortType == 0 }' onclick='{ sortClick.bind(this, 0) }') ▼標準
 		span(class='{ active: sortType == 1 }' onclick='{ sortClick.bind(this, 1) }') ▼レベル順
 		span(class='{ active: sortType == 4 }' onclick='{ sortClick.bind(this, 4) }') ▼クリア状況順
@@ -20,8 +21,9 @@ main
 			| :{countCL}
 			.diff.clearState_0
 			| :{countNC}
-		input#viewOnlyMode(type="checkbox" onclick='{ toggleViewOnlyMode }')
+		input#viewOnlyMode(type="checkbox" onclick='{ toggleViewOnlyMode }' checked='{ this.URLReadOnly }' disabled='{ this.URLReadOnly }')
 		label(for="viewOnlyMode") 閲覧用モード
+		button#sharedData(class='{ hidden: this.URLReadOnly }' onclick='{ generateDataURL }') URL生成
 
 	div.songLists(class='{wideView: viewOnly}')
 		div.song(each='{s in allSongNameList}' class='type_{s.type}' data-disp='{s.dispValue}' data-index='{s.index}' onclick='{ showEditForm.bind(this, s) }')
@@ -72,6 +74,8 @@ main
 	// Script
 	script.
 		var $ = require("jquery");
+		var zlib = require("zlib");
+		var queryString = require("query-string");
 		
 		// re-lendering
 		var lenderingUpdate = (savedData, sortType) => {
@@ -177,6 +181,15 @@ main
 			// songlist get
 			global.allSongList = require("../data/songdata.json");
 			var savedData = getSaveData();
+			
+			// if contain query
+			var parsed = queryString.parse(location.search);
+			if(parsed && parsed.data){
+				// set readonly mode
+				this.URLReadOnly = true;
+				this.viewOnly = true;
+				global.queryLoadData = savedData = JSON.parse(decompressStr(parsed.data)) || [];
+			}
 			
 			// Update
 			lenderingUpdate(savedData);
@@ -288,18 +301,39 @@ main
 			}
 		}
 		
+		generateDataURL() {
+			var sd = getSaveData();
+			var q = compressStr(JSON.stringify(sd));
+			var hq = `?data=${q}`;
+			history.replaceState(null, null, hq);
+			var f = execCopy(window.location);
+			alert(`URLを生成しました。${f ? "\nURLはクリップボードにコピーされています。" : ""}`);
+		}
+		
 		// get localstrage saved score
 		function getSaveData() {
+			// if readonly mode
+			if(this.URLReadOnly){
+				return global.queryLoadData;
+			}
 			// localstrage data get
 			var lst = localStorage.getItem("savedScore");
 			return JSON.parse(lst || "[]");
 		}
 		function setSaveData(sd){
+			// if readonly mode, no action
+			if (this.URLReadOnly) {
+				return;
+			}
 			// localstrage data get
 			localStorage.setItem("savedScore", JSON.stringify(sd));
 		}
 		
 		function setSaveItem(si, songName, songDiff){
+			// if readonly mode, no action
+			if (this.URLReadOnly) {
+				return;
+			}
 			var sd = getSaveData();
 			var i = findSaveDataIndex(sd, songName, songDiff);
 			if(i >= 0){
@@ -319,7 +353,33 @@ main
 			var elm = findSaveDataItem(sd, songName, songDiff);
 			return sd.indexOf(elm);
 		}
-
 		
 		
+		// compress/decompress
+		function compressStr(str){
+			var cms = zlib.gzipSync(str);
+			return encodeURIComponent( new Buffer(cms).toString("base64") );
+		}
+		function decompressStr(str){
+			var b64s = new Buffer(decodeURIComponent(str), "base64");
+			return zlib.unzipSync(b64s);
+		}
+		
+		
+		function execCopy(string){
+			var temp = document.createElement('div');
+			temp.appendChild(document.createElement('pre')).textContent = string;
+			
+			var s = temp.style;
+			s.position = 'fixed';
+			s.left = '-100%';
+			
+			document.body.appendChild(temp);
+			document.getSelection().selectAllChildren(temp);
+			
+			var result = document.execCommand('copy');
+			document.body.removeChild(temp);
+			// true なら実行できている falseなら失敗か対応していないか
+			return result;
+		}
 		
