@@ -194,7 +194,6 @@ main
 					var long_url = long.data.expand[0].long_url;
 					var reg = /http.*\?data=(.+)/
 					parsed.data = long_url.match(reg)[1];
-					console.log(long_url, parsed.data);
 				}
 				if(parsed.data){
 					// set readonly mode
@@ -205,7 +204,7 @@ main
 			}
 			
 			// Update
-			lenderingUpdate(savedData);
+			lenderingUpdate(savedData, this.URLReadOnly ? 4 : 0);
 		
 			this.update();
 		})(); 
@@ -306,7 +305,7 @@ main
 			if(type >= 0){
 				this.sortType = global.sortType = type;
 			}
-			lenderingUpdate(savedData, global.sortType);
+			lenderingUpdate(getSaveData(), global.sortType);
 		}
 		
 		toggleViewOnlyMode() {
@@ -331,6 +330,7 @@ main
 		function getSaveData() {
 			// if readonly mode
 			if(this.URLReadOnly){
+				console.log(global.queryLoadData);
 				return global.queryLoadData;
 			}
 			// localstrage data get
