@@ -318,8 +318,8 @@ main
 		async generateDataURL() {
 			var sd = getSaveData();
 			var q = compressStr(JSON.stringify(sd));
-			var l = `${window.location.origin.toString()}?data=${q}`;
-			var shorten = await generateShortenURL(l.replace("localhost", "test.com"));
+			var l = `http://example.com/?data=${q}`;
+			var shorten = await generateShortenURL(l);
 			
 			history.replaceState(null, null, `?hash=${shorten.data.hash}`)
 			var f = execCopy(window.location);
