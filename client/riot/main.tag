@@ -23,7 +23,7 @@ main
 			| :{countNC}
 		input#viewOnlyMode(type="checkbox" onclick='{ toggleViewOnlyMode }' checked='{ this.URLReadOnly }' disabled='{ this.URLReadOnly }')
 		label(for="viewOnlyMode") 閲覧用モード
-		button#sharedData(class='{ hidden: this.URLReadOnly }' onclick='{ generateDataURL }') URL生成
+		//-button#sharedData(class='{ hidden: this.URLReadOnly }' onclick='{ generateDataURL }') URL生成
 
 	div.songLists(class='{wideView: viewOnly}')
 		div.song(each='{s in allSongNameList}' class='type_{s.type}' data-disp='{s.dispValue}' data-index='{s.index}' onclick='{ showEditForm.bind(this, s) }')
@@ -74,8 +74,6 @@ main
 	// Script
 	script.
 		var $ = require("jquery");
-		var zlib = require("zlib");
-		var queryString = require("query-string");
 		
 		// re-lendering
 		var lenderingUpdate = (savedData, sortType) => {
@@ -181,27 +179,6 @@ main
 			// songlist get
 			global.allSongList = require("../data/songdata.json");
 			var savedData = getSaveData();
-			
-			// if contain query
-			var parsed = queryString.parse(location.search);
-			if(parsed){
-				if(parsed.hash){
-					var long = await extractLongURL(parsed.hash);
-					if(!long || !long.data.expand[0]){
-						alert("parse error.");
-						return;
-					}
-					var long_url = long.data.expand[0].long_url;
-					var reg = /http.*\?data=(.+)/
-					parsed.data = long_url.match(reg)[1];
-				}
-				if(parsed.data){
-					// set readonly mode
-					this.URLReadOnly = true;
-					this.viewOnly = true;
-					global.queryLoadData = savedData = JSON.parse(decompressStr(parsed.data)) || [];
-				}
-			}
 			
 			// Update
 			lenderingUpdate(savedData, this.URLReadOnly ? 4 : 0);
@@ -315,17 +292,6 @@ main
 			}
 		}
 		
-		async generateDataURL() {
-			var sd = getSaveData();
-			var q = compressStr(JSON.stringify(sd));
-			var l = `http://example.com/?data=${q}`;
-			var shorten = await generateShortenURL(l);
-			
-			history.replaceState(null, null, `?hash=${shorten.data.hash}`)
-			var f = execCopy(window.location);
-			alert(`URLを生成しました。${f ? "\nURLはクリップボードにコピーされています。" : ""}`);
-		}
-		
 		// get localstrage saved score
 		function getSaveData() {
 			// if readonly mode
@@ -371,50 +337,4 @@ main
 			return sd.indexOf(elm);
 		}
 		
-		
-		// compress/decompress
-		function compressStr(str){
-			var cms = zlib.gzipSync(str);
-			return encodeURIComponent( new Buffer(cms).toString("base64") );
-		}
-		function decompressStr(str){
-			var b64s = new Buffer(decodeURIComponent(str), "base64");
-			return zlib.unzipSync(b64s);
-		}
-		
-		// create shorten URL
-		async function generateShortenURL(base_url){
-			var url = `https://api-ssl.bitly.com/v3/shorten?access_token=${process.env.BITLY_ACCESS_TOKEN}&longUrl=${base_url}`;
-			return await $.ajax({
-				url,
-				dataType: "jsonp",
-			});
-		}
-		
-		// extract shorten hash to Long url
-		async function extractLongURL(hash){
-			var url = `https://api-ssl.bitly.com/v3/expand?access_token=${process.env.BITLY_ACCESS_TOKEN}&hash=${hash}`;
-			return await $.ajax({
-				url,
-				dataType: "jsonp",
-			});
-		}
-		
-		
-		function execCopy(string){
-			var temp = document.createElement('div');
-			temp.appendChild(document.createElement('pre')).textContent = string;
-			
-			var s = temp.style;
-			s.position = 'fixed';
-			s.left = '-100%';
-			
-			document.body.appendChild(temp);
-			document.getSelection().selectAllChildren(temp);
-			
-			var result = document.execCommand('copy');
-			document.body.removeChild(temp);
-			// true なら実行できている falseなら失敗か対応していないか
-			return result;
-		}
 		
