@@ -357,7 +357,7 @@ main
 				alert(`URL生成に失敗しました…… [${shorten.status_txt}]`);
 			}
 			//history.replaceState(null, null, `?hash=${shorten.data.hash}`)
-			var url = `${window.location.origin}${window.location.pathname}/?hash=${shorten.data.hash}`;
+			var url = `${window.location.origin}${window.location.pathname}?hash=${shorten.data.hash}`;
 			var shared = `バンドリのクリア状況を共有！ (AP:${this.countAP}/FC:${this.countFC}/CL:${this.countCL}/NC:${this.countNC})`;
 			
 			// openDialog
