@@ -1,11 +1,11 @@
 main
 	header
-		a#title(href="/" title="BanG-Dream Clear Manager") BGDCM
+		a#title(href="/BanGDreamClearManager/" title="BanG-Dream Clear Manager") BGDCM
 		span(class='{ active: sortType == 0 }' onclick='{ sortClick.bind(this, 0) }') ▼標準
 		span(class='{ active: sortType == 1 }' onclick='{ sortClick.bind(this, 1) }') ▼レベル順
 		span(class='{ active: sortType == 4 }' onclick='{ sortClick.bind(this, 4) }') ▼クリア状況順
 		span(class='{ active: sortType == 2 }' onclick='{ sortClick.bind(this, 2) }') ▼Gr数順
-		span(class='{ active: sortType == 3 }' onclick='{ sortClick.bind(this, 3) }') ▼Notes数順
+		span(class='{ active: sortType == 5 }' onclick='{ sortClick.bind(this, 5) }') ▼バンド順
 		select#targetDifficults(onchange='{ sortClick }')
 			option(data-index=0, value="Easy") Easy
 			option(data-index=1, value="Normal") Normal
@@ -26,7 +26,7 @@ main
 		button#sharedData(class='{ hidden: this.URLReadOnly }' onclick='{ generateDataURL }') URL生成
 
 	div.songLists(class='{wideView: viewOnly}')
-		div.song(each='{s in allSongNameList}' class='type_{s.type}' data-disp='{s.dispValue}' data-index='{s.index}' onclick='{ showEditForm.bind(this, s) }')
+		div.song(each='{s in allSongNameList}' class='type_{s.type} band_{s.bandtype}' data-disp='{s.dispValue}' data-index='{s.index}' onclick='{ showEditForm.bind(this, s) }')
 			div.name {s.name}
 			div.difficults(if='{s.diffs}')
 				div.diff(each='{d in s.diffs}' class='diff_{d.diff} clearState_{d.clearState}')
@@ -91,6 +91,7 @@ main
 						type: e.type,
 						seldiff: {
 							explevel: e.level,
+							bandtype: e.bandtype,
 							totalnotes: e.totalnotes,
 							clearState: sd.clearState || 0,
 							perfect:	sd.perfect >= 0 ? sd.perfect	: "---",
@@ -126,8 +127,6 @@ main
 				});
 			// dispValue Set
 			allSongNameList.forEach(e => {
-				if(!sortType){ e.dispValue = "" }
-				if(sortType == 1){ e.dispValue = e.seldiff.explevel }
 				if(sortType == 2){
 					if(e.seldiff.grCount > e.seldiff.totalnotes){
 						e.dispValue = "---";
@@ -139,19 +138,21 @@ main
 						e.dispValue = e.seldiff.grCount;
 					}
 				}
-				if(sortType == 3){ e.dispValue = e.seldiff.totalnotes }
-				if(sortType == 4) {
+				else if(sortType == 3){ e.dispValue = e.seldiff.totalnotes }
+				else if(sortType == 4) {
 					var d = ["NC", "CL", "FC", "AP"];
 					e.dispValue = d[e.seldiff.clearState || 0];
+				}
+				else if (sortType == 5) {
+					e.dispValue = e.seldiff.explevel
+					e.bandtype = e.seldiff.bandtype
+				}
+				else {
+					e.dispValue = e.seldiff.explevel
 				}
 			});
 			
 			allSongNameList.sort((a,b) => {
-				if(sortType == 1){
-					// 降順
-					if (a.seldiff.explevel < b.seldiff.explevel) return +1;
-					if (a.seldiff.explevel > b.seldiff.explevel) return -1;
-				}
 				if(sortType == 2){
 					// 昇順 ただしAPはNCの手前に表示
 					var ac = a.seldiff.grCount || 8888;
@@ -168,6 +169,16 @@ main
 					// 降順
 					if (a.seldiff.clearState < b.seldiff.clearState) return +1;
 					if (a.seldiff.clearState > b.seldiff.clearState) return -1;
+				}
+				if (sortType == 5) {
+					// 昇順
+					if (a.bandtype < b.bandtype) return -1;
+					if (a.bandtype > b.bandtype) return +1;
+				}
+				if (sortType >= 1) {
+					// 降順
+					if (a.seldiff.explevel < b.seldiff.explevel) return +1;
+					if (a.seldiff.explevel > b.seldiff.explevel) return -1;
 				}
 				if(a.default_index > b.default_index) return 1;
 				if(a.default_index < b.default_index) return -1;
