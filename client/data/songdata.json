@@ -1,5 +1,7 @@
 [
 	{
+		"id": 1,
+		"default": 1,
 		"name": "ときめきエクスペリエンス！",
 		"type": "Original",
 		"difficult": "Easy",
@@ -7,6 +9,8 @@
 		"totalnotes": 130
 	},
 	{
+		"id": 2,
+		"default": 2,
 		"name": "ときめきエクスペリエンス！",
 		"type": "Original",
 		"difficult": "Normal",
@@ -14,6 +18,8 @@
 		"totalnotes": 231
 	},
 	{
+		"id": 3,
+		"default": 3,
 		"name": "ときめきエクスペリエンス！",
 		"type": "Original",
 		"difficult": "Hard",
@@ -21,6 +27,8 @@
 		"totalnotes": 292
 	},
 	{
+		"id": 4,
+		"default": 4,
 		"name": "ときめきエクスペリエンス！",
 		"type": "Original",
 		"difficult": "Expert",
@@ -28,6 +36,8 @@
 		"totalnotes": 508
 	},
 	{
+		"id": 5,
+		"default": 5,
 		"name": "キラキラだとか夢だとか～Sing Girls～",
 		"type": "Original",
 		"difficult": "Easy",
@@ -35,6 +45,8 @@
 		"totalnotes": 152
 	},
 	{
+		"id": 6,
+		"default": 6,
 		"name": "キラキラだとか夢だとか～Sing Girls～",
 		"type": "Original",
 		"difficult": "Normal",
@@ -42,6 +54,8 @@
 		"totalnotes": 296
 	},
 	{
+		"id": 7,
+		"default": 7,
 		"name": "キラキラだとか夢だとか～Sing Girls～",
 		"type": "Original",
 		"difficult": "Hard",
@@ -49,6 +63,8 @@
 		"totalnotes": 363
 	},
 	{
+		"id": 8,
+		"default": 8,
 		"name": "キラキラだとか夢だとか～Sing Girls～",
 		"type": "Original",
 		"difficult": "Expert",
@@ -56,6 +72,8 @@
 		"totalnotes": 613
 	},
 	{
+		"id": 9,
+		"default": 9,
 		"name": "Yes！BanG_Dream！",
 		"type": "Original",
 		"difficult": "Easy",
@@ -63,6 +81,8 @@
 		"totalnotes": 63
 	},
 	{
+		"id": 10,
+		"default": 10,
 		"name": "Yes！BanG_Dream！",
 		"type": "Original",
 		"difficult": "Normal",
@@ -70,6 +90,8 @@
 		"totalnotes": 153
 	},
 	{
+		"id": 11,
+		"default": 11,
 		"name": "Yes！BanG_Dream！",
 		"type": "Original",
 		"difficult": "Hard",
@@ -77,6 +99,8 @@
 		"totalnotes": 336
 	},
 	{
+		"id": 12,
+		"default": 12,
 		"name": "Yes！BanG_Dream！",
 		"type": "Original",
 		"difficult": "Expert",
@@ -84,6 +108,8 @@
 		"totalnotes": 459
 	},
 	{
+		"id": 13,
+		"default": 13,
 		"name": "ティアドロップス",
 		"type": "Original",
 		"difficult": "Easy",
@@ -91,6 +117,8 @@
 		"totalnotes": 158
 	},
 	{
+		"id": 14,
+		"default": 14,
 		"name": "ティアドロップス",
 		"type": "Original",
 		"difficult": "Normal",
@@ -98,6 +126,8 @@
 		"totalnotes": 288
 	},
 	{
+		"id": 15,
+		"default": 15,
 		"name": "ティアドロップス",
 		"type": "Original",
 		"difficult": "Hard",
@@ -105,6 +135,8 @@
 		"totalnotes": 450
 	},
 	{
+		"id": 16,
+		"default": 16,
 		"name": "ティアドロップス",
 		"type": "Original",
 		"difficult": "Expert",
@@ -112,6 +144,8 @@
 		"totalnotes": 774
 	},
 	{
+		"id": 17,
+		"default": 17,
 		"name": "ぽっぴん’しゃっふる",
 		"type": "Original",
 		"difficult": "Easy",
@@ -119,6 +153,8 @@
 		"totalnotes": 124
 	},
 	{
+		"id": 18,
+		"default": 18,
 		"name": "ぽっぴん’しゃっふる",
 		"type": "Original",
 		"difficult": "Normal",
@@ -126,6 +162,8 @@
 		"totalnotes": 207
 	},
 	{
+		"id": 19,
+		"default": 19,
 		"name": "ぽっぴん’しゃっふる",
 		"type": "Original",
 		"difficult": "Hard",
@@ -133,6 +171,8 @@
 		"totalnotes": 443
 	},
 	{
+		"id": 20,
+		"default": 20,
 		"name": "ぽっぴん’しゃっふる",
 		"type": "Original",
 		"difficult": "Expert",
@@ -140,6 +180,8 @@
 		"totalnotes": 651
 	},
 	{
+		"id": 21,
+		"default": 21,
 		"name": "STAR BEAT！～ホシノコドウ～",
 		"type": "Original",
 		"difficult": "Easy",
@@ -147,6 +189,8 @@
 		"totalnotes": 106
 	},
 	{
+		"id": 22,
+		"default": 22,
 		"name": "STAR BEAT！～ホシノコドウ～",
 		"type": "Original",
 		"difficult": "Normal",
@@ -154,6 +198,8 @@
 		"totalnotes": 203
 	},
 	{
+		"id": 23,
+		"default": 23,
 		"name": "STAR BEAT！～ホシノコドウ～",
 		"type": "Original",
 		"difficult": "Hard",
@@ -161,6 +207,8 @@
 		"totalnotes": 437
 	},
 	{
+		"id": 24,
+		"default": 24,
 		"name": "STAR BEAT！～ホシノコドウ～",
 		"type": "Original",
 		"difficult": "Expert",
@@ -168,6 +216,8 @@
 		"totalnotes": 642
 	},
 	{
+		"id": 25,
+		"default": 25,
 		"name": "夏空SUN！SUN！SEVEN！",
 		"type": "Original",
 		"difficult": "Easy",
@@ -175,6 +225,8 @@
 		"totalnotes": 152
 	},
 	{
+		"id": 26,
+		"default": 26,
 		"name": "夏空SUN！SUN！SEVEN！",
 		"type": "Original",
 		"difficult": "Normal",
@@ -182,6 +234,8 @@
 		"totalnotes": 231
 	},
 	{
+		"id": 27,
+		"default": 27,
 		"name": "夏空SUN！SUN！SEVEN！",
 		"type": "Original",
 		"difficult": "Hard",
@@ -189,6 +243,8 @@
 		"totalnotes": 521
 	},
 	{
+		"id": 28,
+		"default": 28,
 		"name": "夏空SUN！SUN！SEVEN！",
 		"type": "Original",
 		"difficult": "Expert",
@@ -196,6 +252,8 @@
 		"totalnotes": 750
 	},
 	{
+		"id": 29,
+		"default": 29,
 		"name": "走り始めたばかりのキミに",
 		"type": "Original",
 		"difficult": "Easy",
@@ -203,6 +261,8 @@
 		"totalnotes": 89
 	},
 	{
+		"id": 30,
+		"default": 30,
 		"name": "走り始めたばかりのキミに",
 		"type": "Original",
 		"difficult": "Normal",
@@ -210,6 +270,8 @@
 		"totalnotes": 205
 	},
 	{
+		"id": 31,
+		"default": 31,
 		"name": "走り始めたばかりのキミに",
 		"type": "Original",
 		"difficult": "Hard",
@@ -217,6 +279,8 @@
 		"totalnotes": 341
 	},
 	{
+		"id": 32,
+		"default": 32,
 		"name": "走り始めたばかりのキミに",
 		"type": "Original",
 		"difficult": "Expert",
@@ -224,6 +288,8 @@
 		"totalnotes": 531
 	},
 	{
+		"id": 33,
+		"default": 33,
 		"name": "1000回潤んだ空",
 		"type": "Original",
 		"difficult": "Easy",
@@ -231,6 +297,8 @@
 		"totalnotes": 105
 	},
 	{
+		"id": 34,
+		"default": 34,
 		"name": "1000回潤んだ空",
 		"type": "Original",
 		"difficult": "Normal",
@@ -238,6 +306,8 @@
 		"totalnotes": 220
 	},
 	{
+		"id": 35,
+		"default": 35,
 		"name": "1000回潤んだ空",
 		"type": "Original",
 		"difficult": "Hard",
@@ -245,6 +315,8 @@
 		"totalnotes": 459
 	},
 	{
+		"id": 36,
+		"default": 36,
 		"name": "1000回潤んだ空",
 		"type": "Original",
 		"difficult": "Expert",
@@ -252,398 +324,8 @@
 		"totalnotes": 868
 	},
 	{
-		"name": "前へススメ！",
-		"type": "Original",
-		"difficult": "Easy",
-		"level": 6,
-		"totalnotes": 105
-	},
-	{
-		"name": "前へススメ！",
-		"type": "Original",
-		"difficult": "Normal",
-		"level": 13,
-		"totalnotes": 249
-	},
-	{
-		"name": "前へススメ！",
-		"type": "Original",
-		"difficult": "Hard",
-		"level": 18,
-		"totalnotes": 471
-	},
-	{
-		"name": "前へススメ！",
-		"type": "Original",
-		"difficult": "Expert",
-		"level": 26,
-		"totalnotes": 723
-	},
-	{
-		"name": "夢見るSunflower",
-		"type": "Original",
-		"difficult": "Easy",
-		"level": 7,
-		"totalnotes": 152
-	},
-	{
-		"name": "夢見るSunflower",
-		"type": "Original",
-		"difficult": "Normal",
-		"level": 13,
-		"totalnotes": 231
-	},
-	{
-		"name": "夢見るSunflower",
-		"type": "Original",
-		"difficult": "Hard",
-		"level": 17,
-		"totalnotes": 434
-	},
-	{
-		"name": "夢見るSunflower",
-		"type": "Original",
-		"difficult": "Expert",
-		"level": 25,
-		"totalnotes": 628
-	},
-	{
-		"name": "キミにもらったもの",
-		"type": "Original",
-		"difficult": "Easy",
-		"level": 6,
-		"totalnotes": 69
-	},
-	{
-		"name": "キミにもらったもの",
-		"type": "Original",
-		"difficult": "Normal",
-		"level": 13,
-		"totalnotes": 169
-	},
-	{
-		"name": "キミにもらったもの",
-		"type": "Original",
-		"difficult": "Hard",
-		"level": 16,
-		"totalnotes": 279
-	},
-	{
-		"name": "キミにもらったもの",
-		"type": "Original",
-		"difficult": "Expert",
-		"level": 21,
-		"totalnotes": 371
-	},
-	{
-		"name": "八月のif",
-		"type": "Original",
-		"difficult": "Easy",
-		"level": 7,
-		"totalnotes": 142
-	},
-	{
-		"name": "八月のif",
-		"type": "Original",
-		"difficult": "Normal",
-		"level": 13,
-		"totalnotes": 268
-	},
-	{
-		"name": "八月のif",
-		"type": "Original",
-		"difficult": "Hard",
-		"level": 17,
-		"totalnotes": 444
-	},
-	{
-		"name": "八月のif",
-		"type": "Original",
-		"difficult": "Expert",
-		"level": 24,
-		"totalnotes": 609
-	},
-	{
-		"name": "Time Lapse",
-		"type": "Original",
-		"difficult": "Easy",
-		"level": 9,
-		"totalnotes": 148
-	},
-	{
-		"name": "Time Lapse",
-		"type": "Original",
-		"difficult": "Normal",
-		"level": 15,
-		"totalnotes": 252
-	},
-	{
-		"name": "Time Lapse",
-		"type": "Original",
-		"difficult": "Hard",
-		"level": 19,
-		"totalnotes": 563
-	},
-	{
-		"name": "Time Lapse",
-		"type": "Original",
-		"difficult": "Expert",
-		"level": 26,
-		"totalnotes": 728
-	},
-	{
-		"name": "クリスマスのうた",
-		"type": "Original",
-		"difficult": "Easy",
-		"level": 8,
-		"totalnotes": 147
-	},
-	{
-		"name": "クリスマスのうた",
-		"type": "Original",
-		"difficult": "Normal",
-		"level": 13,
-		"totalnotes": 239
-	},
-	{
-		"name": "クリスマスのうた",
-		"type": "Original",
-		"difficult": "Hard",
-		"level": 18,
-		"totalnotes": 471
-	},
-	{
-		"name": "クリスマスのうた",
-		"type": "Original",
-		"difficult": "Expert",
-		"level": 25,
-		"totalnotes": 683
-	},
-	{
-		"name": "B.O.F",
-		"type": "Original",
-		"difficult": "Easy",
-		"level": 6,
-		"totalnotes": 108
-	},
-	{
-		"name": "B.O.F",
-		"type": "Original",
-		"difficult": "Normal",
-		"level": 12,
-		"totalnotes": 175
-	},
-	{
-		"name": "B.O.F",
-		"type": "Original",
-		"difficult": "Hard",
-		"level": 18,
-		"totalnotes": 413
-	},
-	{
-		"name": "B.O.F",
-		"type": "Original",
-		"difficult": "Expert",
-		"level": 25,
-		"totalnotes": 612
-	},
-	{
-		"name": "CiRCLING",
-		"type": "Original",
-		"difficult": "Easy",
-		"level": 8,
-		"totalnotes": 170
-	},
-	{
-		"name": "CiRCLING",
-		"type": "Original",
-		"difficult": "Normal",
-		"level": 14,
-		"totalnotes": 324
-	},
-	{
-		"name": "CiRCLING",
-		"type": "Original",
-		"difficult": "Hard",
-		"level": 18,
-		"totalnotes": 569
-	},
-	{
-		"name": "CiRCLING",
-		"type": "Original",
-		"difficult": "Expert",
-		"level": 25,
-		"totalnotes": 823
-	},
-	{
-		"name": "Light Delight",
-		"type": "Original",
-		"difficult": "Easy",
-		"level": 9,
-		"totalnotes": 159
-	},
-	{
-		"name": "Light Delight",
-		"type": "Original",
-		"difficult": "Normal",
-		"level": 14,
-		"totalnotes": 286
-	},
-	{
-		"name": "Light Delight",
-		"type": "Original",
-		"difficult": "Hard",
-		"level": 20,
-		"totalnotes": 491
-	},
-	{
-		"name": "Light Delight",
-		"type": "Original",
-		"difficult": "Expert",
-		"level": 26,
-		"totalnotes": 750
-	},
-	{
-		"name": "私の心はチョココロネ",
-		"type": "Original",
-		"difficult": "Easy",
-		"level": 9,
-		"totalnotes": 139
-	},
-	{
-		"name": "私の心はチョココロネ",
-		"type": "Original",
-		"difficult": "Normal",
-		"level": 13,
-		"totalnotes": 232
-	},
-	{
-		"name": "私の心はチョココロネ",
-		"type": "Original",
-		"difficult": "Hard",
-		"level": 16,
-		"totalnotes": 381
-	},
-	{
-		"name": "私の心はチョココロネ",
-		"type": "Original",
-		"difficult": "Expert",
-		"level": 22,
-		"totalnotes": 482
-	},
-	{
-		"name": "二重の虹(ダブル レインボウ)",
-		"type": "Original",
-		"difficult": "Easy",
-		"level": 9,
-		"totalnotes": 141
-	},
-	{
-		"name": "二重の虹(ダブル レインボウ)",
-		"type": "Original",
-		"difficult": "Normal",
-		"level": 14,
-		"totalnotes": 276
-	},
-	{
-		"name": "二重の虹(ダブル レインボウ)",
-		"type": "Original",
-		"difficult": "Hard",
-		"level": 18,
-		"totalnotes": 477
-	},
-	{
-		"name": "二重の虹(ダブル レインボウ)",
-		"type": "Original",
-		"difficult": "Expert",
-		"level": 25,
-		"totalnotes": 623
-	},
-	{
-		"name": "最高(さあ行こう)！",
-		"type": "Original",
-		"difficult": "Easy",
-		"level": 10,
-		"totalnotes": 196
-	},
-	{
-		"name": "最高(さあ行こう)！",
-		"type": "Original",
-		"difficult": "Normal",
-		"level": 14,
-		"totalnotes": 304
-	},
-	{
-		"name": "最高(さあ行こう)！",
-		"type": "Original",
-		"difficult": "Hard",
-		"level": 20,
-		"totalnotes": 506
-	},
-	{
-		"name": "最高(さあ行こう)！",
-		"type": "Original",
-		"difficult": "Expert",
-		"level": 26,
-		"totalnotes": 666
-	},
-	{
-		"name": "ガールズコード",
-		"type": "Original",
-		"difficult": "Easy",
-		"level": 7,
-		"totalnotes": 148
-	},
-	{
-		"name": "ガールズコード",
-		"type": "Original",
-		"difficult": "Normal",
-		"level": 13,
-		"totalnotes": 255
-	},
-	{
-		"name": "ガールズコード",
-		"type": "Original",
-		"difficult": "Hard",
-		"level": 17,
-		"totalnotes": 388
-	},
-	{
-		"name": "ガールズコード",
-		"type": "Original",
-		"difficult": "Expert",
-		"level": 24,
-		"totalnotes": 638
-	},
-	{
-		"name": "Don't be afraid！",
-		"type": "Original",
-		"difficult": "Easy",
-		"level": 6,
-		"totalnotes": 75
-	},
-	{
-		"name": "Don't be afraid！",
-		"type": "Original",
-		"difficult": "Normal",
-		"level": 12,
-		"totalnotes": 192
-	},
-	{
-		"name": "Don't be afraid！",
-		"type": "Original",
-		"difficult": "Hard",
-		"level": 16,
-		"totalnotes": 469
-	},
-	{
-		"name": "Don't be afraid！",
-		"type": "Original",
-		"difficult": "Expert",
-		"level": 25,
-		"totalnotes": 661
-	},
-	{
+		"id": 37,
+		"default": 93,
 		"name": "Happy Happy Party！",
 		"type": "Original",
 		"difficult": "Easy",
@@ -651,6 +333,8 @@
 		"totalnotes": 73
 	},
 	{
+		"id": 38,
+		"default": 94,
 		"name": "Happy Happy Party！",
 		"type": "Original",
 		"difficult": "Normal",
@@ -658,6 +342,8 @@
 		"totalnotes": 255
 	},
 	{
+		"id": 39,
+		"default": 95,
 		"name": "Happy Happy Party！",
 		"type": "Original",
 		"difficult": "Hard",
@@ -665,6 +351,8 @@
 		"totalnotes": 425
 	},
 	{
+		"id": 40,
+		"default": 96,
 		"name": "Happy Happy Party！",
 		"type": "Original",
 		"difficult": "Expert",
@@ -672,174 +360,8 @@
 		"totalnotes": 549
 	},
 	{
-		"name": "夏のドーン！",
-		"type": "Original",
-		"difficult": "Easy",
-		"level": 8,
-		"totalnotes": 145
-	},
-	{
-		"name": "夏のドーン！",
-		"type": "Original",
-		"difficult": "Normal",
-		"level": 14,
-		"totalnotes": 273
-	},
-	{
-		"name": "夏のドーン！",
-		"type": "Original",
-		"difficult": "Hard",
-		"level": 17,
-		"totalnotes": 406
-	},
-	{
-		"name": "夏のドーン！",
-		"type": "Original",
-		"difficult": "Expert",
-		"level": 24,
-		"totalnotes": 594
-	},
-	{
-		"name": "どきどきSING OUT！",
-		"type": "Original",
-		"difficult": "Easy",
-		"level": 8,
-		"totalnotes": 133
-	},
-	{
-		"name": "どきどきSING OUT！",
-		"type": "Original",
-		"difficult": "Normal",
-		"level": 14,
-		"totalnotes": 265
-	},
-	{
-		"name": "どきどきSING OUT！",
-		"type": "Original",
-		"difficult": "Hard",
-		"level": 18,
-		"totalnotes": 498
-	},
-	{
-		"name": "どきどきSING OUT！",
-		"type": "Original",
-		"difficult": "Expert",
-		"level": 24,
-		"totalnotes": 605
-	},
-	{
-		"name": "花園電気ギター！！！",
-		"type": "Original",
-		"difficult": "Easy",
-		"level": 10,
-		"totalnotes": 142
-	},
-	{
-		"name": "花園電気ギター！！！",
-		"type": "Original",
-		"difficult": "Normal",
-		"level": 14,
-		"totalnotes": 250
-	},
-	{
-		"name": "花園電気ギター！！！",
-		"type": "Original",
-		"difficult": "Hard",
-		"level": 18,
-		"totalnotes": 463
-	},
-	{
-		"name": "花園電気ギター！！！",
-		"type": "Original",
-		"difficult": "Expert",
-		"level": 26,
-		"totalnotes": 718
-	},
-	{
-		"name": "チョコレイトの低音レシピ",
-		"type": "Original",
-		"difficult": "Easy",
-		"level": 6,
-		"totalnotes": 114
-	},
-	{
-		"name": "チョコレイトの低音レシピ",
-		"type": "Original",
-		"difficult": "Normal",
-		"level": 13,
-		"totalnotes": 239
-	},
-	{
-		"name": "チョコレイトの低音レシピ",
-		"type": "Original",
-		"difficult": "Hard",
-		"level": 17,
-		"totalnotes": 505
-	},
-	{
-		"name": "チョコレイトの低音レシピ",
-		"type": "Original",
-		"difficult": "Expert",
-		"level": 25,
-		"totalnotes": 670
-	},
-	{
-		"name": "遠い音楽 ～ハートビート～",
-		"type": "Original",
-		"difficult": "Easy",
-		"level": 7,
-		"totalnotes": 116
-	},
-	{
-		"name": "遠い音楽 ～ハートビート～",
-		"type": "Original",
-		"difficult": "Normal",
-		"level": 13,
-		"totalnotes": 272
-	},
-	{
-		"name": "遠い音楽 ～ハートビート～",
-		"type": "Original",
-		"difficult": "Hard",
-		"level": 18,
-		"totalnotes": 507
-	},
-	{
-		"name": "遠い音楽 ～ハートビート～",
-		"type": "Original",
-		"difficult": "Expert",
-		"level": 25,
-		"totalnotes": 687
-	},
-	{
-		"name": "す、好きなんかじゃない！",
-		"type": "Original",
-		"difficult": "Easy",
-		"level": 8,
-		"totalnotes": 133
-	},
-	{
-		"name": "す、好きなんかじゃない！",
-		"type": "Original",
-		"difficult": "Normal",
-		"level": 13,
-		"totalnotes": 202
-	},
-	{
-		"name": "す、好きなんかじゃない！",
-		"type": "Original",
-		"difficult": "Hard",
-		"level": 17,
-		"totalnotes": 397
-	},
-	{
-		"name": "す、好きなんかじゃない！",
-		"type": "Original",
-		"difficult": "Expert",
-		"level": 25,
-		"totalnotes": 606
-	},
-	{
+		"id": 41,
+		"default": 121,
 		"name": "That Is How I Roll",
 		"type": "Original",
 		"difficult": "Easy",
@@ -847,6 +369,8 @@
 		"totalnotes": 99
 	},
 	{
+		"id": 42,
+		"default": 122,
 		"name": "That Is How I Roll",
 		"type": "Original",
 		"difficult": "Normal",
@@ -854,6 +378,8 @@
 		"totalnotes": 224
 	},
 	{
+		"id": 43,
+		"default": 123,
 		"name": "That Is How I Roll",
 		"type": "Original",
 		"difficult": "Hard",
@@ -861,6 +387,8 @@
 		"totalnotes": 315
 	},
 	{
+		"id": 44,
+		"default": 124,
 		"name": "That Is How I Roll",
 		"type": "Original",
 		"difficult": "Expert",
@@ -868,6 +396,8 @@
 		"totalnotes": 547
 	},
 	{
+		"id": 45,
+		"default": 125,
 		"name": "True color",
 		"type": "Original",
 		"difficult": "Easy",
@@ -875,6 +405,8 @@
 		"totalnotes": 112
 	},
 	{
+		"id": 46,
+		"default": 126,
 		"name": "True color",
 		"type": "Original",
 		"difficult": "Normal",
@@ -882,6 +414,8 @@
 		"totalnotes": 240
 	},
 	{
+		"id": 47,
+		"default": 127,
 		"name": "True color",
 		"type": "Original",
 		"difficult": "Hard",
@@ -889,6 +423,8 @@
 		"totalnotes": 370
 	},
 	{
+		"id": 48,
+		"default": 128,
 		"name": "True color",
 		"type": "Original",
 		"difficult": "Expert",
@@ -896,174 +432,8 @@
 		"totalnotes": 574
 	},
 	{
-		"name": "Scarlet Sky",
-		"type": "Original",
-		"difficult": "Easy",
-		"level": 6,
-		"totalnotes": 77
-	},
-	{
-		"name": "Scarlet Sky",
-		"type": "Original",
-		"difficult": "Normal",
-		"level": 12,
-		"totalnotes": 160
-	},
-	{
-		"name": "Scarlet Sky",
-		"type": "Original",
-		"difficult": "Hard",
-		"level": 17,
-		"totalnotes": 433
-	},
-	{
-		"name": "Scarlet Sky",
-		"type": "Original",
-		"difficult": "Expert",
-		"level": 26,
-		"totalnotes": 695
-	},
-	{
-		"name": "Hey-day狂騒曲(カプリチオ)",
-		"type": "Original",
-		"difficult": "Easy",
-		"level": 10,
-		"totalnotes": 184
-	},
-	{
-		"name": "Hey-day狂騒曲(カプリチオ)",
-		"type": "Original",
-		"difficult": "Normal",
-		"level": 15,
-		"totalnotes": 314
-	},
-	{
-		"name": "Hey-day狂騒曲(カプリチオ)",
-		"type": "Original",
-		"difficult": "Hard",
-		"level": 20,
-		"totalnotes": 542
-	},
-	{
-		"name": "Hey-day狂騒曲(カプリチオ)",
-		"type": "Original",
-		"difficult": "Expert",
-		"level": 28,
-		"totalnotes": 878
-	},
-	{
-		"name": "Y.O.L.O!!!!!",
-		"type": "Original",
-		"difficult": "Easy",
-		"level": 8,
-		"totalnotes": 162
-	},
-	{
-		"name": "Y.O.L.O!!!!!",
-		"type": "Original",
-		"difficult": "Normal",
-		"level": 14,
-		"totalnotes": 298
-	},
-	{
-		"name": "Y.O.L.O!!!!!",
-		"type": "Original",
-		"difficult": "Hard",
-		"level": 19,
-		"totalnotes": 530
-	},
-	{
-		"name": "Y.O.L.O!!!!!",
-		"type": "Original",
-		"difficult": "Expert",
-		"level": 26,
-		"totalnotes": 768
-	},
-	{
-		"name": "Jamboree!Journey!",
-		"type": "Original",
-		"difficult": "Easy",
-		"level": 7,
-		"totalnotes": 121
-	},
-	{
-		"name": "Jamboree!Journey!",
-		"type": "Original",
-		"difficult": "Normal",
-		"level": 13,
-		"totalnotes": 248
-	},
-	{
-		"name": "Jamboree!Journey!",
-		"type": "Original",
-		"difficult": "Hard",
-		"level": 18,
-		"totalnotes": 461
-	},
-	{
-		"name": "Jamboree!Journey!",
-		"type": "Original",
-		"difficult": "Expert",
-		"level": 25,
-		"totalnotes": 641
-	},
-	{
-		"name": "COMIC PANIC!!!",
-		"type": "Original",
-		"difficult": "Easy",
-		"level": 11,
-		"totalnotes": 215
-	},
-	{
-		"name": "COMIC PANIC!!!",
-		"type": "Original",
-		"difficult": "Normal",
-		"level": 15,
-		"totalnotes": 346
-	},
-	{
-		"name": "COMIC PANIC!!!",
-		"type": "Original",
-		"difficult": "Hard",
-		"level": 19,
-		"totalnotes": 523
-	},
-	{
-		"name": "COMIC PANIC!!!",
-		"type": "Original",
-		"difficult": "Expert",
-		"level": 26,
-		"totalnotes": 729
-	},
-	{
-		"name": "ツナグ、ソラモヨウ",
-		"type": "Original",
-		"difficult": "Easy",
-		"level": 9,
-		"totalnotes": 170
-	},
-	{
-		"name": "ツナグ、ソラモヨウ",
-		"type": "Original",
-		"difficult": "Normal",
-		"level": 14,
-		"totalnotes": 275
-	},
-	{
-		"name": "ツナグ、ソラモヨウ",
-		"type": "Original",
-		"difficult": "Hard",
-		"level": 18,
-		"totalnotes": 432
-	},
-	{
-		"name": "ツナグ、ソラモヨウ",
-		"type": "Original",
-		"difficult": "Expert",
-		"level": 26,
-		"totalnotes": 646
-	},
-	{
+		"id": 49,
+		"default": 153,
 		"name": "しゅわりん☆どり～みん",
 		"type": "Original",
 		"difficult": "Easy",
@@ -1071,6 +441,8 @@
 		"totalnotes": 79
 	},
 	{
+		"id": 50,
+		"default": 154,
 		"name": "しゅわりん☆どり～みん",
 		"type": "Original",
 		"difficult": "Normal",
@@ -1078,6 +450,8 @@
 		"totalnotes": 192
 	},
 	{
+		"id": 51,
+		"default": 155,
 		"name": "しゅわりん☆どり～みん",
 		"type": "Original",
 		"difficult": "Hard",
@@ -1085,6 +459,8 @@
 		"totalnotes": 348
 	},
 	{
+		"id": 52,
+		"default": 156,
 		"name": "しゅわりん☆どり～みん",
 		"type": "Original",
 		"difficult": "Expert",
@@ -1092,6 +468,8 @@
 		"totalnotes": 520
 	},
 	{
+		"id": 53,
+		"default": 157,
 		"name": "パスパレボリューションず☆",
 		"type": "Original",
 		"difficult": "Easy",
@@ -1099,6 +477,8 @@
 		"totalnotes": 109
 	},
 	{
+		"id": 54,
+		"default": 158,
 		"name": "パスパレボリューションず☆",
 		"type": "Original",
 		"difficult": "Normal",
@@ -1106,6 +486,8 @@
 		"totalnotes": 216
 	},
 	{
+		"id": 55,
+		"default": 159,
 		"name": "パスパレボリューションず☆",
 		"type": "Original",
 		"difficult": "Hard",
@@ -1113,6 +495,8 @@
 		"totalnotes": 338
 	},
 	{
+		"id": 56,
+		"default": 160,
 		"name": "パスパレボリューションず☆",
 		"type": "Original",
 		"difficult": "Expert",
@@ -1120,202 +504,8 @@
 		"totalnotes": 511
 	},
 	{
-		"name": "はなまる◎アンダンテ",
-		"type": "Original",
-		"difficult": "Easy",
-		"level": 8,
-		"totalnotes": 174
-	},
-	{
-		"name": "はなまる◎アンダンテ",
-		"type": "Original",
-		"difficult": "Normal",
-		"level": 14,
-		"totalnotes": 246
-	},
-	{
-		"name": "はなまる◎アンダンテ",
-		"type": "Original",
-		"difficult": "Hard",
-		"level": 17,
-		"totalnotes": 363
-	},
-	{
-		"name": "はなまる◎アンダンテ",
-		"type": "Original",
-		"difficult": "Expert",
-		"level": 25,
-		"totalnotes": 607
-	},
-	{
-		"name": "ゆら・ゆらRing-Dong-Dance",
-		"type": "Original",
-		"difficult": "Easy",
-		"level": 9,
-		"totalnotes": 137
-	},
-	{
-		"name": "ゆら・ゆらRing-Dong-Dance",
-		"type": "Original",
-		"difficult": "Normal",
-		"level": 14,
-		"totalnotes": 260
-	},
-	{
-		"name": "ゆら・ゆらRing-Dong-Dance",
-		"type": "Original",
-		"difficult": "Hard",
-		"level": 18,
-		"totalnotes": 389
-	},
-	{
-		"name": "ゆら・ゆらRing-Dong-Dance",
-		"type": "Original",
-		"difficult": "Expert",
-		"level": 24,
-		"totalnotes": 546
-	},
-	{
-		"name": "SURVIVOR ねばーぎぶあっぷ！",
-		"type": "Original",
-		"difficult": "Easy",
-		"level": 10,
-		"totalnotes": 220
-	},
-	{
-		"name": "SURVIVOR ねばーぎぶあっぷ！",
-		"type": "Original",
-		"difficult": "Normal",
-		"level": 15,
-		"totalnotes": 343
-	},
-	{
-		"name": "SURVIVOR ねばーぎぶあっぷ！",
-		"type": "Original",
-		"difficult": "Hard",
-		"level": 20,
-		"totalnotes": 559
-	},
-	{
-		"name": "SURVIVOR ねばーぎぶあっぷ！",
-		"type": "Original",
-		"difficult": "Expert",
-		"level": 26,
-		"totalnotes": 868
-	},
-	{
-		"name": "Wonderland Girl",
-		"type": "Original",
-		"difficult": "Easy",
-		"level": 8,
-		"totalnotes": 168
-	},
-	{
-		"name": "Wonderland Girl",
-		"type": "Original",
-		"difficult": "Normal",
-		"level": 14,
-		"totalnotes": 365
-	},
-	{
-		"name": "Wonderland Girl",
-		"type": "Original",
-		"difficult": "Hard",
-		"level": 18,
-		"totalnotes": 461
-	},
-	{
-		"name": "Wonderland Girl",
-		"type": "Original",
-		"difficult": "Expert",
-		"level": 25,
-		"totalnotes": 625
-	},
-	{
-		"name": "天下トーイツ A to Z☆",
-		"type": "Original",
-		"difficult": "Easy",
-		"level": 8,
-		"totalnotes": 173
-	},
-	{
-		"name": "天下トーイツ A to Z☆",
-		"type": "Original",
-		"difficult": "Normal",
-		"level": 13,
-		"totalnotes": 247
-	},
-	{
-		"name": "天下トーイツ A to Z☆",
-		"type": "Original",
-		"difficult": "Hard",
-		"level": 20,
-		"totalnotes": 503
-	},
-	{
-		"name": "天下トーイツ A to Z☆",
-		"type": "Original",
-		"difficult": "Expert",
-		"level": 26,
-		"totalnotes": 713
-	},
-	{
-		"name": "もういちど ルミナス",
-		"type": "Original",
-		"difficult": "Easy",
-		"level": 6,
-		"totalnotes": 86
-	},
-	{
-		"name": "もういちど ルミナス",
-		"type": "Original",
-		"difficult": "Normal",
-		"level": 12,
-		"totalnotes": 168
-	},
-	{
-		"name": "もういちど ルミナス",
-		"type": "Original",
-		"difficult": "Hard",
-		"level": 17,
-		"totalnotes": 439
-	},
-	{
-		"name": "もういちど ルミナス",
-		"type": "Original",
-		"difficult": "Expert",
-		"level": 25,
-		"totalnotes": 660
-	},
-	{
-		"name": "ゼッタイ宣言～Recital～",
-		"type": "Original",
-		"difficult": "Easy",
-		"level": 10,
-		"totalnotes": 185
-	},
-	{
-		"name": "ゼッタイ宣言～Recital～",
-		"type": "Original",
-		"difficult": "Normal",
-		"level": 14,
-		"totalnotes": 279
-	},
-	{
-		"name": "ゼッタイ宣言～Recital～",
-		"type": "Original",
-		"difficult": "Hard",
-		"level": 20,
-		"totalnotes": 572
-	},
-	{
-		"name": "ゼッタイ宣言～Recital～",
-		"type": "Original",
-		"difficult": "Expert",
-		"level": 27,
-		"totalnotes": 921
-	},
-	{
+		"id": 57,
+		"default": 189,
 		"name": "BLACK SHOUT",
 		"type": "Original",
 		"difficult": "Easy",
@@ -1323,6 +513,8 @@
 		"totalnotes": 81
 	},
 	{
+		"id": 58,
+		"default": 190,
 		"name": "BLACK SHOUT",
 		"type": "Original",
 		"difficult": "Normal",
@@ -1330,6 +522,8 @@
 		"totalnotes": 214
 	},
 	{
+		"id": 59,
+		"default": 191,
 		"name": "BLACK SHOUT",
 		"type": "Original",
 		"difficult": "Hard",
@@ -1337,13 +531,8 @@
 		"totalnotes": 309
 	},
 	{
-		"name": "BLACK SHOUT",
-		"type": "Original",
-		"difficult": "Expert",
-		"level": 25,
-		"totalnotes": 506
-	},
-	{
+		"id": 60,
+		"default": 193,
 		"name": "BLACK SHOUT",
 		"type": "Original",
 		"difficult": "Special",
@@ -1351,6 +540,8 @@
 		"totalnotes": 575
 	},
 	{
+		"id": 61,
+		"default": 194,
 		"name": "Re:birth day",
 		"type": "Original",
 		"difficult": "Easy",
@@ -1358,6 +549,8 @@
 		"totalnotes": 101
 	},
 	{
+		"id": 62,
+		"default": 195,
 		"name": "Re:birth day",
 		"type": "Original",
 		"difficult": "Normal",
@@ -1365,6 +558,8 @@
 		"totalnotes": 177
 	},
 	{
+		"id": 63,
+		"default": 196,
 		"name": "Re:birth day",
 		"type": "Original",
 		"difficult": "Hard",
@@ -1372,6 +567,8 @@
 		"totalnotes": 514
 	},
 	{
+		"id": 64,
+		"default": 197,
 		"name": "Re:birth day",
 		"type": "Original",
 		"difficult": "Expert",
@@ -1379,342 +576,8 @@
 		"totalnotes": 848
 	},
 	{
-		"name": "LOUDER",
-		"type": "Original",
-		"difficult": "Easy",
-		"level": 7,
-		"totalnotes": 67
-	},
-	{
-		"name": "LOUDER",
-		"type": "Original",
-		"difficult": "Normal",
-		"level": 12,
-		"totalnotes": 180
-	},
-	{
-		"name": "LOUDER",
-		"type": "Original",
-		"difficult": "Hard",
-		"level": 19,
-		"totalnotes": 543
-	},
-	{
-		"name": "LOUDER",
-		"type": "Original",
-		"difficult": "Expert",
-		"level": 27,
-		"totalnotes": 828
-	},
-	{
-		"name": "陽だまりロードナイト",
-		"type": "Original",
-		"difficult": "Easy",
-		"level": 7,
-		"totalnotes": 99
-	},
-	{
-		"name": "陽だまりロードナイト",
-		"type": "Original",
-		"difficult": "Normal",
-		"level": 11,
-		"totalnotes": 188
-	},
-	{
-		"name": "陽だまりロードナイト",
-		"type": "Original",
-		"difficult": "Hard",
-		"level": 17,
-		"totalnotes": 413
-	},
-	{
-		"name": "陽だまりロードナイト",
-		"type": "Original",
-		"difficult": "Expert",
-		"level": 25,
-		"totalnotes": 659
-	},
-	{
-		"name": "熱色スターマイン",
-		"type": "Original",
-		"difficult": "Easy",
-		"level": 10,
-		"totalnotes": 157
-	},
-	{
-		"name": "熱色スターマイン",
-		"type": "Original",
-		"difficult": "Normal",
-		"level": 14,
-		"totalnotes": 262
-	},
-	{
-		"name": "熱色スターマイン",
-		"type": "Original",
-		"difficult": "Hard",
-		"level": 20,
-		"totalnotes": 529
-	},
-	{
-		"name": "熱色スターマイン",
-		"type": "Original",
-		"difficult": "Expert",
-		"level": 26,
-		"totalnotes": 691
-	},
-	{
-		"name": "-HEROIC ADVENT-",
-		"type": "Original",
-		"difficult": "Easy",
-		"level": 9,
-		"totalnotes": 156
-	},
-	{
-		"name": "-HEROIC ADVENT-",
-		"type": "Original",
-		"difficult": "Normal",
-		"level": 14,
-		"totalnotes": 257
-	},
-	{
-		"name": "-HEROIC ADVENT-",
-		"type": "Original",
-		"difficult": "Hard",
-		"level": 19,
-		"totalnotes": 509
-	},
-	{
-		"name": "-HEROIC ADVENT-",
-		"type": "Original",
-		"difficult": "Expert",
-		"level": 26,
-		"totalnotes": 730
-	},
-	{
-		"name": "Determination Symphony",
-		"type": "Original",
-		"difficult": "Easy",
-		"level": 7,
-		"totalnotes": 140
-	},
-	{
-		"name": "Determination Symphony",
-		"type": "Original",
-		"difficult": "Normal",
-		"level": 13,
-		"totalnotes": 264
-	},
-	{
-		"name": "Determination Symphony",
-		"type": "Original",
-		"difficult": "Hard",
-		"level": 21,
-		"totalnotes": 630
-	},
-	{
-		"name": "Determination Symphony",
-		"type": "Original",
-		"difficult": "Expert",
-		"level": 27,
-		"totalnotes": 1054
-	},
-	{
-		"name": "ONENESS",
-		"type": "Original",
-		"difficult": "Easy",
-		"level": 8,
-		"totalnotes": 165
-	},
-	{
-		"name": "ONENESS",
-		"type": "Original",
-		"difficult": "Normal",
-		"level": 13,
-		"totalnotes": 262
-	},
-	{
-		"name": "ONENESS",
-		"type": "Original",
-		"difficult": "Hard",
-		"level": 18,
-		"totalnotes": 445
-	},
-	{
-		"name": "ONENESS",
-		"type": "Original",
-		"difficult": "Expert",
-		"level": 27,
-		"totalnotes": 746
-	},
-	{
-		"name": "Opera of the wasteland",
-		"type": "Original",
-		"difficult": "Easy",
-		"level": 8,
-		"totalnotes": 155
-	},
-	{
-		"name": "Opera of the wasteland",
-		"type": "Original",
-		"difficult": "Normal",
-		"level": 14,
-		"totalnotes": 281
-	},
-	{
-		"name": "Opera of the wasteland",
-		"type": "Original",
-		"difficult": "Hard",
-		"level": 20,
-		"totalnotes": 483
-	},
-	{
-		"name": "Opera of the wasteland",
-		"type": "Original",
-		"difficult": "Expert",
-		"level": 28,
-		"totalnotes": 696
-	},
-	{
-		"name": "軌跡",
-		"type": "Original",
-		"difficult": "Easy",
-		"level": 6,
-		"totalnotes": 94
-	},
-	{
-		"name": "軌跡",
-		"type": "Original",
-		"difficult": "Normal",
-		"level": 11,
-		"totalnotes": 169
-	},
-	{
-		"name": "軌跡",
-		"type": "Original",
-		"difficult": "Hard",
-		"level": 16,
-		"totalnotes": 333
-	},
-	{
-		"name": "軌跡",
-		"type": "Original",
-		"difficult": "Expert",
-		"level": 21,
-		"totalnotes": 449
-	},
-	{
-		"name": "Neo-Aspect",
-		"type": "Original",
-		"difficult": "Easy",
-		"level": 9,
-		"totalnotes": 172
-	},
-	{
-		"name": "Neo-Aspect",
-		"type": "Original",
-		"difficult": "Normal",
-		"level": 14,
-		"totalnotes": 287
-	},
-	{
-		"name": "Neo-Aspect",
-		"type": "Original",
-		"difficult": "Hard",
-		"level": 19,
-		"totalnotes": 489
-	},
-	{
-		"name": "Neo-Aspect",
-		"type": "Original",
-		"difficult": "Expert",
-		"level": 26,
-		"totalnotes": 707
-	},
-	{
-		"name": "Legendary",
-		"type": "Original",
-		"difficult": "Easy",
-		"level": 8,
-		"totalnotes": 158
-	},
-	{
-		"name": "Legendary",
-		"type": "Original",
-		"difficult": "Normal",
-		"level": 13,
-		"totalnotes": 252
-	},
-	{
-		"name": "Legendary",
-		"type": "Original",
-		"difficult": "Hard",
-		"level": 18,
-		"totalnotes": 439
-	},
-	{
-		"name": "Legendary",
-		"type": "Original",
-		"difficult": "Expert",
-		"level": 25,
-		"totalnotes": 638
-	},
-	{
-		"name": "Sanctuary",
-		"type": "Original",
-		"difficult": "Easy",
-		"level": 9,
-		"totalnotes": 213
-	},
-	{
-		"name": "Sanctuary",
-		"type": "Original",
-		"difficult": "Normal",
-		"level": 14,
-		"totalnotes": 303
-	},
-	{
-		"name": "Sanctuary",
-		"type": "Original",
-		"difficult": "Hard",
-		"level": 18,
-		"totalnotes": 494
-	},
-	{
-		"name": "Sanctuary",
-		"type": "Original",
-		"difficult": "Expert",
-		"level": 25,
-		"totalnotes": 768
-	},
-	{
-		"name": "R",
-		"type": "Original",
-		"difficult": "Easy",
-		"level": 8,
-		"totalnotes": 127
-	},
-	{
-		"name": "R",
-		"type": "Original",
-		"difficult": "Normal",
-		"level": 13,
-		"totalnotes": 230
-	},
-	{
-		"name": "R",
-		"type": "Original",
-		"difficult": "Hard",
-		"level": 19,
-		"totalnotes": 537
-	},
-	{
-		"name": "R",
-		"type": "Original",
-		"difficult": "Expert",
-		"level": 26,
-		"totalnotes": 811
-	},
-	{
+		"id": 65,
+		"default": 246,
 		"name": "えがおのオーケストラっ！",
 		"type": "Original",
 		"difficult": "Easy",
@@ -1722,6 +585,8 @@
 		"totalnotes": 101
 	},
 	{
+		"id": 66,
+		"default": 247,
 		"name": "えがおのオーケストラっ！",
 		"type": "Original",
 		"difficult": "Normal",
@@ -1729,6 +594,8 @@
 		"totalnotes": 206
 	},
 	{
+		"id": 67,
+		"default": 248,
 		"name": "えがおのオーケストラっ！",
 		"type": "Original",
 		"difficult": "Hard",
@@ -1736,6 +603,8 @@
 		"totalnotes": 313
 	},
 	{
+		"id": 68,
+		"default": 249,
 		"name": "えがおのオーケストラっ！",
 		"type": "Original",
 		"difficult": "Expert",
@@ -1743,6 +612,8 @@
 		"totalnotes": 427
 	},
 	{
+		"id": 69,
+		"default": 250,
 		"name": "ハピネスっ！ハピィーマジカルっ♪",
 		"type": "Original",
 		"difficult": "Easy",
@@ -1750,6 +621,8 @@
 		"totalnotes": 82
 	},
 	{
+		"id": 70,
+		"default": 251,
 		"name": "ハピネスっ！ハピィーマジカルっ♪",
 		"type": "Original",
 		"difficult": "Normal",
@@ -1757,6 +630,8 @@
 		"totalnotes": 206
 	},
 	{
+		"id": 71,
+		"default": 252,
 		"name": "ハピネスっ！ハピィーマジカルっ♪",
 		"type": "Original",
 		"difficult": "Hard",
@@ -1764,6 +639,8 @@
 		"totalnotes": 384
 	},
 	{
+		"id": 72,
+		"default": 253,
 		"name": "ハピネスっ！ハピィーマジカルっ♪",
 		"type": "Original",
 		"difficult": "Expert",
@@ -1771,293 +648,8 @@
 		"totalnotes": 569
 	},
 	{
-		"name": "ゴーカ！ごーかい！？ファントムシーフ！",
-		"type": "Original",
-		"difficult": "Easy",
-		"level": 7,
-		"totalnotes": 107
-	},
-	{
-		"name": "ゴーカ！ごーかい！？ファントムシーフ！",
-		"type": "Original",
-		"difficult": "Normal",
-		"level": 14,
-		"totalnotes": 207
-	},
-	{
-		"name": "ゴーカ！ごーかい！？ファントムシーフ！",
-		"type": "Original",
-		"difficult": "Hard",
-		"level": 19,
-		"totalnotes": 448
-	},
-	{
-		"name": "ゴーカ！ごーかい！？ファントムシーフ！",
-		"type": "Original",
-		"difficult": "Expert",
-		"level": 27,
-		"totalnotes": 698
-	},
-	{
-		"name": "ゴーカ！ごーかい！？ファントムシーフ！",
-		"type": "Original",
-		"difficult": "Special",
-		"level": 25,
-		"totalnotes": 581
-	},
-	{
-		"name": "せかいのっびのびトレジャー！",
-		"type": "Original",
-		"difficult": "Easy",
-		"level": 8,
-		"totalnotes": 163
-	},
-	{
-		"name": "せかいのっびのびトレジャー！",
-		"type": "Original",
-		"difficult": "Normal",
-		"level": 14,
-		"totalnotes": 293
-	},
-	{
-		"name": "せかいのっびのびトレジャー！",
-		"type": "Original",
-		"difficult": "Hard",
-		"level": 20,
-		"totalnotes": 553
-	},
-	{
-		"name": "せかいのっびのびトレジャー！",
-		"type": "Original",
-		"difficult": "Expert",
-		"level": 26,
-		"totalnotes": 796
-	},
-	{
-		"name": "YAPPY！SCHOOL CARNIVAL☆彡",
-		"type": "Original",
-		"difficult": "Easy",
-		"level": 9,
-		"totalnotes": 184
-	},
-	{
-		"name": "YAPPY！SCHOOL CARNIVAL☆彡",
-		"type": "Original",
-		"difficult": "Normal",
-		"level": 14,
-		"totalnotes": 290
-	},
-	{
-		"name": "YAPPY！SCHOOL CARNIVAL☆彡",
-		"type": "Original",
-		"difficult": "Hard",
-		"level": 18,
-		"totalnotes": 468
-	},
-	{
-		"name": "YAPPY！SCHOOL CARNIVAL☆彡",
-		"type": "Original",
-		"difficult": "Expert",
-		"level": 25,
-		"totalnotes": 663
-	},
-	{
-		"name": "わちゃ・もちゃ・ぺったん行進曲",
-		"type": "Original",
-		"difficult": "Easy",
-		"level": 8,
-		"totalnotes": 144
-	},
-	{
-		"name": "わちゃ・もちゃ・ぺったん行進曲",
-		"type": "Original",
-		"difficult": "Normal",
-		"level": 13,
-		"totalnotes": 246
-	},
-	{
-		"name": "わちゃ・もちゃ・ぺったん行進曲",
-		"type": "Original",
-		"difficult": "Hard",
-		"level": 18,
-		"totalnotes": 464
-	},
-	{
-		"name": "わちゃ・もちゃ・ぺったん行進曲",
-		"type": "Original",
-		"difficult": "Expert",
-		"level": 26,
-		"totalnotes": 769
-	},
-	{
-		"name": "ふわふわ☆ゆめいろサンドイッチ",
-		"type": "Original",
-		"difficult": "Easy",
-		"level": 7,
-		"totalnotes": 158
-	},
-	{
-		"name": "ふわふわ☆ゆめいろサンドイッチ",
-		"type": "Original",
-		"difficult": "Normal",
-		"level": 13,
-		"totalnotes": 235
-	},
-	{
-		"name": "ふわふわ☆ゆめいろサンドイッチ",
-		"type": "Original",
-		"difficult": "Hard",
-		"level": 17,
-		"totalnotes": 461
-	},
-	{
-		"name": "ふわふわ☆ゆめいろサンドイッチ",
-		"type": "Original",
-		"difficult": "Expert",
-		"level": 24,
-		"totalnotes": 613
-	},
-	{
-		"name": "ハイファイヴ∞あどべんちゃっ",
-		"type": "Original",
-		"difficult": "Easy",
-		"level": 9,
-		"totalnotes": 203
-	},
-	{
-		"name": "ハイファイヴ∞あどべんちゃっ",
-		"type": "Original",
-		"difficult": "Normal",
-		"level": 14,
-		"totalnotes": 307
-	},
-	{
-		"name": "ハイファイヴ∞あどべんちゃっ",
-		"type": "Original",
-		"difficult": "Hard",
-		"level": 19,
-		"totalnotes": 504
-	},
-	{
-		"name": "ハイファイヴ∞あどべんちゃっ",
-		"type": "Original",
-		"difficult": "Expert",
-		"level": 26,
-		"totalnotes": 853
-	},
-	{
-		"name": "キミがいなくちゃっ！",
-		"type": "Original",
-		"difficult": "Easy",
-		"level": 9,
-		"totalnotes": 166
-	},
-	{
-		"name": "キミがいなくちゃっ！",
-		"type": "Original",
-		"difficult": "Normal",
-		"level": 14,
-		"totalnotes": 272
-	},
-	{
-		"name": "キミがいなくちゃっ！",
-		"type": "Original",
-		"difficult": "Hard",
-		"level": 17,
-		"totalnotes": 399
-	},
-	{
-		"name": "キミがいなくちゃっ！",
-		"type": "Original",
-		"difficult": "Expert",
-		"level": 25,
-		"totalnotes": 569
-	},
-	{
-		"name": "クインティプル☆すまいる",
-		"type": "Original",
-		"difficult": "Easy",
-		"level": 8,
-		"totalnotes": 133
-	},
-	{
-		"name": "クインティプル☆すまいる",
-		"type": "Original",
-		"difficult": "Normal",
-		"level": 13,
-		"totalnotes": 239
-	},
-	{
-		"name": "クインティプル☆すまいる",
-		"type": "Original",
-		"difficult": "Hard",
-		"level": 18,
-		"totalnotes": 459
-	},
-	{
-		"name": "クインティプル☆すまいる",
-		"type": "Original",
-		"difficult": "Expert",
-		"level": 25,
-		"totalnotes": 658
-	},
-	{
-		"name": "ピコっと！パピっと！！ガルパ☆ピコ！！！",
-		"type": "Original",
-		"difficult": "Easy",
-		"level": 9,
-		"totalnotes": 184
-	},
-	{
-		"name": "ピコっと！パピっと！！ガルパ☆ピコ！！！",
-		"type": "Original",
-		"difficult": "Normal",
-		"level": 14,
-		"totalnotes": 320
-	},
-	{
-		"name": "ピコっと！パピっと！！ガルパ☆ピコ！！！",
-		"type": "Original",
-		"difficult": "Hard",
-		"level": 19,
-		"totalnotes": 525
-	},
-	{
-		"name": "ピコっと！パピっと！！ガルパ☆ピコ！！！",
-		"type": "Original",
-		"difficult": "Expert",
-		"level": 26,
-		"totalnotes": 758
-	},
-	{
-		"name": "ひとりじゃないんだから",
-		"type": "Original",
-		"difficult": "Easy",
-		"level": 7,
-		"totalnotes": 115
-	},
-	{
-		"name": "ひとりじゃないんだから",
-		"type": "Original",
-		"difficult": "Normal",
-		"level": 13,
-		"totalnotes": 200
-	},
-	{
-		"name": "ひとりじゃないんだから",
-		"type": "Original",
-		"difficult": "Hard",
-		"level": 18,
-		"totalnotes": 400
-	},
-	{
-		"name": "ひとりじゃないんだから",
-		"type": "Original",
-		"difficult": "Expert",
-		"level": 25,
-		"totalnotes": 591
-	},
-	{
+		"id": 73,
+		"default": 295,
 		"name": "空色デイズ",
 		"type": "Cover",
 		"difficult": "Easy",
@@ -2065,6 +657,8 @@
 		"totalnotes": 71
 	},
 	{
+		"id": 74,
+		"default": 296,
 		"name": "空色デイズ",
 		"type": "Cover",
 		"difficult": "Normal",
@@ -2072,6 +666,8 @@
 		"totalnotes": 201
 	},
 	{
+		"id": 75,
+		"default": 297,
 		"name": "空色デイズ",
 		"type": "Cover",
 		"difficult": "Hard",
@@ -2079,6 +675,8 @@
 		"totalnotes": 399
 	},
 	{
+		"id": 76,
+		"default": 298,
 		"name": "空色デイズ",
 		"type": "Cover",
 		"difficult": "Expert",
@@ -2086,6 +684,8 @@
 		"totalnotes": 626
 	},
 	{
+		"id": 77,
+		"default": 299,
 		"name": "Alchemy",
 		"type": "Cover",
 		"difficult": "Easy",
@@ -2093,6 +693,8 @@
 		"totalnotes": 115
 	},
 	{
+		"id": 78,
+		"default": 300,
 		"name": "Alchemy",
 		"type": "Cover",
 		"difficult": "Normal",
@@ -2100,6 +702,8 @@
 		"totalnotes": 212
 	},
 	{
+		"id": 79,
+		"default": 301,
 		"name": "Alchemy",
 		"type": "Cover",
 		"difficult": "Hard",
@@ -2107,6 +711,8 @@
 		"totalnotes": 395
 	},
 	{
+		"id": 80,
+		"default": 302,
 		"name": "Alchemy",
 		"type": "Cover",
 		"difficult": "Expert",
@@ -2114,398 +720,8 @@
 		"totalnotes": 603
 	},
 	{
-		"name": "光るなら",
-		"type": "Cover",
-		"difficult": "Easy",
-		"level": 7,
-		"totalnotes": 107
-	},
-	{
-		"name": "光るなら",
-		"type": "Cover",
-		"difficult": "Normal",
-		"level": 13,
-		"totalnotes": 176
-	},
-	{
-		"name": "光るなら",
-		"type": "Cover",
-		"difficult": "Hard",
-		"level": 18,
-		"totalnotes": 355
-	},
-	{
-		"name": "光るなら",
-		"type": "Cover",
-		"difficult": "Expert",
-		"level": 23,
-		"totalnotes": 531
-	},
-	{
-		"name": "Little Busters！",
-		"type": "Cover",
-		"difficult": "Easy",
-		"level": 7,
-		"totalnotes": 71
-	},
-	{
-		"name": "Little Busters！",
-		"type": "Cover",
-		"difficult": "Normal",
-		"level": 13,
-		"totalnotes": 152
-	},
-	{
-		"name": "Little Busters！",
-		"type": "Cover",
-		"difficult": "Hard",
-		"level": 17,
-		"totalnotes": 370
-	},
-	{
-		"name": "Little Busters！",
-		"type": "Cover",
-		"difficult": "Expert",
-		"level": 25,
-		"totalnotes": 575
-	},
-	{
-		"name": "正解はひとつ！じゃない！！",
-		"type": "Cover",
-		"difficult": "Easy",
-		"level": 7,
-		"totalnotes": 86
-	},
-	{
-		"name": "正解はひとつ！じゃない！！",
-		"type": "Cover",
-		"difficult": "Normal",
-		"level": 13,
-		"totalnotes": 222
-	},
-	{
-		"name": "正解はひとつ！じゃない！！",
-		"type": "Cover",
-		"difficult": "Hard",
-		"level": 18,
-		"totalnotes": 438
-	},
-	{
-		"name": "正解はひとつ！じゃない！！",
-		"type": "Cover",
-		"difficult": "Expert",
-		"level": 25,
-		"totalnotes": 637
-	},
-	{
-		"name": "天体観測",
-		"type": "Cover",
-		"difficult": "Easy",
-		"level": 7,
-		"totalnotes": 70
-	},
-	{
-		"name": "天体観測",
-		"type": "Cover",
-		"difficult": "Normal",
-		"level": 14,
-		"totalnotes": 176
-	},
-	{
-		"name": "天体観測",
-		"type": "Cover",
-		"difficult": "Hard",
-		"level": 17,
-		"totalnotes": 483
-	},
-	{
-		"name": "天体観測",
-		"type": "Cover",
-		"difficult": "Expert",
-		"level": 26,
-		"totalnotes": 751
-	},
-	{
-		"name": "God knows…",
-		"type": "Cover",
-		"difficult": "Easy",
-		"level": 10,
-		"totalnotes": 204
-	},
-	{
-		"name": "God knows…",
-		"type": "Cover",
-		"difficult": "Normal",
-		"level": 15,
-		"totalnotes": 378
-	},
-	{
-		"name": "God knows…",
-		"type": "Cover",
-		"difficult": "Hard",
-		"level": 21,
-		"totalnotes": 631
-	},
-	{
-		"name": "God knows…",
-		"type": "Cover",
-		"difficult": "Expert",
-		"level": 28,
-		"totalnotes": 1081
-	},
-	{
-		"name": "only my railgun",
-		"type": "Cover",
-		"difficult": "Easy",
-		"level": 9,
-		"totalnotes": 186
-	},
-	{
-		"name": "only my railgun",
-		"type": "Cover",
-		"difficult": "Normal",
-		"level": 15,
-		"totalnotes": 305
-	},
-	{
-		"name": "only my railgun",
-		"type": "Cover",
-		"difficult": "Hard",
-		"level": 19,
-		"totalnotes": 445
-	},
-	{
-		"name": "only my railgun",
-		"type": "Cover",
-		"difficult": "Expert",
-		"level": 26,
-		"totalnotes": 706
-	},
-	{
-		"name": "千本桜",
-		"type": "Cover",
-		"difficult": "Easy",
-		"level": 8,
-		"totalnotes": 136
-	},
-	{
-		"name": "千本桜",
-		"type": "Cover",
-		"difficult": "Normal",
-		"level": 14,
-		"totalnotes": 256
-	},
-	{
-		"name": "千本桜",
-		"type": "Cover",
-		"difficult": "Hard",
-		"level": 19,
-		"totalnotes": 553
-	},
-	{
-		"name": "千本桜",
-		"type": "Cover",
-		"difficult": "Expert",
-		"level": 26,
-		"totalnotes": 730
-	},
-	{
-		"name": "君じゃなきゃダメみたい",
-		"type": "Cover",
-		"difficult": "Easy",
-		"level": 8,
-		"totalnotes": 140
-	},
-	{
-		"name": "君じゃなきゃダメみたい",
-		"type": "Cover",
-		"difficult": "Normal",
-		"level": 14,
-		"totalnotes": 269
-	},
-	{
-		"name": "君じゃなきゃダメみたい",
-		"type": "Cover",
-		"difficult": "Hard",
-		"level": 17,
-		"totalnotes": 398
-	},
-	{
-		"name": "君じゃなきゃダメみたい",
-		"type": "Cover",
-		"difficult": "Expert",
-		"level": 25,
-		"totalnotes": 620
-	},
-	{
-		"name": "メランコリック",
-		"type": "Cover",
-		"difficult": "Easy",
-		"level": 8,
-		"totalnotes": 178
-	},
-	{
-		"name": "メランコリック",
-		"type": "Cover",
-		"difficult": "Normal",
-		"level": 13,
-		"totalnotes": 280
-	},
-	{
-		"name": "メランコリック",
-		"type": "Cover",
-		"difficult": "Hard",
-		"level": 17,
-		"totalnotes": 446
-	},
-	{
-		"name": "メランコリック",
-		"type": "Cover",
-		"difficult": "Expert",
-		"level": 24,
-		"totalnotes": 622
-	},
-	{
-		"name": "GLAMOROUS SKY",
-		"type": "Cover",
-		"difficult": "Easy",
-		"level": 8,
-		"totalnotes": 194
-	},
-	{
-		"name": "GLAMOROUS SKY",
-		"type": "Cover",
-		"difficult": "Normal",
-		"level": 15,
-		"totalnotes": 399
-	},
-	{
-		"name": "GLAMOROUS SKY",
-		"type": "Cover",
-		"difficult": "Hard",
-		"level": 17,
-		"totalnotes": 541
-	},
-	{
-		"name": "GLAMOROUS SKY",
-		"type": "Cover",
-		"difficult": "Expert",
-		"level": 26,
-		"totalnotes": 780
-	},
-	{
-		"name": "DAYS",
-		"type": "Cover",
-		"difficult": "Easy",
-		"level": 8,
-		"totalnotes": 122
-	},
-	{
-		"name": "DAYS",
-		"type": "Cover",
-		"difficult": "Normal",
-		"level": 13,
-		"totalnotes": 297
-	},
-	{
-		"name": "DAYS",
-		"type": "Cover",
-		"difficult": "Hard",
-		"level": 18,
-		"totalnotes": 493
-	},
-	{
-		"name": "DAYS",
-		"type": "Cover",
-		"difficult": "Expert",
-		"level": 25,
-		"totalnotes": 725
-	},
-	{
-		"name": "Life Will Change",
-		"type": "Cover",
-		"difficult": "Easy",
-		"level": 7,
-		"totalnotes": 128
-	},
-	{
-		"name": "Life Will Change",
-		"type": "Cover",
-		"difficult": "Normal",
-		"level": 12,
-		"totalnotes": 202
-	},
-	{
-		"name": "Life Will Change",
-		"type": "Cover",
-		"difficult": "Hard",
-		"level": 19,
-		"totalnotes": 583
-	},
-	{
-		"name": "Life Will Change",
-		"type": "Cover",
-		"difficult": "Expert",
-		"level": 26,
-		"totalnotes": 823
-	},
-	{
-		"name": "夏祭り",
-		"type": "Cover",
-		"difficult": "Easy",
-		"level": 8,
-		"totalnotes": 177
-	},
-	{
-		"name": "夏祭り",
-		"type": "Cover",
-		"difficult": "Normal",
-		"level": 12,
-		"totalnotes": 263
-	},
-	{
-		"name": "夏祭り",
-		"type": "Cover",
-		"difficult": "Hard",
-		"level": 20,
-		"totalnotes": 618
-	},
-	{
-		"name": "夏祭り",
-		"type": "Cover",
-		"difficult": "Expert",
-		"level": 25,
-		"totalnotes": 823
-	},
-	{
-		"name": "ロミオとシンデレラ",
-		"type": "Cover",
-		"difficult": "Easy",
-		"level": 7,
-		"totalnotes": 136
-	},
-	{
-		"name": "ロミオとシンデレラ",
-		"type": "Cover",
-		"difficult": "Normal",
-		"level": 14,
-		"totalnotes": 282
-	},
-	{
-		"name": "ロミオとシンデレラ",
-		"type": "Cover",
-		"difficult": "Hard",
-		"level": 18,
-		"totalnotes": 479
-	},
-	{
-		"name": "ロミオとシンデレラ",
-		"type": "Cover",
-		"difficult": "Expert",
-		"level": 25,
-		"totalnotes": 744
-	},
-	{
+		"id": 81,
+		"default": 359,
 		"name": "カルマ",
 		"type": "Cover",
 		"difficult": "Easy",
@@ -2513,6 +729,8 @@
 		"totalnotes": 97
 	},
 	{
+		"id": 82,
+		"default": 360,
 		"name": "カルマ",
 		"type": "Cover",
 		"difficult": "Normal",
@@ -2520,6 +738,8 @@
 		"totalnotes": 199
 	},
 	{
+		"id": 83,
+		"default": 361,
 		"name": "カルマ",
 		"type": "Cover",
 		"difficult": "Hard",
@@ -2527,6 +747,8 @@
 		"totalnotes": 352
 	},
 	{
+		"id": 84,
+		"default": 362,
 		"name": "カルマ",
 		"type": "Cover",
 		"difficult": "Expert",
@@ -2534,41 +756,8 @@
 		"totalnotes": 582
 	},
 	{
-		"name": "Don't say \"lazy",
-		"type": "Cover",
-		"difficult": "Easy",
-		"level": 8,
-		"totalnotes": 167
-	},
-	{
-		"name": "Don't say \"lazy",
-		"type": "Cover",
-		"difficult": "Normal",
-		"level": 12,
-		"totalnotes": 280
-	},
-	{
-		"name": "Don't say \"lazy",
-		"type": "Cover",
-		"difficult": "Hard",
-		"level": 18,
-		"totalnotes": 505
-	},
-	{
-		"name": "Don't say \"lazy",
-		"type": "Cover",
-		"difficult": "Expert",
-		"level": 26,
-		"totalnotes": 925
-	},
-	{
-		"name": "Don't say \"lazy",
-		"type": "Cover",
-		"difficult": "Special",
-		"level": 25,
-		"totalnotes": 763
-	},
-	{
+		"id": 85,
+		"default": 368,
 		"name": "Butter-Fly",
 		"type": "Cover",
 		"difficult": "Easy",
@@ -2576,6 +765,8 @@
 		"totalnotes": 133
 	},
 	{
+		"id": 86,
+		"default": 369,
 		"name": "Butter-Fly",
 		"type": "Cover",
 		"difficult": "Normal",
@@ -2583,6 +774,8 @@
 		"totalnotes": 172
 	},
 	{
+		"id": 87,
+		"default": 370,
 		"name": "Butter-Fly",
 		"type": "Cover",
 		"difficult": "Hard",
@@ -2590,6 +783,8 @@
 		"totalnotes": 405
 	},
 	{
+		"id": 88,
+		"default": 371,
 		"name": "Butter-Fly",
 		"type": "Cover",
 		"difficult": "Expert",
@@ -2597,230 +792,8 @@
 		"totalnotes": 615
 	},
 	{
-		"name": "great escape",
-		"type": "Cover",
-		"difficult": "Easy",
-		"level": 8,
-		"totalnotes": 118
-	},
-	{
-		"name": "great escape",
-		"type": "Cover",
-		"difficult": "Normal",
-		"level": 13,
-		"totalnotes": 239
-	},
-	{
-		"name": "great escape",
-		"type": "Cover",
-		"difficult": "Hard",
-		"level": 17,
-		"totalnotes": 445
-	},
-	{
-		"name": "great escape",
-		"type": "Cover",
-		"difficult": "Expert",
-		"level": 26,
-		"totalnotes": 676
-	},
-	{
-		"name": "アスノヨゾラ哨戒班",
-		"type": "Cover",
-		"difficult": "Easy",
-		"level": 10,
-		"totalnotes": 178
-	},
-	{
-		"name": "アスノヨゾラ哨戒班",
-		"type": "Cover",
-		"difficult": "Normal",
-		"level": 15,
-		"totalnotes": 283
-	},
-	{
-		"name": "アスノヨゾラ哨戒班",
-		"type": "Cover",
-		"difficult": "Hard",
-		"level": 19,
-		"totalnotes": 433
-	},
-	{
-		"name": "アスノヨゾラ哨戒班",
-		"type": "Cover",
-		"difficult": "Expert",
-		"level": 26,
-		"totalnotes": 695
-	},
-	{
-		"name": "READY STEADY GO",
-		"type": "Cover",
-		"difficult": "Easy",
-		"level": 7,
-		"totalnotes": 107
-	},
-	{
-		"name": "READY STEADY GO",
-		"type": "Cover",
-		"difficult": "Normal",
-		"level": 13,
-		"totalnotes": 217
-	},
-	{
-		"name": "READY STEADY GO",
-		"type": "Cover",
-		"difficult": "Hard",
-		"level": 17,
-		"totalnotes": 429
-	},
-	{
-		"name": "READY STEADY GO",
-		"type": "Cover",
-		"difficult": "Expert",
-		"level": 24,
-		"totalnotes": 584
-	},
-	{
-		"name": "Redo",
-		"type": "Cover",
-		"difficult": "Easy",
-		"level": 9,
-		"totalnotes": 170
-	},
-	{
-		"name": "Redo",
-		"type": "Cover",
-		"difficult": "Normal",
-		"level": 14,
-		"totalnotes": 285
-	},
-	{
-		"name": "Redo",
-		"type": "Cover",
-		"difficult": "Hard",
-		"level": 20,
-		"totalnotes": 478
-	},
-	{
-		"name": "Redo",
-		"type": "Cover",
-		"difficult": "Expert",
-		"level": 27,
-		"totalnotes": 712
-	},
-	{
-		"name": "プライド革命",
-		"type": "Cover",
-		"difficult": "Easy",
-		"level": 6,
-		"totalnotes": 90
-	},
-	{
-		"name": "プライド革命",
-		"type": "Cover",
-		"difficult": "Normal",
-		"level": 13,
-		"totalnotes": 249
-	},
-	{
-		"name": "プライド革命",
-		"type": "Cover",
-		"difficult": "Hard",
-		"level": 17,
-		"totalnotes": 449
-	},
-	{
-		"name": "プライド革命",
-		"type": "Cover",
-		"difficult": "Expert",
-		"level": 25,
-		"totalnotes": 663
-	},
-	{
-		"name": "イマジネーション",
-		"type": "Cover",
-		"difficult": "Easy",
-		"level": 9,
-		"totalnotes": 162
-	},
-	{
-		"name": "イマジネーション",
-		"type": "Cover",
-		"difficult": "Normal",
-		"level": 14,
-		"totalnotes": 302
-	},
-	{
-		"name": "イマジネーション",
-		"type": "Cover",
-		"difficult": "Hard",
-		"level": 20,
-		"totalnotes": 567
-	},
-	{
-		"name": "イマジネーション",
-		"type": "Cover",
-		"difficult": "Expert",
-		"level": 26,
-		"totalnotes": 769
-	},
-	{
-		"name": "Reach Out To The Truth",
-		"type": "Cover",
-		"difficult": "Easy",
-		"level": 9,
-		"totalnotes": 177
-	},
-	{
-		"name": "Reach Out To The Truth",
-		"type": "Cover",
-		"difficult": "Normal",
-		"level": 14,
-		"totalnotes": 288
-	},
-	{
-		"name": "Reach Out To The Truth",
-		"type": "Cover",
-		"difficult": "Hard",
-		"level": 18,
-		"totalnotes": 521
-	},
-	{
-		"name": "Reach Out To The Truth",
-		"type": "Cover",
-		"difficult": "Expert",
-		"level": 26,
-		"totalnotes": 723
-	},
-	{
-		"name": "ロストワンの号哭",
-		"type": "Cover",
-		"difficult": "Easy",
-		"level": 10,
-		"totalnotes": 217
-	},
-	{
-		"name": "ロストワンの号哭",
-		"type": "Cover",
-		"difficult": "Normal",
-		"level": 14,
-		"totalnotes": 298
-	},
-	{
-		"name": "ロストワンの号哭",
-		"type": "Cover",
-		"difficult": "Hard",
-		"level": 21,
-		"totalnotes": 687
-	},
-	{
-		"name": "ロストワンの号哭",
-		"type": "Cover",
-		"difficult": "Expert",
-		"level": 26,
-		"totalnotes": 1026
-	},
-	{
+		"id": 89,
+		"default": 404,
 		"name": "secret base～君がくれたもの～",
 		"type": "Cover",
 		"difficult": "Easy",
@@ -2828,6 +801,8 @@
 		"totalnotes": 71
 	},
 	{
+		"id": 90,
+		"default": 405,
 		"name": "secret base～君がくれたもの～",
 		"type": "Cover",
 		"difficult": "Normal",
@@ -2835,6 +810,8 @@
 		"totalnotes": 195
 	},
 	{
+		"id": 91,
+		"default": 406,
 		"name": "secret base～君がくれたもの～",
 		"type": "Cover",
 		"difficult": "Hard",
@@ -2842,6 +819,8 @@
 		"totalnotes": 424
 	},
 	{
+		"id": 92,
+		"default": 407,
 		"name": "secret base～君がくれたもの～",
 		"type": "Cover",
 		"difficult": "Expert",
@@ -2849,6 +828,8 @@
 		"totalnotes": 560
 	},
 	{
+		"id": 93,
+		"default": 408,
 		"name": "ドリームパレード",
 		"type": "Cover",
 		"difficult": "Easy",
@@ -2856,6 +837,8 @@
 		"totalnotes": 104
 	},
 	{
+		"id": 94,
+		"default": 409,
 		"name": "ドリームパレード",
 		"type": "Cover",
 		"difficult": "Normal",
@@ -2863,6 +846,8 @@
 		"totalnotes": 223
 	},
 	{
+		"id": 95,
+		"default": 410,
 		"name": "ドリームパレード",
 		"type": "Cover",
 		"difficult": "Hard",
@@ -2870,6 +855,8 @@
 		"totalnotes": 394
 	},
 	{
+		"id": 96,
+		"default": 411,
 		"name": "ドリームパレード",
 		"type": "Cover",
 		"difficult": "Expert",
@@ -2877,321 +864,8 @@
 		"totalnotes": 575
 	},
 	{
-		"name": "そばかす",
-		"type": "Cover",
-		"difficult": "Easy",
-		"level": 6,
-		"totalnotes": 67
-	},
-	{
-		"name": "そばかす",
-		"type": "Cover",
-		"difficult": "Normal",
-		"level": 12,
-		"totalnotes": 125
-	},
-	{
-		"name": "そばかす",
-		"type": "Cover",
-		"difficult": "Hard",
-		"level": 17,
-		"totalnotes": 284
-	},
-	{
-		"name": "そばかす",
-		"type": "Cover",
-		"difficult": "Expert",
-		"level": 23,
-		"totalnotes": 456
-	},
-	{
-		"name": "そばかす",
-		"type": "Cover",
-		"difficult": "Special",
-		"level": 25,
-		"totalnotes": 723
-	},
-	{
-		"name": "MOON PRIDE",
-		"type": "Cover",
-		"difficult": "Easy",
-		"level": 8,
-		"totalnotes": 181
-	},
-	{
-		"name": "MOON PRIDE",
-		"type": "Cover",
-		"difficult": "Normal",
-		"level": 14,
-		"totalnotes": 265
-	},
-	{
-		"name": "MOON PRIDE",
-		"type": "Cover",
-		"difficult": "Hard",
-		"level": 18,
-		"totalnotes": 450
-	},
-	{
-		"name": "MOON PRIDE",
-		"type": "Cover",
-		"difficult": "Expert",
-		"level": 26,
-		"totalnotes": 716
-	},
-	{
-		"name": "ふわふわ時間",
-		"type": "Cover",
-		"difficult": "Easy",
-		"level": 7,
-		"totalnotes": 104
-	},
-	{
-		"name": "ふわふわ時間",
-		"type": "Cover",
-		"difficult": "Normal",
-		"level": 13,
-		"totalnotes": 195
-	},
-	{
-		"name": "ふわふわ時間",
-		"type": "Cover",
-		"difficult": "Hard",
-		"level": 18,
-		"totalnotes": 384
-	},
-	{
-		"name": "ふわふわ時間",
-		"type": "Cover",
-		"difficult": "Expert",
-		"level": 25,
-		"totalnotes": 544
-	},
-	{
-		"name": "はなまるぴっぴはよいこだけ",
-		"type": "Cover",
-		"difficult": "Easy",
-		"level": 9,
-		"totalnotes": 193
-	},
-	{
-		"name": "はなまるぴっぴはよいこだけ",
-		"type": "Cover",
-		"difficult": "Normal",
-		"level": 14,
-		"totalnotes": 318
-	},
-	{
-		"name": "はなまるぴっぴはよいこだけ",
-		"type": "Cover",
-		"difficult": "Hard",
-		"level": 18,
-		"totalnotes": 507
-	},
-	{
-		"name": "はなまるぴっぴはよいこだけ",
-		"type": "Cover",
-		"difficult": "Expert",
-		"level": 25,
-		"totalnotes": 729
-	},
-	{
-		"name": "世界は恋に落ちている",
-		"type": "Cover",
-		"difficult": "Easy",
-		"level": 7,
-		"totalnotes": 137
-	},
-	{
-		"name": "世界は恋に落ちている",
-		"type": "Cover",
-		"difficult": "Normal",
-		"level": 14,
-		"totalnotes": 267
-	},
-	{
-		"name": "世界は恋に落ちている",
-		"type": "Cover",
-		"difficult": "Hard",
-		"level": 16,
-		"totalnotes": 405
-	},
-	{
-		"name": "世界は恋に落ちている",
-		"type": "Cover",
-		"difficult": "Expert",
-		"level": 23,
-		"totalnotes": 527
-	},
-	{
-		"name": "ハッピーシンセサイザ",
-		"type": "Cover",
-		"difficult": "Easy",
-		"level": 7,
-		"totalnotes": 169
-	},
-	{
-		"name": "ハッピーシンセサイザ",
-		"type": "Cover",
-		"difficult": "Normal",
-		"level": 12,
-		"totalnotes": 339
-	},
-	{
-		"name": "ハッピーシンセサイザ",
-		"type": "Cover",
-		"difficult": "Hard",
-		"level": 18,
-		"totalnotes": 611
-	},
-	{
-		"name": "ハッピーシンセサイザ",
-		"type": "Cover",
-		"difficult": "Expert",
-		"level": 26,
-		"totalnotes": 933
-	},
-	{
-		"name": "SAKURAスキップ",
-		"type": "Cover",
-		"difficult": "Easy",
-		"level": 8,
-		"totalnotes": 135
-	},
-	{
-		"name": "SAKURAスキップ",
-		"type": "Cover",
-		"difficult": "Normal",
-		"level": 13,
-		"totalnotes": 240
-	},
-	{
-		"name": "SAKURAスキップ",
-		"type": "Cover",
-		"difficult": "Hard",
-		"level": 18,
-		"totalnotes": 471
-	},
-	{
-		"name": "SAKURAスキップ",
-		"type": "Cover",
-		"difficult": "Expert",
-		"level": 25,
-		"totalnotes": 650
-	},
-	{
-		"name": "みくみくにしてあげる♪【してやんよ】",
-		"type": "Cover",
-		"difficult": "Easy",
-		"level": 8,
-		"totalnotes": 139
-	},
-	{
-		"name": "みくみくにしてあげる♪【してやんよ】",
-		"type": "Cover",
-		"difficult": "Normal",
-		"level": 14,
-		"totalnotes": 239
-	},
-	{
-		"name": "みくみくにしてあげる♪【してやんよ】",
-		"type": "Cover",
-		"difficult": "Hard",
-		"level": 18,
-		"totalnotes": 439
-	},
-	{
-		"name": "みくみくにしてあげる♪【してやんよ】",
-		"type": "Cover",
-		"difficult": "Expert",
-		"level": 26,
-		"totalnotes": 639
-	},
-	{
-		"name": "気まぐれロマンティック",
-		"type": "Cover",
-		"difficult": "Easy",
-		"level": 7,
-		"totalnotes": 157
-	},
-	{
-		"name": "気まぐれロマンティック",
-		"type": "Cover",
-		"difficult": "Normal",
-		"level": 12,
-		"totalnotes": 237
-	},
-	{
-		"name": "気まぐれロマンティック",
-		"type": "Cover",
-		"difficult": "Hard",
-		"level": 17,
-		"totalnotes": 437
-	},
-	{
-		"name": "気まぐれロマンティック",
-		"type": "Cover",
-		"difficult": "Expert",
-		"level": 24,
-		"totalnotes": 608
-	},
-	{
-		"name": "Fantastic future",
-		"type": "Cover",
-		"difficult": "Easy",
-		"level": 8,
-		"totalnotes": 182
-	},
-	{
-		"name": "Fantastic future",
-		"type": "Cover",
-		"difficult": "Normal",
-		"level": 14,
-		"totalnotes": 259
-	},
-	{
-		"name": "Fantastic future",
-		"type": "Cover",
-		"difficult": "Hard",
-		"level": 19,
-		"totalnotes": 454
-	},
-	{
-		"name": "Fantastic future",
-		"type": "Cover",
-		"difficult": "Expert",
-		"level": 26,
-		"totalnotes": 710
-	},
-	{
-		"name": "DISCOTHEQUE",
-		"type": "Cover",
-		"difficult": "Easy",
-		"level": 9,
-		"totalnotes": 166
-	},
-	{
-		"name": "DISCOTHEQUE",
-		"type": "Cover",
-		"difficult": "Normal",
-		"level": 14,
-		"totalnotes": 234
-	},
-	{
-		"name": "DISCOTHEQUE",
-		"type": "Cover",
-		"difficult": "Hard",
-		"level": 18,
-		"totalnotes": 411
-	},
-	{
-		"name": "DISCOTHEQUE",
-		"type": "Cover",
-		"difficult": "Expert",
-		"level": 26,
-		"totalnotes": 626
-	},
-	{
+		"id": 97,
+		"default": 457,
 		"name": "魂のルフラン",
 		"type": "Cover",
 		"difficult": "Easy",
@@ -3199,6 +873,8 @@
 		"totalnotes": 88
 	},
 	{
+		"id": 98,
+		"default": 458,
 		"name": "魂のルフラン",
 		"type": "Cover",
 		"difficult": "Normal",
@@ -3206,6 +882,8 @@
 		"totalnotes": 228
 	},
 	{
+		"id": 99,
+		"default": 459,
 		"name": "魂のルフラン",
 		"type": "Cover",
 		"difficult": "Hard",
@@ -3213,6 +891,8 @@
 		"totalnotes": 386
 	},
 	{
+		"id": 100,
+		"default": 460,
 		"name": "魂のルフラン",
 		"type": "Cover",
 		"difficult": "Expert",
@@ -3220,6 +900,8 @@
 		"totalnotes": 698
 	},
 	{
+		"id": 101,
+		"default": 461,
 		"name": "Hacking to the Gate",
 		"type": "Cover",
 		"difficult": "Easy",
@@ -3227,6 +909,8 @@
 		"totalnotes": 118
 	},
 	{
+		"id": 102,
+		"default": 462,
 		"name": "Hacking to the Gate",
 		"type": "Cover",
 		"difficult": "Normal",
@@ -3234,6 +918,8 @@
 		"totalnotes": 175
 	},
 	{
+		"id": 103,
+		"default": 463,
 		"name": "Hacking to the Gate",
 		"type": "Cover",
 		"difficult": "Hard",
@@ -3241,6 +927,8 @@
 		"totalnotes": 339
 	},
 	{
+		"id": 104,
+		"default": 464,
 		"name": "Hacking to the Gate",
 		"type": "Cover",
 		"difficult": "Expert",
@@ -3248,342 +936,8 @@
 		"totalnotes": 487
 	},
 	{
-		"name": "ETERNAL BLAZE",
-		"type": "Cover",
-		"difficult": "Easy",
-		"level": 9,
-		"totalnotes": 135
-	},
-	{
-		"name": "ETERNAL BLAZE",
-		"type": "Cover",
-		"difficult": "Normal",
-		"level": 13,
-		"totalnotes": 212
-	},
-	{
-		"name": "ETERNAL BLAZE",
-		"type": "Cover",
-		"difficult": "Hard",
-		"level": 17,
-		"totalnotes": 428
-	},
-	{
-		"name": "ETERNAL BLAZE",
-		"type": "Cover",
-		"difficult": "Expert",
-		"level": 25,
-		"totalnotes": 609
-	},
-	{
-		"name": "紅蓮の弓矢",
-		"type": "Cover",
-		"difficult": "Easy",
-		"level": 10,
-		"totalnotes": 179
-	},
-	{
-		"name": "紅蓮の弓矢",
-		"type": "Cover",
-		"difficult": "Normal",
-		"level": 14,
-		"totalnotes": 291
-	},
-	{
-		"name": "紅蓮の弓矢",
-		"type": "Cover",
-		"difficult": "Hard",
-		"level": 19,
-		"totalnotes": 482
-	},
-	{
-		"name": "紅蓮の弓矢",
-		"type": "Cover",
-		"difficult": "Expert",
-		"level": 27,
-		"totalnotes": 707
-	},
-	{
-		"name": "The Everlasting Guilty Crown",
-		"type": "Cover",
-		"difficult": "Easy",
-		"level": 8,
-		"totalnotes": 158
-	},
-	{
-		"name": "The Everlasting Guilty Crown",
-		"type": "Cover",
-		"difficult": "Normal",
-		"level": 15,
-		"totalnotes": 340
-	},
-	{
-		"name": "The Everlasting Guilty Crown",
-		"type": "Cover",
-		"difficult": "Hard",
-		"level": 20,
-		"totalnotes": 571
-	},
-	{
-		"name": "The Everlasting Guilty Crown",
-		"type": "Cover",
-		"difficult": "Expert",
-		"level": 26,
-		"totalnotes": 852
-	},
-	{
-		"name": "Red fraction",
-		"type": "Cover",
-		"difficult": "Easy",
-		"level": 8,
-		"totalnotes": 155
-	},
-	{
-		"name": "Red fraction",
-		"type": "Cover",
-		"difficult": "Normal",
-		"level": 14,
-		"totalnotes": 289
-	},
-	{
-		"name": "Red fraction",
-		"type": "Cover",
-		"difficult": "Hard",
-		"level": 18,
-		"totalnotes": 490
-	},
-	{
-		"name": "Red fraction",
-		"type": "Cover",
-		"difficult": "Expert",
-		"level": 26,
-		"totalnotes": 724
-	},
-	{
-		"name": "深愛",
-		"type": "Cover",
-		"difficult": "Easy",
-		"level": 8,
-		"totalnotes": 150
-	},
-	{
-		"name": "深愛",
-		"type": "Cover",
-		"difficult": "Normal",
-		"level": 14,
-		"totalnotes": 262
-	},
-	{
-		"name": "深愛",
-		"type": "Cover",
-		"difficult": "Hard",
-		"level": 18,
-		"totalnotes": 422
-	},
-	{
-		"name": "深愛",
-		"type": "Cover",
-		"difficult": "Expert",
-		"level": 25,
-		"totalnotes": 666
-	},
-	{
-		"name": "残酷な天使のテーゼ",
-		"type": "Cover",
-		"difficult": "Easy",
-		"level": 8,
-		"totalnotes": 164
-	},
-	{
-		"name": "残酷な天使のテーゼ",
-		"type": "Cover",
-		"difficult": "Normal",
-		"level": 13,
-		"totalnotes": 276
-	},
-	{
-		"name": "残酷な天使のテーゼ",
-		"type": "Cover",
-		"difficult": "Hard",
-		"level": 18,
-		"totalnotes": 435
-	},
-	{
-		"name": "残酷な天使のテーゼ",
-		"type": "Cover",
-		"difficult": "Expert",
-		"level": 25,
-		"totalnotes": 659
-	},
-	{
-		"name": "Shangri-La",
-		"type": "Cover",
-		"difficult": "Easy",
-		"level": 7,
-		"totalnotes": 96
-	},
-	{
-		"name": "Shangri-La",
-		"type": "Cover",
-		"difficult": "Normal",
-		"level": 12,
-		"totalnotes": 157
-	},
-	{
-		"name": "Shangri-La",
-		"type": "Cover",
-		"difficult": "Hard",
-		"level": 16,
-		"totalnotes": 324
-	},
-	{
-		"name": "Shangri-La",
-		"type": "Cover",
-		"difficult": "Expert",
-		"level": 24,
-		"totalnotes": 551
-	},
-	{
-		"name": "This game",
-		"type": "Cover",
-		"difficult": "Easy",
-		"level": 11,
-		"totalnotes": 216
-	},
-	{
-		"name": "This game",
-		"type": "Cover",
-		"difficult": "Normal",
-		"level": 15,
-		"totalnotes": 370
-	},
-	{
-		"name": "This game",
-		"type": "Cover",
-		"difficult": "Hard",
-		"level": 21,
-		"totalnotes": 634
-	},
-	{
-		"name": "This game",
-		"type": "Cover",
-		"difficult": "Expert",
-		"level": 27,
-		"totalnotes": 907
-	},
-	{
-		"name": "Believe in my existence",
-		"type": "Cover",
-		"difficult": "Easy",
-		"level": 10,
-		"totalnotes": 169
-	},
-	{
-		"name": "Believe in my existence",
-		"type": "Cover",
-		"difficult": "Normal",
-		"level": 14,
-		"totalnotes": 261
-	},
-	{
-		"name": "Believe in my existence",
-		"type": "Cover",
-		"difficult": "Hard",
-		"level": 19,
-		"totalnotes": 400
-	},
-	{
-		"name": "Believe in my existence",
-		"type": "Cover",
-		"difficult": "Expert",
-		"level": 26,
-		"totalnotes": 589
-	},
-	{
-		"name": "六兆年と一夜物語",
-		"type": "Cover",
-		"difficult": "Easy",
-		"level": 8,
-		"totalnotes": 157
-	},
-	{
-		"name": "六兆年と一夜物語",
-		"type": "Cover",
-		"difficult": "Normal",
-		"level": 14,
-		"totalnotes": 286
-	},
-	{
-		"name": "六兆年と一夜物語",
-		"type": "Cover",
-		"difficult": "Hard",
-		"level": 21,
-		"totalnotes": 501
-	},
-	{
-		"name": "六兆年と一夜物語",
-		"type": "Cover",
-		"difficult": "Expert",
-		"level": 29,
-		"totalnotes": 895
-	},
-	{
-		"name": "キミの記憶",
-		"type": "Cover",
-		"difficult": "Easy",
-		"level": 6,
-		"totalnotes": 104
-	},
-	{
-		"name": "キミの記憶",
-		"type": "Cover",
-		"difficult": "Normal",
-		"level": 11,
-		"totalnotes": 180
-	},
-	{
-		"name": "キミの記憶",
-		"type": "Cover",
-		"difficult": "Hard",
-		"level": 17,
-		"totalnotes": 447
-	},
-	{
-		"name": "キミの記憶",
-		"type": "Cover",
-		"difficult": "Expert",
-		"level": 25,
-		"totalnotes": 651
-	},
-	{
-		"name": "シャルル",
-		"type": "Cover",
-		"difficult": "Easy",
-		"level": 8,
-		"totalnotes": 140
-	},
-	{
-		"name": "シャルル",
-		"type": "Cover",
-		"difficult": "Normal",
-		"level": 13,
-		"totalnotes": 218
-	},
-	{
-		"name": "シャルル",
-		"type": "Cover",
-		"difficult": "Hard",
-		"level": 18,
-		"totalnotes": 373
-	},
-	{
-		"name": "シャルル",
-		"type": "Cover",
-		"difficult": "Expert",
-		"level": 25,
-		"totalnotes": 602
-	},
-	{
+		"id": 105,
+		"default": 513,
 		"name": "シュガーソングとビターステップ",
 		"type": "Cover",
 		"difficult": "Easy",
@@ -3591,6 +945,8 @@
 		"totalnotes": 131
 	},
 	{
+		"id": 106,
+		"default": 514,
 		"name": "シュガーソングとビターステップ",
 		"type": "Cover",
 		"difficult": "Normal",
@@ -3598,6 +954,8 @@
 		"totalnotes": 252
 	},
 	{
+		"id": 107,
+		"default": 515,
 		"name": "シュガーソングとビターステップ",
 		"type": "Cover",
 		"difficult": "Hard",
@@ -3605,6 +963,8 @@
 		"totalnotes": 469
 	},
 	{
+		"id": 108,
+		"default": 516,
 		"name": "シュガーソングとビターステップ",
 		"type": "Cover",
 		"difficult": "Expert",
@@ -3612,6 +972,8 @@
 		"totalnotes": 811
 	},
 	{
+		"id": 109,
+		"default": 517,
 		"name": "いーあるふぁんくらぶ",
 		"type": "Cover",
 		"difficult": "Easy",
@@ -3619,6 +981,8 @@
 		"totalnotes": 108
 	},
 	{
+		"id": 110,
+		"default": 518,
 		"name": "いーあるふぁんくらぶ",
 		"type": "Cover",
 		"difficult": "Normal",
@@ -3626,6 +990,8 @@
 		"totalnotes": 189
 	},
 	{
+		"id": 111,
+		"default": 519,
 		"name": "いーあるふぁんくらぶ",
 		"type": "Cover",
 		"difficult": "Hard",
@@ -3633,6 +999,8 @@
 		"totalnotes": 394
 	},
 	{
+		"id": 112,
+		"default": 520,
 		"name": "いーあるふぁんくらぶ",
 		"type": "Cover",
 		"difficult": "Expert",
@@ -3640,6 +1008,152 @@
 		"totalnotes": 652
 	},
 	{
+		"id": 113,
+		"default": 363,
+		"name": "Don't say \"lazy",
+		"type": "Cover",
+		"difficult": "Easy",
+		"level": 8,
+		"totalnotes": 167
+	},
+	{
+		"id": 114,
+		"default": 364,
+		"name": "Don't say \"lazy",
+		"type": "Cover",
+		"difficult": "Normal",
+		"level": 12,
+		"totalnotes": 280
+	},
+	{
+		"id": 115,
+		"default": 365,
+		"name": "Don't say \"lazy",
+		"type": "Cover",
+		"difficult": "Hard",
+		"level": 18,
+		"totalnotes": 505
+	},
+	{
+		"id": 116,
+		"default": 367,
+		"name": "Don't say \"lazy",
+		"type": "Cover",
+		"difficult": "Special",
+		"level": 25,
+		"totalnotes": 763
+	},
+	{
+		"id": 117,
+		"default": 89,
+		"name": "Don't be afraid！",
+		"type": "Original",
+		"difficult": "Easy",
+		"level": 6,
+		"totalnotes": 75
+	},
+	{
+		"id": 118,
+		"default": 90,
+		"name": "Don't be afraid！",
+		"type": "Original",
+		"difficult": "Normal",
+		"level": 12,
+		"totalnotes": 192
+	},
+	{
+		"id": 119,
+		"default": 91,
+		"name": "Don't be afraid！",
+		"type": "Original",
+		"difficult": "Hard",
+		"level": 16,
+		"totalnotes": 469
+	},
+	{
+		"id": 120,
+		"default": 92,
+		"name": "Don't be afraid！",
+		"type": "Original",
+		"difficult": "Expert",
+		"level": 25,
+		"totalnotes": 661
+	},
+	{
+		"id": 121,
+		"default": 303,
+		"name": "光るなら",
+		"type": "Cover",
+		"difficult": "Easy",
+		"level": 7,
+		"totalnotes": 107
+	},
+	{
+		"id": 122,
+		"default": 304,
+		"name": "光るなら",
+		"type": "Cover",
+		"difficult": "Normal",
+		"level": 13,
+		"totalnotes": 176
+	},
+	{
+		"id": 123,
+		"default": 305,
+		"name": "光るなら",
+		"type": "Cover",
+		"difficult": "Hard",
+		"level": 18,
+		"totalnotes": 355
+	},
+	{
+		"id": 124,
+		"default": 306,
+		"name": "光るなら",
+		"type": "Cover",
+		"difficult": "Expert",
+		"level": 23,
+		"totalnotes": 531
+	},
+	{
+		"id": 125,
+		"default": 37,
+		"name": "前へススメ！",
+		"type": "Original",
+		"difficult": "Easy",
+		"level": 6,
+		"totalnotes": 105
+	},
+	{
+		"id": 126,
+		"default": 38,
+		"name": "前へススメ！",
+		"type": "Original",
+		"difficult": "Normal",
+		"level": 13,
+		"totalnotes": 249
+	},
+	{
+		"id": 127,
+		"default": 39,
+		"name": "前へススメ！",
+		"type": "Original",
+		"difficult": "Hard",
+		"level": 18,
+		"totalnotes": 471
+	},
+	{
+		"id": 128,
+		"default": 40,
+		"name": "前へススメ！",
+		"type": "Original",
+		"difficult": "Expert",
+		"level": 26,
+		"totalnotes": 723
+	},
+	{
+		"id": 129,
+		"default": 521,
 		"name": "シルエット",
 		"type": "Cover",
 		"difficult": "Easy",
@@ -3647,6 +1161,8 @@
 		"totalnotes": 103
 	},
 	{
+		"id": 130,
+		"default": 522,
 		"name": "シルエット",
 		"type": "Cover",
 		"difficult": "Normal",
@@ -3654,6 +1170,8 @@
 		"totalnotes": 247
 	},
 	{
+		"id": 131,
+		"default": 523,
 		"name": "シルエット",
 		"type": "Cover",
 		"difficult": "Hard",
@@ -3661,6 +1179,8 @@
 		"totalnotes": 427
 	},
 	{
+		"id": 132,
+		"default": 524,
 		"name": "シルエット",
 		"type": "Cover",
 		"difficult": "Expert",
@@ -3668,6 +1188,476 @@
 		"totalnotes": 600
 	},
 	{
+		"id": 133,
+		"default": 198,
+		"name": "LOUDER",
+		"type": "Original",
+		"difficult": "Easy",
+		"level": 7,
+		"totalnotes": 67
+	},
+	{
+		"id": 134,
+		"default": 199,
+		"name": "LOUDER",
+		"type": "Original",
+		"difficult": "Normal",
+		"level": 12,
+		"totalnotes": 180
+	},
+	{
+		"id": 135,
+		"default": 200,
+		"name": "LOUDER",
+		"type": "Original",
+		"difficult": "Hard",
+		"level": 19,
+		"totalnotes": 543
+	},
+	{
+		"id": 136,
+		"default": 201,
+		"name": "LOUDER",
+		"type": "Original",
+		"difficult": "Expert",
+		"level": 27,
+		"totalnotes": 828
+	},
+	{
+		"id": 137,
+		"default": 412,
+		"name": "そばかす",
+		"type": "Cover",
+		"difficult": "Easy",
+		"level": 6,
+		"totalnotes": 67
+	},
+	{
+		"id": 138,
+		"default": 413,
+		"name": "そばかす",
+		"type": "Cover",
+		"difficult": "Normal",
+		"level": 12,
+		"totalnotes": 125
+	},
+	{
+		"id": 139,
+		"default": 414,
+		"name": "そばかす",
+		"type": "Cover",
+		"difficult": "Hard",
+		"level": 17,
+		"totalnotes": 284
+	},
+	{
+		"id": 140,
+		"default": 416,
+		"name": "そばかす",
+		"type": "Cover",
+		"difficult": "Special",
+		"level": 25,
+		"totalnotes": 723
+	},
+	{
+		"id": 141,
+		"default": 254,
+		"name": "ゴーカ！ごーかい！？ファントムシーフ！",
+		"type": "Original",
+		"difficult": "Easy",
+		"level": 7,
+		"totalnotes": 107
+	},
+	{
+		"id": 142,
+		"default": 255,
+		"name": "ゴーカ！ごーかい！？ファントムシーフ！",
+		"type": "Original",
+		"difficult": "Normal",
+		"level": 14,
+		"totalnotes": 207
+	},
+	{
+		"id": 143,
+		"default": 256,
+		"name": "ゴーカ！ごーかい！？ファントムシーフ！",
+		"type": "Original",
+		"difficult": "Hard",
+		"level": 19,
+		"totalnotes": 448
+	},
+	{
+		"id": 144,
+		"default": 258,
+		"name": "ゴーカ！ごーかい！？ファントムシーフ！",
+		"type": "Original",
+		"difficult": "Special",
+		"level": 25,
+		"totalnotes": 581
+	},
+	{
+		"id": 145,
+		"default": 465,
+		"name": "ETERNAL BLAZE",
+		"type": "Cover",
+		"difficult": "Easy",
+		"level": 9,
+		"totalnotes": 135
+	},
+	{
+		"id": 146,
+		"default": 466,
+		"name": "ETERNAL BLAZE",
+		"type": "Cover",
+		"difficult": "Normal",
+		"level": 13,
+		"totalnotes": 212
+	},
+	{
+		"id": 147,
+		"default": 467,
+		"name": "ETERNAL BLAZE",
+		"type": "Cover",
+		"difficult": "Hard",
+		"level": 17,
+		"totalnotes": 428
+	},
+	{
+		"id": 148,
+		"default": 468,
+		"name": "ETERNAL BLAZE",
+		"type": "Cover",
+		"difficult": "Expert",
+		"level": 25,
+		"totalnotes": 609
+	},
+	{
+		"id": 149,
+		"default": 45,
+		"name": "キミにもらったもの",
+		"type": "Original",
+		"difficult": "Easy",
+		"level": 6,
+		"totalnotes": 69
+	},
+	{
+		"id": 150,
+		"default": 46,
+		"name": "キミにもらったもの",
+		"type": "Original",
+		"difficult": "Normal",
+		"level": 13,
+		"totalnotes": 169
+	},
+	{
+		"id": 151,
+		"default": 47,
+		"name": "キミにもらったもの",
+		"type": "Original",
+		"difficult": "Hard",
+		"level": 16,
+		"totalnotes": 279
+	},
+	{
+		"id": 152,
+		"default": 48,
+		"name": "キミにもらったもの",
+		"type": "Original",
+		"difficult": "Expert",
+		"level": 21,
+		"totalnotes": 371
+	},
+	{
+		"id": 153,
+		"default": 41,
+		"name": "夢見るSunflower",
+		"type": "Original",
+		"difficult": "Easy",
+		"level": 7,
+		"totalnotes": 152
+	},
+	{
+		"id": 154,
+		"default": 42,
+		"name": "夢見るSunflower",
+		"type": "Original",
+		"difficult": "Normal",
+		"level": 13,
+		"totalnotes": 231
+	},
+	{
+		"id": 155,
+		"default": 43,
+		"name": "夢見るSunflower",
+		"type": "Original",
+		"difficult": "Hard",
+		"level": 17,
+		"totalnotes": 434
+	},
+	{
+		"id": 156,
+		"default": 44,
+		"name": "夢見るSunflower",
+		"type": "Original",
+		"difficult": "Expert",
+		"level": 25,
+		"totalnotes": 628
+	},
+	{
+		"id": 157,
+		"default": 307,
+		"name": "Little Busters！",
+		"type": "Cover",
+		"difficult": "Easy",
+		"level": 7,
+		"totalnotes": 71
+	},
+	{
+		"id": 158,
+		"default": 308,
+		"name": "Little Busters！",
+		"type": "Cover",
+		"difficult": "Normal",
+		"level": 13,
+		"totalnotes": 152
+	},
+	{
+		"id": 159,
+		"default": 309,
+		"name": "Little Busters！",
+		"type": "Cover",
+		"difficult": "Hard",
+		"level": 17,
+		"totalnotes": 370
+	},
+	{
+		"id": 160,
+		"default": 310,
+		"name": "Little Busters！",
+		"type": "Cover",
+		"difficult": "Expert",
+		"level": 25,
+		"totalnotes": 575
+	},
+	{
+		"id": 161,
+		"default": 311,
+		"name": "正解はひとつ！じゃない！！",
+		"type": "Cover",
+		"difficult": "Easy",
+		"level": 7,
+		"totalnotes": 86
+	},
+	{
+		"id": 162,
+		"default": 312,
+		"name": "正解はひとつ！じゃない！！",
+		"type": "Cover",
+		"difficult": "Normal",
+		"level": 13,
+		"totalnotes": 222
+	},
+	{
+		"id": 163,
+		"default": 313,
+		"name": "正解はひとつ！じゃない！！",
+		"type": "Cover",
+		"difficult": "Hard",
+		"level": 18,
+		"totalnotes": 438
+	},
+	{
+		"id": 164,
+		"default": 314,
+		"name": "正解はひとつ！じゃない！！",
+		"type": "Cover",
+		"difficult": "Expert",
+		"level": 25,
+		"totalnotes": 637
+	},
+	{
+		"id": 165,
+		"default": 315,
+		"name": "天体観測",
+		"type": "Cover",
+		"difficult": "Easy",
+		"level": 7,
+		"totalnotes": 70
+	},
+	{
+		"id": 166,
+		"default": 316,
+		"name": "天体観測",
+		"type": "Cover",
+		"difficult": "Normal",
+		"level": 14,
+		"totalnotes": 176
+	},
+	{
+		"id": 167,
+		"default": 317,
+		"name": "天体観測",
+		"type": "Cover",
+		"difficult": "Hard",
+		"level": 17,
+		"totalnotes": 483
+	},
+	{
+		"id": 168,
+		"default": 318,
+		"name": "天体観測",
+		"type": "Cover",
+		"difficult": "Expert",
+		"level": 26,
+		"totalnotes": 751
+	},
+	{
+		"id": 169,
+		"default": 129,
+		"name": "Scarlet Sky",
+		"type": "Original",
+		"difficult": "Easy",
+		"level": 6,
+		"totalnotes": 77
+	},
+	{
+		"id": 170,
+		"default": 130,
+		"name": "Scarlet Sky",
+		"type": "Original",
+		"difficult": "Normal",
+		"level": 12,
+		"totalnotes": 160
+	},
+	{
+		"id": 171,
+		"default": 131,
+		"name": "Scarlet Sky",
+		"type": "Original",
+		"difficult": "Hard",
+		"level": 17,
+		"totalnotes": 433
+	},
+	{
+		"id": 172,
+		"default": 132,
+		"name": "Scarlet Sky",
+		"type": "Original",
+		"difficult": "Expert",
+		"level": 26,
+		"totalnotes": 695
+	},
+	{
+		"id": 173,
+		"default": 417,
+		"name": "MOON PRIDE",
+		"type": "Cover",
+		"difficult": "Easy",
+		"level": 8,
+		"totalnotes": 181
+	},
+	{
+		"id": 174,
+		"default": 418,
+		"name": "MOON PRIDE",
+		"type": "Cover",
+		"difficult": "Normal",
+		"level": 14,
+		"totalnotes": 265
+	},
+	{
+		"id": 175,
+		"default": 419,
+		"name": "MOON PRIDE",
+		"type": "Cover",
+		"difficult": "Hard",
+		"level": 18,
+		"totalnotes": 450
+	},
+	{
+		"id": 176,
+		"default": 420,
+		"name": "MOON PRIDE",
+		"type": "Cover",
+		"difficult": "Expert",
+		"level": 26,
+		"totalnotes": 716
+	},
+	{
+		"id": 177,
+		"default": 161,
+		"name": "はなまる◎アンダンテ",
+		"type": "Original",
+		"difficult": "Easy",
+		"level": 8,
+		"totalnotes": 174
+	},
+	{
+		"id": 178,
+		"default": 162,
+		"name": "はなまる◎アンダンテ",
+		"type": "Original",
+		"difficult": "Normal",
+		"level": 14,
+		"totalnotes": 246
+	},
+	{
+		"id": 179,
+		"default": 163,
+		"name": "はなまる◎アンダンテ",
+		"type": "Original",
+		"difficult": "Hard",
+		"level": 17,
+		"totalnotes": 363
+	},
+	{
+		"id": 180,
+		"default": 164,
+		"name": "はなまる◎アンダンテ",
+		"type": "Original",
+		"difficult": "Expert",
+		"level": 25,
+		"totalnotes": 607
+	},
+	{
+		"id": 181,
+		"default": 101,
+		"name": "どきどきSING OUT！",
+		"type": "Original",
+		"difficult": "Easy",
+		"level": 8,
+		"totalnotes": 133
+	},
+	{
+		"id": 182,
+		"default": 102,
+		"name": "どきどきSING OUT！",
+		"type": "Original",
+		"difficult": "Normal",
+		"level": 14,
+		"totalnotes": 265
+	},
+	{
+		"id": 183,
+		"default": 103,
+		"name": "どきどきSING OUT！",
+		"type": "Original",
+		"difficult": "Hard",
+		"level": 18,
+		"totalnotes": 498
+	},
+	{
+		"id": 184,
+		"default": 104,
+		"name": "どきどきSING OUT！",
+		"type": "Original",
+		"difficult": "Expert",
+		"level": 24,
+		"totalnotes": 605
+	},
+	{
+		"id": 185,
+		"default": 525,
 		"name": "ハッピーサマーウェディング",
 		"type": "Cover",
 		"difficult": "Easy",
@@ -3675,6 +1665,8 @@
 		"totalnotes": 179
 	},
 	{
+		"id": 186,
+		"default": 526,
 		"name": "ハッピーサマーウェディング",
 		"type": "Cover",
 		"difficult": "Normal",
@@ -3682,6 +1674,8 @@
 		"totalnotes": 241
 	},
 	{
+		"id": 187,
+		"default": 527,
 		"name": "ハッピーサマーウェディング",
 		"type": "Cover",
 		"difficult": "Hard",
@@ -3689,6 +1683,8 @@
 		"totalnotes": 456
 	},
 	{
+		"id": 188,
+		"default": 528,
 		"name": "ハッピーサマーウェディング",
 		"type": "Cover",
 		"difficult": "Expert",
@@ -3696,6 +1692,332 @@
 		"totalnotes": 768
 	},
 	{
+		"id": 189,
+		"default": 202,
+		"name": "陽だまりロードナイト",
+		"type": "Original",
+		"difficult": "Easy",
+		"level": 7,
+		"totalnotes": 99
+	},
+	{
+		"id": 190,
+		"default": 203,
+		"name": "陽だまりロードナイト",
+		"type": "Original",
+		"difficult": "Normal",
+		"level": 11,
+		"totalnotes": 188
+	},
+	{
+		"id": 191,
+		"default": 204,
+		"name": "陽だまりロードナイト",
+		"type": "Original",
+		"difficult": "Hard",
+		"level": 17,
+		"totalnotes": 413
+	},
+	{
+		"id": 192,
+		"default": 205,
+		"name": "陽だまりロードナイト",
+		"type": "Original",
+		"difficult": "Expert",
+		"level": 25,
+		"totalnotes": 659
+	},
+	{
+		"id": 193,
+		"default": 469,
+		"name": "紅蓮の弓矢",
+		"type": "Cover",
+		"difficult": "Easy",
+		"level": 10,
+		"totalnotes": 179
+	},
+	{
+		"id": 194,
+		"default": 470,
+		"name": "紅蓮の弓矢",
+		"type": "Cover",
+		"difficult": "Normal",
+		"level": 14,
+		"totalnotes": 291
+	},
+	{
+		"id": 195,
+		"default": 471,
+		"name": "紅蓮の弓矢",
+		"type": "Cover",
+		"difficult": "Hard",
+		"level": 19,
+		"totalnotes": 482
+	},
+	{
+		"id": 196,
+		"default": 472,
+		"name": "紅蓮の弓矢",
+		"type": "Cover",
+		"difficult": "Expert",
+		"level": 27,
+		"totalnotes": 707
+	},
+	{
+		"id": 197,
+		"default": 319,
+		"name": "God knows…",
+		"type": "Cover",
+		"difficult": "Easy",
+		"level": 10,
+		"totalnotes": 204
+	},
+	{
+		"id": 198,
+		"default": 320,
+		"name": "God knows…",
+		"type": "Cover",
+		"difficult": "Normal",
+		"level": 15,
+		"totalnotes": 378
+	},
+	{
+		"id": 199,
+		"default": 321,
+		"name": "God knows…",
+		"type": "Cover",
+		"difficult": "Hard",
+		"level": 21,
+		"totalnotes": 631
+	},
+	{
+		"id": 200,
+		"default": 322,
+		"name": "God knows…",
+		"type": "Cover",
+		"difficult": "Expert",
+		"level": 28,
+		"totalnotes": 1081
+	},
+	{
+		"id": 201,
+		"default": 105,
+		"name": "花園電気ギター！！！",
+		"type": "Original",
+		"difficult": "Easy",
+		"level": 10,
+		"totalnotes": 142
+	},
+	{
+		"id": 202,
+		"default": 106,
+		"name": "花園電気ギター！！！",
+		"type": "Original",
+		"difficult": "Normal",
+		"level": 14,
+		"totalnotes": 250
+	},
+	{
+		"id": 203,
+		"default": 107,
+		"name": "花園電気ギター！！！",
+		"type": "Original",
+		"difficult": "Hard",
+		"level": 18,
+		"totalnotes": 463
+	},
+	{
+		"id": 204,
+		"default": 108,
+		"name": "花園電気ギター！！！",
+		"type": "Original",
+		"difficult": "Expert",
+		"level": 26,
+		"totalnotes": 718
+	},
+	{
+		"id": 205,
+		"default": 165,
+		"name": "ゆら・ゆらRing-Dong-Dance",
+		"type": "Original",
+		"difficult": "Easy",
+		"level": 9,
+		"totalnotes": 137
+	},
+	{
+		"id": 206,
+		"default": 166,
+		"name": "ゆら・ゆらRing-Dong-Dance",
+		"type": "Original",
+		"difficult": "Normal",
+		"level": 14,
+		"totalnotes": 260
+	},
+	{
+		"id": 207,
+		"default": 167,
+		"name": "ゆら・ゆらRing-Dong-Dance",
+		"type": "Original",
+		"difficult": "Hard",
+		"level": 18,
+		"totalnotes": 389
+	},
+	{
+		"id": 208,
+		"default": 168,
+		"name": "ゆら・ゆらRing-Dong-Dance",
+		"type": "Original",
+		"difficult": "Expert",
+		"level": 24,
+		"totalnotes": 546
+	},
+	{
+		"id": 209,
+		"default": 372,
+		"name": "great escape",
+		"type": "Cover",
+		"difficult": "Easy",
+		"level": 8,
+		"totalnotes": 118
+	},
+	{
+		"id": 210,
+		"default": 373,
+		"name": "great escape",
+		"type": "Cover",
+		"difficult": "Normal",
+		"level": 13,
+		"totalnotes": 239
+	},
+	{
+		"id": 211,
+		"default": 374,
+		"name": "great escape",
+		"type": "Cover",
+		"difficult": "Hard",
+		"level": 17,
+		"totalnotes": 445
+	},
+	{
+		"id": 212,
+		"default": 375,
+		"name": "great escape",
+		"type": "Cover",
+		"difficult": "Expert",
+		"level": 26,
+		"totalnotes": 676
+	},
+	{
+		"id": 213,
+		"default": 109,
+		"name": "チョコレイトの低音レシピ",
+		"type": "Original",
+		"difficult": "Easy",
+		"level": 6,
+		"totalnotes": 114
+	},
+	{
+		"id": 214,
+		"default": 110,
+		"name": "チョコレイトの低音レシピ",
+		"type": "Original",
+		"difficult": "Normal",
+		"level": 13,
+		"totalnotes": 239
+	},
+	{
+		"id": 215,
+		"default": 111,
+		"name": "チョコレイトの低音レシピ",
+		"type": "Original",
+		"difficult": "Hard",
+		"level": 17,
+		"totalnotes": 505
+	},
+	{
+		"id": 216,
+		"default": 112,
+		"name": "チョコレイトの低音レシピ",
+		"type": "Original",
+		"difficult": "Expert",
+		"level": 25,
+		"totalnotes": 670
+	},
+	{
+		"id": 217,
+		"default": 421,
+		"name": "ふわふわ時間",
+		"type": "Cover",
+		"difficult": "Easy",
+		"level": 7,
+		"totalnotes": 104
+	},
+	{
+		"id": 218,
+		"default": 422,
+		"name": "ふわふわ時間",
+		"type": "Cover",
+		"difficult": "Normal",
+		"level": 13,
+		"totalnotes": 195
+	},
+	{
+		"id": 219,
+		"default": 423,
+		"name": "ふわふわ時間",
+		"type": "Cover",
+		"difficult": "Hard",
+		"level": 18,
+		"totalnotes": 384
+	},
+	{
+		"id": 220,
+		"default": 424,
+		"name": "ふわふわ時間",
+		"type": "Cover",
+		"difficult": "Expert",
+		"level": 25,
+		"totalnotes": 544
+	},
+	{
+		"id": 221,
+		"default": 97,
+		"name": "夏のドーン！",
+		"type": "Original",
+		"difficult": "Easy",
+		"level": 8,
+		"totalnotes": 145
+	},
+	{
+		"id": 222,
+		"default": 98,
+		"name": "夏のドーン！",
+		"type": "Original",
+		"difficult": "Normal",
+		"level": 14,
+		"totalnotes": 273
+	},
+	{
+		"id": 223,
+		"default": 99,
+		"name": "夏のドーン！",
+		"type": "Original",
+		"difficult": "Hard",
+		"level": 17,
+		"totalnotes": 406
+	},
+	{
+		"id": 224,
+		"default": 100,
+		"name": "夏のドーン！",
+		"type": "Original",
+		"difficult": "Expert",
+		"level": 24,
+		"totalnotes": 594
+	},
+	{
+		"id": 225,
+		"default": 529,
 		"name": "ひまわりの約束",
 		"type": "Cover",
 		"difficult": "Easy",
@@ -3703,6 +2025,8 @@
 		"totalnotes": 125
 	},
 	{
+		"id": 226,
+		"default": 530,
 		"name": "ひまわりの約束",
 		"type": "Cover",
 		"difficult": "Normal",
@@ -3710,6 +2034,8 @@
 		"totalnotes": 244
 	},
 	{
+		"id": 227,
+		"default": 531,
 		"name": "ひまわりの約束",
 		"type": "Cover",
 		"difficult": "Hard",
@@ -3717,6 +2043,8 @@
 		"totalnotes": 394
 	},
 	{
+		"id": 228,
+		"default": 532,
 		"name": "ひまわりの約束",
 		"type": "Cover",
 		"difficult": "Expert",
@@ -3724,6 +2052,548 @@
 		"totalnotes": 481
 	},
 	{
+		"id": 229,
+		"default": 473,
+		"name": "The Everlasting Guilty Crown",
+		"type": "Cover",
+		"difficult": "Easy",
+		"level": 8,
+		"totalnotes": 158
+	},
+	{
+		"id": 230,
+		"default": 474,
+		"name": "The Everlasting Guilty Crown",
+		"type": "Cover",
+		"difficult": "Normal",
+		"level": 15,
+		"totalnotes": 340
+	},
+	{
+		"id": 231,
+		"default": 475,
+		"name": "The Everlasting Guilty Crown",
+		"type": "Cover",
+		"difficult": "Hard",
+		"level": 20,
+		"totalnotes": 571
+	},
+	{
+		"id": 232,
+		"default": 476,
+		"name": "The Everlasting Guilty Crown",
+		"type": "Cover",
+		"difficult": "Expert",
+		"level": 26,
+		"totalnotes": 852
+	},
+	{
+		"id": 233,
+		"default": 49,
+		"name": "八月のif",
+		"type": "Original",
+		"difficult": "Easy",
+		"level": 7,
+		"totalnotes": 142
+	},
+	{
+		"id": 234,
+		"default": 50,
+		"name": "八月のif",
+		"type": "Original",
+		"difficult": "Normal",
+		"level": 13,
+		"totalnotes": 268
+	},
+	{
+		"id": 235,
+		"default": 51,
+		"name": "八月のif",
+		"type": "Original",
+		"difficult": "Hard",
+		"level": 17,
+		"totalnotes": 444
+	},
+	{
+		"id": 236,
+		"default": 52,
+		"name": "八月のif",
+		"type": "Original",
+		"difficult": "Expert",
+		"level": 24,
+		"totalnotes": 609
+	},
+	{
+		"id": 237,
+		"default": 133,
+		"name": "Hey-day狂騒曲(カプリチオ)",
+		"type": "Original",
+		"difficult": "Easy",
+		"level": 10,
+		"totalnotes": 184
+	},
+	{
+		"id": 238,
+		"default": 134,
+		"name": "Hey-day狂騒曲(カプリチオ)",
+		"type": "Original",
+		"difficult": "Normal",
+		"level": 15,
+		"totalnotes": 314
+	},
+	{
+		"id": 239,
+		"default": 135,
+		"name": "Hey-day狂騒曲(カプリチオ)",
+		"type": "Original",
+		"difficult": "Hard",
+		"level": 20,
+		"totalnotes": 542
+	},
+	{
+		"id": 240,
+		"default": 136,
+		"name": "Hey-day狂騒曲(カプリチオ)",
+		"type": "Original",
+		"difficult": "Expert",
+		"level": 28,
+		"totalnotes": 878
+	},
+	{
+		"id": 241,
+		"default": 206,
+		"name": "熱色スターマイン",
+		"type": "Original",
+		"difficult": "Easy",
+		"level": 10,
+		"totalnotes": 157
+	},
+	{
+		"id": 242,
+		"default": 207,
+		"name": "熱色スターマイン",
+		"type": "Original",
+		"difficult": "Normal",
+		"level": 14,
+		"totalnotes": 262
+	},
+	{
+		"id": 243,
+		"default": 208,
+		"name": "熱色スターマイン",
+		"type": "Original",
+		"difficult": "Hard",
+		"level": 20,
+		"totalnotes": 529
+	},
+	{
+		"id": 244,
+		"default": 209,
+		"name": "熱色スターマイン",
+		"type": "Original",
+		"difficult": "Expert",
+		"level": 26,
+		"totalnotes": 691
+	},
+	{
+		"id": 245,
+		"default": 323,
+		"name": "only my railgun",
+		"type": "Cover",
+		"difficult": "Easy",
+		"level": 9,
+		"totalnotes": 186
+	},
+	{
+		"id": 246,
+		"default": 324,
+		"name": "only my railgun",
+		"type": "Cover",
+		"difficult": "Normal",
+		"level": 15,
+		"totalnotes": 305
+	},
+	{
+		"id": 247,
+		"default": 325,
+		"name": "only my railgun",
+		"type": "Cover",
+		"difficult": "Hard",
+		"level": 19,
+		"totalnotes": 445
+	},
+	{
+		"id": 248,
+		"default": 326,
+		"name": "only my railgun",
+		"type": "Cover",
+		"difficult": "Expert",
+		"level": 26,
+		"totalnotes": 706
+	},
+	{
+		"id": 249,
+		"default": 376,
+		"name": "アスノヨゾラ哨戒班",
+		"type": "Cover",
+		"difficult": "Easy",
+		"level": 10,
+		"totalnotes": 178
+	},
+	{
+		"id": 250,
+		"default": 377,
+		"name": "アスノヨゾラ哨戒班",
+		"type": "Cover",
+		"difficult": "Normal",
+		"level": 15,
+		"totalnotes": 283
+	},
+	{
+		"id": 251,
+		"default": 378,
+		"name": "アスノヨゾラ哨戒班",
+		"type": "Cover",
+		"difficult": "Hard",
+		"level": 19,
+		"totalnotes": 433
+	},
+	{
+		"id": 252,
+		"default": 379,
+		"name": "アスノヨゾラ哨戒班",
+		"type": "Cover",
+		"difficult": "Expert",
+		"level": 26,
+		"totalnotes": 695
+	},
+	{
+		"id": 253,
+		"default": 53,
+		"name": "Time Lapse",
+		"type": "Original",
+		"difficult": "Easy",
+		"level": 9,
+		"totalnotes": 148
+	},
+	{
+		"id": 254,
+		"default": 54,
+		"name": "Time Lapse",
+		"type": "Original",
+		"difficult": "Normal",
+		"level": 15,
+		"totalnotes": 252
+	},
+	{
+		"id": 255,
+		"default": 55,
+		"name": "Time Lapse",
+		"type": "Original",
+		"difficult": "Hard",
+		"level": 19,
+		"totalnotes": 563
+	},
+	{
+		"id": 256,
+		"default": 56,
+		"name": "Time Lapse",
+		"type": "Original",
+		"difficult": "Expert",
+		"level": 26,
+		"totalnotes": 728
+	},
+	{
+		"id": 257,
+		"default": 259,
+		"name": "せかいのっびのびトレジャー！",
+		"type": "Original",
+		"difficult": "Easy",
+		"level": 8,
+		"totalnotes": 163
+	},
+	{
+		"id": 258,
+		"default": 260,
+		"name": "せかいのっびのびトレジャー！",
+		"type": "Original",
+		"difficult": "Normal",
+		"level": 14,
+		"totalnotes": 293
+	},
+	{
+		"id": 259,
+		"default": 261,
+		"name": "せかいのっびのびトレジャー！",
+		"type": "Original",
+		"difficult": "Hard",
+		"level": 20,
+		"totalnotes": 553
+	},
+	{
+		"id": 260,
+		"default": 262,
+		"name": "せかいのっびのびトレジャー！",
+		"type": "Original",
+		"difficult": "Expert",
+		"level": 26,
+		"totalnotes": 796
+	},
+	{
+		"id": 261,
+		"default": 169,
+		"name": "SURVIVOR ねばーぎぶあっぷ！",
+		"type": "Original",
+		"difficult": "Easy",
+		"level": 10,
+		"totalnotes": 220
+	},
+	{
+		"id": 262,
+		"default": 170,
+		"name": "SURVIVOR ねばーぎぶあっぷ！",
+		"type": "Original",
+		"difficult": "Normal",
+		"level": 15,
+		"totalnotes": 343
+	},
+	{
+		"id": 263,
+		"default": 171,
+		"name": "SURVIVOR ねばーぎぶあっぷ！",
+		"type": "Original",
+		"difficult": "Hard",
+		"level": 20,
+		"totalnotes": 559
+	},
+	{
+		"id": 264,
+		"default": 172,
+		"name": "SURVIVOR ねばーぎぶあっぷ！",
+		"type": "Original",
+		"difficult": "Expert",
+		"level": 26,
+		"totalnotes": 868
+	},
+	{
+		"id": 265,
+		"default": 263,
+		"name": "YAPPY！SCHOOL CARNIVAL☆彡",
+		"type": "Original",
+		"difficult": "Easy",
+		"level": 9,
+		"totalnotes": 184
+	},
+	{
+		"id": 266,
+		"default": 264,
+		"name": "YAPPY！SCHOOL CARNIVAL☆彡",
+		"type": "Original",
+		"difficult": "Normal",
+		"level": 14,
+		"totalnotes": 290
+	},
+	{
+		"id": 267,
+		"default": 265,
+		"name": "YAPPY！SCHOOL CARNIVAL☆彡",
+		"type": "Original",
+		"difficult": "Hard",
+		"level": 18,
+		"totalnotes": 468
+	},
+	{
+		"id": 268,
+		"default": 266,
+		"name": "YAPPY！SCHOOL CARNIVAL☆彡",
+		"type": "Original",
+		"difficult": "Expert",
+		"level": 25,
+		"totalnotes": 663
+	},
+	{
+		"id": 269,
+		"default": 477,
+		"name": "Red fraction",
+		"type": "Cover",
+		"difficult": "Easy",
+		"level": 8,
+		"totalnotes": 155
+	},
+	{
+		"id": 270,
+		"default": 478,
+		"name": "Red fraction",
+		"type": "Cover",
+		"difficult": "Normal",
+		"level": 14,
+		"totalnotes": 289
+	},
+	{
+		"id": 271,
+		"default": 479,
+		"name": "Red fraction",
+		"type": "Cover",
+		"difficult": "Hard",
+		"level": 18,
+		"totalnotes": 490
+	},
+	{
+		"id": 272,
+		"default": 480,
+		"name": "Red fraction",
+		"type": "Cover",
+		"difficult": "Expert",
+		"level": 26,
+		"totalnotes": 724
+	},
+	{
+		"id": 273,
+		"default": 425,
+		"name": "はなまるぴっぴはよいこだけ",
+		"type": "Cover",
+		"difficult": "Easy",
+		"level": 9,
+		"totalnotes": 193
+	},
+	{
+		"id": 274,
+		"default": 426,
+		"name": "はなまるぴっぴはよいこだけ",
+		"type": "Cover",
+		"difficult": "Normal",
+		"level": 14,
+		"totalnotes": 318
+	},
+	{
+		"id": 275,
+		"default": 427,
+		"name": "はなまるぴっぴはよいこだけ",
+		"type": "Cover",
+		"difficult": "Hard",
+		"level": 18,
+		"totalnotes": 507
+	},
+	{
+		"id": 276,
+		"default": 428,
+		"name": "はなまるぴっぴはよいこだけ",
+		"type": "Cover",
+		"difficult": "Expert",
+		"level": 25,
+		"totalnotes": 729
+	},
+	{
+		"id": 277,
+		"default": 113,
+		"name": "遠い音楽 ～ハートビート～",
+		"type": "Original",
+		"difficult": "Easy",
+		"level": 7,
+		"totalnotes": 116
+	},
+	{
+		"id": 278,
+		"default": 114,
+		"name": "遠い音楽 ～ハートビート～",
+		"type": "Original",
+		"difficult": "Normal",
+		"level": 13,
+		"totalnotes": 272
+	},
+	{
+		"id": 279,
+		"default": 115,
+		"name": "遠い音楽 ～ハートビート～",
+		"type": "Original",
+		"difficult": "Hard",
+		"level": 18,
+		"totalnotes": 507
+	},
+	{
+		"id": 280,
+		"default": 116,
+		"name": "遠い音楽 ～ハートビート～",
+		"type": "Original",
+		"difficult": "Expert",
+		"level": 25,
+		"totalnotes": 687
+	},
+	{
+		"id": 281,
+		"default": 210,
+		"name": "-HEROIC ADVENT-",
+		"type": "Original",
+		"difficult": "Easy",
+		"level": 9,
+		"totalnotes": 156
+	},
+	{
+		"id": 282,
+		"default": 211,
+		"name": "-HEROIC ADVENT-",
+		"type": "Original",
+		"difficult": "Normal",
+		"level": 14,
+		"totalnotes": 257
+	},
+	{
+		"id": 283,
+		"default": 212,
+		"name": "-HEROIC ADVENT-",
+		"type": "Original",
+		"difficult": "Hard",
+		"level": 19,
+		"totalnotes": 509
+	},
+	{
+		"id": 284,
+		"default": 213,
+		"name": "-HEROIC ADVENT-",
+		"type": "Original",
+		"difficult": "Expert",
+		"level": 26,
+		"totalnotes": 730
+	},
+	{
+		"id": 285,
+		"default": 214,
+		"name": "Determination Symphony",
+		"type": "Original",
+		"difficult": "Easy",
+		"level": 7,
+		"totalnotes": 140
+	},
+	{
+		"id": 286,
+		"default": 215,
+		"name": "Determination Symphony",
+		"type": "Original",
+		"difficult": "Normal",
+		"level": 13,
+		"totalnotes": 264
+	},
+	{
+		"id": 287,
+		"default": 216,
+		"name": "Determination Symphony",
+		"type": "Original",
+		"difficult": "Hard",
+		"level": 21,
+		"totalnotes": 630
+	},
+	{
+		"id": 288,
+		"default": 217,
+		"name": "Determination Symphony",
+		"type": "Original",
+		"difficult": "Expert",
+		"level": 27,
+		"totalnotes": 1054
+	},
+	{
+		"id": 289,
+		"default": 533,
 		"name": "ロメオ",
 		"type": "Cover",
 		"difficult": "Easy",
@@ -3731,6 +2601,8 @@
 		"totalnotes": 103
 	},
 	{
+		"id": 290,
+		"default": 534,
 		"name": "ロメオ",
 		"type": "Cover",
 		"difficult": "Normal",
@@ -3738,6 +2610,8 @@
 		"totalnotes": 259
 	},
 	{
+		"id": 291,
+		"default": 535,
 		"name": "ロメオ",
 		"type": "Cover",
 		"difficult": "Hard",
@@ -3745,6 +2619,8 @@
 		"totalnotes": 474
 	},
 	{
+		"id": 292,
+		"default": 536,
 		"name": "ロメオ",
 		"type": "Cover",
 		"difficult": "Expert",
@@ -3752,6 +2628,152 @@
 		"totalnotes": 620
 	},
 	{
+		"id": 293,
+		"default": 380,
+		"name": "READY STEADY GO",
+		"type": "Cover",
+		"difficult": "Easy",
+		"level": 7,
+		"totalnotes": 107
+	},
+	{
+		"id": 294,
+		"default": 381,
+		"name": "READY STEADY GO",
+		"type": "Cover",
+		"difficult": "Normal",
+		"level": 13,
+		"totalnotes": 217
+	},
+	{
+		"id": 295,
+		"default": 382,
+		"name": "READY STEADY GO",
+		"type": "Cover",
+		"difficult": "Hard",
+		"level": 17,
+		"totalnotes": 429
+	},
+	{
+		"id": 296,
+		"default": 383,
+		"name": "READY STEADY GO",
+		"type": "Cover",
+		"difficult": "Expert",
+		"level": 24,
+		"totalnotes": 584
+	},
+	{
+		"id": 297,
+		"default": 429,
+		"name": "世界は恋に落ちている",
+		"type": "Cover",
+		"difficult": "Easy",
+		"level": 7,
+		"totalnotes": 137
+	},
+	{
+		"id": 298,
+		"default": 430,
+		"name": "世界は恋に落ちている",
+		"type": "Cover",
+		"difficult": "Normal",
+		"level": 14,
+		"totalnotes": 267
+	},
+	{
+		"id": 299,
+		"default": 431,
+		"name": "世界は恋に落ちている",
+		"type": "Cover",
+		"difficult": "Hard",
+		"level": 16,
+		"totalnotes": 405
+	},
+	{
+		"id": 300,
+		"default": 432,
+		"name": "世界は恋に落ちている",
+		"type": "Cover",
+		"difficult": "Expert",
+		"level": 23,
+		"totalnotes": 527
+	},
+	{
+		"id": 301,
+		"default": 117,
+		"name": "す、好きなんかじゃない！",
+		"type": "Original",
+		"difficult": "Easy",
+		"level": 8,
+		"totalnotes": 133
+	},
+	{
+		"id": 302,
+		"default": 118,
+		"name": "す、好きなんかじゃない！",
+		"type": "Original",
+		"difficult": "Normal",
+		"level": 13,
+		"totalnotes": 202
+	},
+	{
+		"id": 303,
+		"default": 119,
+		"name": "す、好きなんかじゃない！",
+		"type": "Original",
+		"difficult": "Hard",
+		"level": 17,
+		"totalnotes": 397
+	},
+	{
+		"id": 304,
+		"default": 120,
+		"name": "す、好きなんかじゃない！",
+		"type": "Original",
+		"difficult": "Expert",
+		"level": 25,
+		"totalnotes": 606
+	},
+	{
+		"id": 305,
+		"default": 327,
+		"name": "千本桜",
+		"type": "Cover",
+		"difficult": "Easy",
+		"level": 8,
+		"totalnotes": 136
+	},
+	{
+		"id": 306,
+		"default": 328,
+		"name": "千本桜",
+		"type": "Cover",
+		"difficult": "Normal",
+		"level": 14,
+		"totalnotes": 256
+	},
+	{
+		"id": 307,
+		"default": 329,
+		"name": "千本桜",
+		"type": "Cover",
+		"difficult": "Hard",
+		"level": 19,
+		"totalnotes": 553
+	},
+	{
+		"id": 308,
+		"default": 330,
+		"name": "千本桜",
+		"type": "Cover",
+		"difficult": "Expert",
+		"level": 26,
+		"totalnotes": 730
+	},
+	{
+		"id": 309,
+		"default": 537,
 		"name": "恋は渾沌の隷也",
 		"type": "Cover",
 		"difficult": "Easy",
@@ -3759,6 +2781,8 @@
 		"totalnotes": 134
 	},
 	{
+		"id": 310,
+		"default": 538,
 		"name": "恋は渾沌の隷也",
 		"type": "Cover",
 		"difficult": "Normal",
@@ -3766,6 +2790,8 @@
 		"totalnotes": 262
 	},
 	{
+		"id": 311,
+		"default": 539,
 		"name": "恋は渾沌の隷也",
 		"type": "Cover",
 		"difficult": "Hard",
@@ -3773,6 +2799,8 @@
 		"totalnotes": 641
 	},
 	{
+		"id": 312,
+		"default": 540,
 		"name": "恋は渾沌の隷也",
 		"type": "Cover",
 		"difficult": "Expert",
@@ -3780,6 +2808,224 @@
 		"totalnotes": 815
 	},
 	{
+		"id": 313,
+		"default": 57,
+		"name": "クリスマスのうた",
+		"type": "Original",
+		"difficult": "Easy",
+		"level": 8,
+		"totalnotes": 147
+	},
+	{
+		"id": 314,
+		"default": 58,
+		"name": "クリスマスのうた",
+		"type": "Original",
+		"difficult": "Normal",
+		"level": 13,
+		"totalnotes": 239
+	},
+	{
+		"id": 315,
+		"default": 59,
+		"name": "クリスマスのうた",
+		"type": "Original",
+		"difficult": "Hard",
+		"level": 18,
+		"totalnotes": 471
+	},
+	{
+		"id": 316,
+		"default": 60,
+		"name": "クリスマスのうた",
+		"type": "Original",
+		"difficult": "Expert",
+		"level": 25,
+		"totalnotes": 683
+	},
+	{
+		"id": 317,
+		"default": 61,
+		"name": "B.O.F",
+		"type": "Original",
+		"difficult": "Easy",
+		"level": 6,
+		"totalnotes": 108
+	},
+	{
+		"id": 318,
+		"default": 62,
+		"name": "B.O.F",
+		"type": "Original",
+		"difficult": "Normal",
+		"level": 12,
+		"totalnotes": 175
+	},
+	{
+		"id": 319,
+		"default": 63,
+		"name": "B.O.F",
+		"type": "Original",
+		"difficult": "Hard",
+		"level": 18,
+		"totalnotes": 413
+	},
+	{
+		"id": 320,
+		"default": 64,
+		"name": "B.O.F",
+		"type": "Original",
+		"difficult": "Expert",
+		"level": 25,
+		"totalnotes": 612
+	},
+	{
+		"id": 321,
+		"default": 137,
+		"name": "Y.O.L.O!!!!!",
+		"type": "Original",
+		"difficult": "Easy",
+		"level": 8,
+		"totalnotes": 162
+	},
+	{
+		"id": 322,
+		"default": 138,
+		"name": "Y.O.L.O!!!!!",
+		"type": "Original",
+		"difficult": "Normal",
+		"level": 14,
+		"totalnotes": 298
+	},
+	{
+		"id": 323,
+		"default": 139,
+		"name": "Y.O.L.O!!!!!",
+		"type": "Original",
+		"difficult": "Hard",
+		"level": 19,
+		"totalnotes": 530
+	},
+	{
+		"id": 324,
+		"default": 140,
+		"name": "Y.O.L.O!!!!!",
+		"type": "Original",
+		"difficult": "Expert",
+		"level": 26,
+		"totalnotes": 768
+	},
+	{
+		"id": 325,
+		"default": 481,
+		"name": "深愛",
+		"type": "Cover",
+		"difficult": "Easy",
+		"level": 8,
+		"totalnotes": 150
+	},
+	{
+		"id": 326,
+		"default": 482,
+		"name": "深愛",
+		"type": "Cover",
+		"difficult": "Normal",
+		"level": 14,
+		"totalnotes": 262
+	},
+	{
+		"id": 327,
+		"default": 483,
+		"name": "深愛",
+		"type": "Cover",
+		"difficult": "Hard",
+		"level": 18,
+		"totalnotes": 422
+	},
+	{
+		"id": 328,
+		"default": 484,
+		"name": "深愛",
+		"type": "Cover",
+		"difficult": "Expert",
+		"level": 25,
+		"totalnotes": 666
+	},
+	{
+		"id": 329,
+		"default": 267,
+		"name": "わちゃ・もちゃ・ぺったん行進曲",
+		"type": "Original",
+		"difficult": "Easy",
+		"level": 8,
+		"totalnotes": 144
+	},
+	{
+		"id": 330,
+		"default": 268,
+		"name": "わちゃ・もちゃ・ぺったん行進曲",
+		"type": "Original",
+		"difficult": "Normal",
+		"level": 13,
+		"totalnotes": 246
+	},
+	{
+		"id": 331,
+		"default": 269,
+		"name": "わちゃ・もちゃ・ぺったん行進曲",
+		"type": "Original",
+		"difficult": "Hard",
+		"level": 18,
+		"totalnotes": 464
+	},
+	{
+		"id": 332,
+		"default": 270,
+		"name": "わちゃ・もちゃ・ぺったん行進曲",
+		"type": "Original",
+		"difficult": "Expert",
+		"level": 26,
+		"totalnotes": 769
+	},
+	{
+		"id": 333,
+		"default": 433,
+		"name": "ハッピーシンセサイザ",
+		"type": "Cover",
+		"difficult": "Easy",
+		"level": 7,
+		"totalnotes": 169
+	},
+	{
+		"id": 334,
+		"default": 434,
+		"name": "ハッピーシンセサイザ",
+		"type": "Cover",
+		"difficult": "Normal",
+		"level": 12,
+		"totalnotes": 339
+	},
+	{
+		"id": 335,
+		"default": 435,
+		"name": "ハッピーシンセサイザ",
+		"type": "Cover",
+		"difficult": "Hard",
+		"level": 18,
+		"totalnotes": 611
+	},
+	{
+		"id": 336,
+		"default": 436,
+		"name": "ハッピーシンセサイザ",
+		"type": "Cover",
+		"difficult": "Expert",
+		"level": 26,
+		"totalnotes": 933
+	},
+	{
+		"id": 337,
+		"default": 541,
 		"name": "Dragon Night",
 		"type": "Cover",
 		"difficult": "Easy",
@@ -3787,6 +3033,8 @@
 		"totalnotes": 103
 	},
 	{
+		"id": 338,
+		"default": 542,
 		"name": "Dragon Night",
 		"type": "Cover",
 		"difficult": "Normal",
@@ -3794,6 +3042,8 @@
 		"totalnotes": 168
 	},
 	{
+		"id": 339,
+		"default": 543,
 		"name": "Dragon Night",
 		"type": "Cover",
 		"difficult": "Hard",
@@ -3801,6 +3051,8 @@
 		"totalnotes": 335
 	},
 	{
+		"id": 340,
+		"default": 544,
 		"name": "Dragon Night",
 		"type": "Cover",
 		"difficult": "Expert",
@@ -3808,6 +3060,440 @@
 		"totalnotes": 500
 	},
 	{
+		"id": 341,
+		"default": 485,
+		"name": "残酷な天使のテーゼ",
+		"type": "Cover",
+		"difficult": "Easy",
+		"level": 8,
+		"totalnotes": 164
+	},
+	{
+		"id": 342,
+		"default": 486,
+		"name": "残酷な天使のテーゼ",
+		"type": "Cover",
+		"difficult": "Normal",
+		"level": 13,
+		"totalnotes": 276
+	},
+	{
+		"id": 343,
+		"default": 487,
+		"name": "残酷な天使のテーゼ",
+		"type": "Cover",
+		"difficult": "Hard",
+		"level": 18,
+		"totalnotes": 435
+	},
+	{
+		"id": 344,
+		"default": 488,
+		"name": "残酷な天使のテーゼ",
+		"type": "Cover",
+		"difficult": "Expert",
+		"level": 25,
+		"totalnotes": 659
+	},
+	{
+		"id": 345,
+		"default": 384,
+		"name": "Redo",
+		"type": "Cover",
+		"difficult": "Easy",
+		"level": 9,
+		"totalnotes": 170
+	},
+	{
+		"id": 346,
+		"default": 385,
+		"name": "Redo",
+		"type": "Cover",
+		"difficult": "Normal",
+		"level": 14,
+		"totalnotes": 285
+	},
+	{
+		"id": 347,
+		"default": 386,
+		"name": "Redo",
+		"type": "Cover",
+		"difficult": "Hard",
+		"level": 20,
+		"totalnotes": 478
+	},
+	{
+		"id": 348,
+		"default": 387,
+		"name": "Redo",
+		"type": "Cover",
+		"difficult": "Expert",
+		"level": 27,
+		"totalnotes": 712
+	},
+	{
+		"id": 349,
+		"default": 331,
+		"name": "君じゃなきゃダメみたい",
+		"type": "Cover",
+		"difficult": "Easy",
+		"level": 8,
+		"totalnotes": 140
+	},
+	{
+		"id": 350,
+		"default": 332,
+		"name": "君じゃなきゃダメみたい",
+		"type": "Cover",
+		"difficult": "Normal",
+		"level": 14,
+		"totalnotes": 269
+	},
+	{
+		"id": 351,
+		"default": 333,
+		"name": "君じゃなきゃダメみたい",
+		"type": "Cover",
+		"difficult": "Hard",
+		"level": 17,
+		"totalnotes": 398
+	},
+	{
+		"id": 352,
+		"default": 334,
+		"name": "君じゃなきゃダメみたい",
+		"type": "Cover",
+		"difficult": "Expert",
+		"level": 25,
+		"totalnotes": 620
+	},
+	{
+		"id": 353,
+		"default": 65,
+		"name": "CiRCLING",
+		"type": "Original",
+		"difficult": "Easy",
+		"level": 8,
+		"totalnotes": 170
+	},
+	{
+		"id": 354,
+		"default": 66,
+		"name": "CiRCLING",
+		"type": "Original",
+		"difficult": "Normal",
+		"level": 14,
+		"totalnotes": 324
+	},
+	{
+		"id": 355,
+		"default": 67,
+		"name": "CiRCLING",
+		"type": "Original",
+		"difficult": "Hard",
+		"level": 18,
+		"totalnotes": 569
+	},
+	{
+		"id": 356,
+		"default": 68,
+		"name": "CiRCLING",
+		"type": "Original",
+		"difficult": "Expert",
+		"level": 25,
+		"totalnotes": 823
+	},
+	{
+		"id": 357,
+		"default": 283,
+		"name": "クインティプル☆すまいる",
+		"type": "Original",
+		"difficult": "Easy",
+		"level": 8,
+		"totalnotes": 133
+	},
+	{
+		"id": 358,
+		"default": 284,
+		"name": "クインティプル☆すまいる",
+		"type": "Original",
+		"difficult": "Normal",
+		"level": 13,
+		"totalnotes": 239
+	},
+	{
+		"id": 359,
+		"default": 285,
+		"name": "クインティプル☆すまいる",
+		"type": "Original",
+		"difficult": "Hard",
+		"level": 18,
+		"totalnotes": 459
+	},
+	{
+		"id": 360,
+		"default": 286,
+		"name": "クインティプル☆すまいる",
+		"type": "Original",
+		"difficult": "Expert",
+		"level": 25,
+		"totalnotes": 658
+	},
+	{
+		"id": 361,
+		"default": 218,
+		"name": "ONENESS",
+		"type": "Original",
+		"difficult": "Easy",
+		"level": 8,
+		"totalnotes": 165
+	},
+	{
+		"id": 362,
+		"default": 219,
+		"name": "ONENESS",
+		"type": "Original",
+		"difficult": "Normal",
+		"level": 13,
+		"totalnotes": 262
+	},
+	{
+		"id": 363,
+		"default": 220,
+		"name": "ONENESS",
+		"type": "Original",
+		"difficult": "Hard",
+		"level": 18,
+		"totalnotes": 445
+	},
+	{
+		"id": 364,
+		"default": 221,
+		"name": "ONENESS",
+		"type": "Original",
+		"difficult": "Expert",
+		"level": 27,
+		"totalnotes": 746
+	},
+	{
+		"id": 365,
+		"default": 222,
+		"name": "Opera of the wasteland",
+		"type": "Original",
+		"difficult": "Easy",
+		"level": 8,
+		"totalnotes": 155
+	},
+	{
+		"id": 366,
+		"default": 223,
+		"name": "Opera of the wasteland",
+		"type": "Original",
+		"difficult": "Normal",
+		"level": 14,
+		"totalnotes": 281
+	},
+	{
+		"id": 367,
+		"default": 224,
+		"name": "Opera of the wasteland",
+		"type": "Original",
+		"difficult": "Hard",
+		"level": 20,
+		"totalnotes": 483
+	},
+	{
+		"id": 368,
+		"default": 225,
+		"name": "Opera of the wasteland",
+		"type": "Original",
+		"difficult": "Expert",
+		"level": 28,
+		"totalnotes": 696
+	},
+	{
+		"id": 369,
+		"default": 388,
+		"name": "プライド革命",
+		"type": "Cover",
+		"difficult": "Easy",
+		"level": 6,
+		"totalnotes": 90
+	},
+	{
+		"id": 370,
+		"default": 389,
+		"name": "プライド革命",
+		"type": "Cover",
+		"difficult": "Normal",
+		"level": 13,
+		"totalnotes": 249
+	},
+	{
+		"id": 371,
+		"default": 390,
+		"name": "プライド革命",
+		"type": "Cover",
+		"difficult": "Hard",
+		"level": 17,
+		"totalnotes": 449
+	},
+	{
+		"id": 372,
+		"default": 391,
+		"name": "プライド革命",
+		"type": "Cover",
+		"difficult": "Expert",
+		"level": 25,
+		"totalnotes": 663
+	},
+	{
+		"id": 373,
+		"default": 335,
+		"name": "メランコリック",
+		"type": "Cover",
+		"difficult": "Easy",
+		"level": 8,
+		"totalnotes": 178
+	},
+	{
+		"id": 374,
+		"default": 336,
+		"name": "メランコリック",
+		"type": "Cover",
+		"difficult": "Normal",
+		"level": 13,
+		"totalnotes": 280
+	},
+	{
+		"id": 375,
+		"default": 337,
+		"name": "メランコリック",
+		"type": "Cover",
+		"difficult": "Hard",
+		"level": 17,
+		"totalnotes": 446
+	},
+	{
+		"id": 376,
+		"default": 338,
+		"name": "メランコリック",
+		"type": "Cover",
+		"difficult": "Expert",
+		"level": 24,
+		"totalnotes": 622
+	},
+	{
+		"id": 377,
+		"default": 437,
+		"name": "SAKURAスキップ",
+		"type": "Cover",
+		"difficult": "Easy",
+		"level": 8,
+		"totalnotes": 135
+	},
+	{
+		"id": 378,
+		"default": 438,
+		"name": "SAKURAスキップ",
+		"type": "Cover",
+		"difficult": "Normal",
+		"level": 13,
+		"totalnotes": 240
+	},
+	{
+		"id": 379,
+		"default": 439,
+		"name": "SAKURAスキップ",
+		"type": "Cover",
+		"difficult": "Hard",
+		"level": 18,
+		"totalnotes": 471
+	},
+	{
+		"id": 380,
+		"default": 440,
+		"name": "SAKURAスキップ",
+		"type": "Cover",
+		"difficult": "Expert",
+		"level": 25,
+		"totalnotes": 650
+	},
+	{
+		"id": 381,
+		"default": 173,
+		"name": "Wonderland Girl",
+		"type": "Original",
+		"difficult": "Easy",
+		"level": 8,
+		"totalnotes": 168
+	},
+	{
+		"id": 382,
+		"default": 174,
+		"name": "Wonderland Girl",
+		"type": "Original",
+		"difficult": "Normal",
+		"level": 14,
+		"totalnotes": 365
+	},
+	{
+		"id": 383,
+		"default": 175,
+		"name": "Wonderland Girl",
+		"type": "Original",
+		"difficult": "Hard",
+		"level": 18,
+		"totalnotes": 461
+	},
+	{
+		"id": 384,
+		"default": 176,
+		"name": "Wonderland Girl",
+		"type": "Original",
+		"difficult": "Expert",
+		"level": 25,
+		"totalnotes": 625
+	},
+	{
+		"id": 385,
+		"default": 489,
+		"name": "Shangri-La",
+		"type": "Cover",
+		"difficult": "Easy",
+		"level": 7,
+		"totalnotes": 96
+	},
+	{
+		"id": 386,
+		"default": 490,
+		"name": "Shangri-La",
+		"type": "Cover",
+		"difficult": "Normal",
+		"level": 12,
+		"totalnotes": 157
+	},
+	{
+		"id": 387,
+		"default": 491,
+		"name": "Shangri-La",
+		"type": "Cover",
+		"difficult": "Hard",
+		"level": 16,
+		"totalnotes": 324
+	},
+	{
+		"id": 388,
+		"default": 492,
+		"name": "Shangri-La",
+		"type": "Cover",
+		"difficult": "Expert",
+		"level": 24,
+		"totalnotes": 551
+	},
+	{
+		"id": 389,
+		"default": 545,
 		"name": "fantastic dreamer",
 		"type": "Cover",
 		"difficult": "Easy",
@@ -3815,6 +3501,8 @@
 		"totalnotes": 146
 	},
 	{
+		"id": 390,
+		"default": 546,
 		"name": "fantastic dreamer",
 		"type": "Cover",
 		"difficult": "Normal",
@@ -3822,6 +3510,8 @@
 		"totalnotes": 235
 	},
 	{
+		"id": 391,
+		"default": 547,
 		"name": "fantastic dreamer",
 		"type": "Cover",
 		"difficult": "Hard",
@@ -3829,6 +3519,8 @@
 		"totalnotes": 388
 	},
 	{
+		"id": 392,
+		"default": 548,
 		"name": "fantastic dreamer",
 		"type": "Cover",
 		"difficult": "Expert",
@@ -3836,6 +3528,8 @@
 		"totalnotes": 553
 	},
 	{
+		"id": 393,
+		"default": 549,
 		"name": "ハレ晴レユカイ",
 		"type": "Cover",
 		"difficult": "Easy",
@@ -3843,6 +3537,8 @@
 		"totalnotes": 235
 	},
 	{
+		"id": 394,
+		"default": 550,
 		"name": "ハレ晴レユカイ",
 		"type": "Cover",
 		"difficult": "Normal",
@@ -3850,6 +3546,8 @@
 		"totalnotes": 397
 	},
 	{
+		"id": 395,
+		"default": 551,
 		"name": "ハレ晴レユカイ",
 		"type": "Cover",
 		"difficult": "Hard",
@@ -3857,6 +3555,8 @@
 		"totalnotes": 664
 	},
 	{
+		"id": 396,
+		"default": 552,
 		"name": "ハレ晴レユカイ",
 		"type": "Cover",
 		"difficult": "Expert",
@@ -3864,6 +3564,548 @@
 		"totalnotes": 972
 	},
 	{
+		"id": 397,
+		"default": 493,
+		"name": "This game",
+		"type": "Cover",
+		"difficult": "Easy",
+		"level": 11,
+		"totalnotes": 216
+	},
+	{
+		"id": 398,
+		"default": 494,
+		"name": "This game",
+		"type": "Cover",
+		"difficult": "Normal",
+		"level": 15,
+		"totalnotes": 370
+	},
+	{
+		"id": 399,
+		"default": 495,
+		"name": "This game",
+		"type": "Cover",
+		"difficult": "Hard",
+		"level": 21,
+		"totalnotes": 634
+	},
+	{
+		"id": 400,
+		"default": 496,
+		"name": "This game",
+		"type": "Cover",
+		"difficult": "Expert",
+		"level": 27,
+		"totalnotes": 907
+	},
+	{
+		"id": 401,
+		"default": 339,
+		"name": "GLAMOROUS SKY",
+		"type": "Cover",
+		"difficult": "Easy",
+		"level": 8,
+		"totalnotes": 194
+	},
+	{
+		"id": 402,
+		"default": 340,
+		"name": "GLAMOROUS SKY",
+		"type": "Cover",
+		"difficult": "Normal",
+		"level": 15,
+		"totalnotes": 399
+	},
+	{
+		"id": 403,
+		"default": 341,
+		"name": "GLAMOROUS SKY",
+		"type": "Cover",
+		"difficult": "Hard",
+		"level": 17,
+		"totalnotes": 541
+	},
+	{
+		"id": 404,
+		"default": 342,
+		"name": "GLAMOROUS SKY",
+		"type": "Cover",
+		"difficult": "Expert",
+		"level": 26,
+		"totalnotes": 780
+	},
+	{
+		"id": 405,
+		"default": 141,
+		"name": "Jamboree!Journey!",
+		"type": "Original",
+		"difficult": "Easy",
+		"level": 7,
+		"totalnotes": 121
+	},
+	{
+		"id": 406,
+		"default": 142,
+		"name": "Jamboree!Journey!",
+		"type": "Original",
+		"difficult": "Normal",
+		"level": 13,
+		"totalnotes": 248
+	},
+	{
+		"id": 407,
+		"default": 143,
+		"name": "Jamboree!Journey!",
+		"type": "Original",
+		"difficult": "Hard",
+		"level": 18,
+		"totalnotes": 461
+	},
+	{
+		"id": 408,
+		"default": 144,
+		"name": "Jamboree!Journey!",
+		"type": "Original",
+		"difficult": "Expert",
+		"level": 25,
+		"totalnotes": 641
+	},
+	{
+		"id": 409,
+		"default": 226,
+		"name": "軌跡",
+		"type": "Original",
+		"difficult": "Easy",
+		"level": 6,
+		"totalnotes": 94
+	},
+	{
+		"id": 410,
+		"default": 227,
+		"name": "軌跡",
+		"type": "Original",
+		"difficult": "Normal",
+		"level": 11,
+		"totalnotes": 169
+	},
+	{
+		"id": 411,
+		"default": 228,
+		"name": "軌跡",
+		"type": "Original",
+		"difficult": "Hard",
+		"level": 16,
+		"totalnotes": 333
+	},
+	{
+		"id": 412,
+		"default": 229,
+		"name": "軌跡",
+		"type": "Original",
+		"difficult": "Expert",
+		"level": 21,
+		"totalnotes": 449
+	},
+	{
+		"id": 413,
+		"default": 177,
+		"name": "天下トーイツ A to Z☆",
+		"type": "Original",
+		"difficult": "Easy",
+		"level": 8,
+		"totalnotes": 173
+	},
+	{
+		"id": 414,
+		"default": 178,
+		"name": "天下トーイツ A to Z☆",
+		"type": "Original",
+		"difficult": "Normal",
+		"level": 13,
+		"totalnotes": 247
+	},
+	{
+		"id": 415,
+		"default": 179,
+		"name": "天下トーイツ A to Z☆",
+		"type": "Original",
+		"difficult": "Hard",
+		"level": 20,
+		"totalnotes": 503
+	},
+	{
+		"id": 416,
+		"default": 180,
+		"name": "天下トーイツ A to Z☆",
+		"type": "Original",
+		"difficult": "Expert",
+		"level": 26,
+		"totalnotes": 713
+	},
+	{
+		"id": 417,
+		"default": 271,
+		"name": "ふわふわ☆ゆめいろサンドイッチ",
+		"type": "Original",
+		"difficult": "Easy",
+		"level": 7,
+		"totalnotes": 158
+	},
+	{
+		"id": 418,
+		"default": 272,
+		"name": "ふわふわ☆ゆめいろサンドイッチ",
+		"type": "Original",
+		"difficult": "Normal",
+		"level": 13,
+		"totalnotes": 235
+	},
+	{
+		"id": 419,
+		"default": 273,
+		"name": "ふわふわ☆ゆめいろサンドイッチ",
+		"type": "Original",
+		"difficult": "Hard",
+		"level": 17,
+		"totalnotes": 461
+	},
+	{
+		"id": 420,
+		"default": 274,
+		"name": "ふわふわ☆ゆめいろサンドイッチ",
+		"type": "Original",
+		"difficult": "Expert",
+		"level": 24,
+		"totalnotes": 613
+	},
+	{
+		"id": 421,
+		"default": 69,
+		"name": "Light Delight",
+		"type": "Original",
+		"difficult": "Easy",
+		"level": 9,
+		"totalnotes": 159
+	},
+	{
+		"id": 422,
+		"default": 70,
+		"name": "Light Delight",
+		"type": "Original",
+		"difficult": "Normal",
+		"level": 14,
+		"totalnotes": 286
+	},
+	{
+		"id": 423,
+		"default": 71,
+		"name": "Light Delight",
+		"type": "Original",
+		"difficult": "Hard",
+		"level": 20,
+		"totalnotes": 491
+	},
+	{
+		"id": 424,
+		"default": 72,
+		"name": "Light Delight",
+		"type": "Original",
+		"difficult": "Expert",
+		"level": 26,
+		"totalnotes": 750
+	},
+	{
+		"id": 425,
+		"default": 73,
+		"name": "私の心はチョココロネ",
+		"type": "Original",
+		"difficult": "Easy",
+		"level": 9,
+		"totalnotes": 139
+	},
+	{
+		"id": 426,
+		"default": 74,
+		"name": "私の心はチョココロネ",
+		"type": "Original",
+		"difficult": "Normal",
+		"level": 13,
+		"totalnotes": 232
+	},
+	{
+		"id": 427,
+		"default": 75,
+		"name": "私の心はチョココロネ",
+		"type": "Original",
+		"difficult": "Hard",
+		"level": 16,
+		"totalnotes": 381
+	},
+	{
+		"id": 428,
+		"default": 76,
+		"name": "私の心はチョココロネ",
+		"type": "Original",
+		"difficult": "Expert",
+		"level": 22,
+		"totalnotes": 482
+	},
+	{
+		"id": 429,
+		"default": 441,
+		"name": "みくみくにしてあげる♪【してやんよ】",
+		"type": "Cover",
+		"difficult": "Easy",
+		"level": 8,
+		"totalnotes": 139
+	},
+	{
+		"id": 430,
+		"default": 442,
+		"name": "みくみくにしてあげる♪【してやんよ】",
+		"type": "Cover",
+		"difficult": "Normal",
+		"level": 14,
+		"totalnotes": 239
+	},
+	{
+		"id": 431,
+		"default": 443,
+		"name": "みくみくにしてあげる♪【してやんよ】",
+		"type": "Cover",
+		"difficult": "Hard",
+		"level": 18,
+		"totalnotes": 439
+	},
+	{
+		"id": 432,
+		"default": 444,
+		"name": "みくみくにしてあげる♪【してやんよ】",
+		"type": "Cover",
+		"difficult": "Expert",
+		"level": 26,
+		"totalnotes": 639
+	},
+	{
+		"id": 433,
+		"default": 77,
+		"name": "二重の虹(ダブル レインボウ)",
+		"type": "Original",
+		"difficult": "Easy",
+		"level": 9,
+		"totalnotes": 141
+	},
+	{
+		"id": 434,
+		"default": 78,
+		"name": "二重の虹(ダブル レインボウ)",
+		"type": "Original",
+		"difficult": "Normal",
+		"level": 14,
+		"totalnotes": 276
+	},
+	{
+		"id": 435,
+		"default": 79,
+		"name": "二重の虹(ダブル レインボウ)",
+		"type": "Original",
+		"difficult": "Hard",
+		"level": 18,
+		"totalnotes": 477
+	},
+	{
+		"id": 436,
+		"default": 80,
+		"name": "二重の虹(ダブル レインボウ)",
+		"type": "Original",
+		"difficult": "Expert",
+		"level": 25,
+		"totalnotes": 623
+	},
+	{
+		"id": 437,
+		"default": 445,
+		"name": "気まぐれロマンティック",
+		"type": "Cover",
+		"difficult": "Easy",
+		"level": 7,
+		"totalnotes": 157
+	},
+	{
+		"id": 438,
+		"default": 446,
+		"name": "気まぐれロマンティック",
+		"type": "Cover",
+		"difficult": "Normal",
+		"level": 12,
+		"totalnotes": 237
+	},
+	{
+		"id": 439,
+		"default": 447,
+		"name": "気まぐれロマンティック",
+		"type": "Cover",
+		"difficult": "Hard",
+		"level": 17,
+		"totalnotes": 437
+	},
+	{
+		"id": 440,
+		"default": 448,
+		"name": "気まぐれロマンティック",
+		"type": "Cover",
+		"difficult": "Expert",
+		"level": 24,
+		"totalnotes": 608
+	},
+	{
+		"id": 441,
+		"default": 497,
+		"name": "Believe in my existence",
+		"type": "Cover",
+		"difficult": "Easy",
+		"level": 10,
+		"totalnotes": 169
+	},
+	{
+		"id": 442,
+		"default": 498,
+		"name": "Believe in my existence",
+		"type": "Cover",
+		"difficult": "Normal",
+		"level": 14,
+		"totalnotes": 261
+	},
+	{
+		"id": 443,
+		"default": 499,
+		"name": "Believe in my existence",
+		"type": "Cover",
+		"difficult": "Hard",
+		"level": 19,
+		"totalnotes": 400
+	},
+	{
+		"id": 444,
+		"default": 500,
+		"name": "Believe in my existence",
+		"type": "Cover",
+		"difficult": "Expert",
+		"level": 26,
+		"totalnotes": 589
+	},
+	{
+		"id": 445,
+		"default": 392,
+		"name": "イマジネーション",
+		"type": "Cover",
+		"difficult": "Easy",
+		"level": 9,
+		"totalnotes": 162
+	},
+	{
+		"id": 446,
+		"default": 393,
+		"name": "イマジネーション",
+		"type": "Cover",
+		"difficult": "Normal",
+		"level": 14,
+		"totalnotes": 302
+	},
+	{
+		"id": 447,
+		"default": 394,
+		"name": "イマジネーション",
+		"type": "Cover",
+		"difficult": "Hard",
+		"level": 20,
+		"totalnotes": 567
+	},
+	{
+		"id": 448,
+		"default": 395,
+		"name": "イマジネーション",
+		"type": "Cover",
+		"difficult": "Expert",
+		"level": 26,
+		"totalnotes": 769
+	},
+	{
+		"id": 449,
+		"default": 230,
+		"name": "Neo-Aspect",
+		"type": "Original",
+		"difficult": "Easy",
+		"level": 9,
+		"totalnotes": 172
+	},
+	{
+		"id": 450,
+		"default": 231,
+		"name": "Neo-Aspect",
+		"type": "Original",
+		"difficult": "Normal",
+		"level": 14,
+		"totalnotes": 287
+	},
+	{
+		"id": 451,
+		"default": 232,
+		"name": "Neo-Aspect",
+		"type": "Original",
+		"difficult": "Hard",
+		"level": 19,
+		"totalnotes": 489
+	},
+	{
+		"id": 452,
+		"default": 233,
+		"name": "Neo-Aspect",
+		"type": "Original",
+		"difficult": "Expert",
+		"level": 26,
+		"totalnotes": 707
+	},
+	{
+		"id": 453,
+		"default": 234,
+		"name": "Legendary",
+		"type": "Original",
+		"difficult": "Easy",
+		"level": 8,
+		"totalnotes": 158
+	},
+	{
+		"id": 454,
+		"default": 235,
+		"name": "Legendary",
+		"type": "Original",
+		"difficult": "Normal",
+		"level": 13,
+		"totalnotes": 252
+	},
+	{
+		"id": 455,
+		"default": 236,
+		"name": "Legendary",
+		"type": "Original",
+		"difficult": "Hard",
+		"level": 18,
+		"totalnotes": 439
+	},
+	{
+		"id": 456,
+		"default": 237,
+		"name": "Legendary",
+		"type": "Original",
+		"difficult": "Expert",
+		"level": 25,
+		"totalnotes": 638
+	},
+	{
+		"id": 457,
+		"default": 553,
 		"name": "太陽曰く燃えよカオス",
 		"type": "Cover",
 		"difficult": "Easy",
@@ -3871,6 +4113,8 @@
 		"totalnotes": 176
 	},
 	{
+		"id": 458,
+		"default": 554,
 		"name": "太陽曰く燃えよカオス",
 		"type": "Cover",
 		"difficult": "Normal",
@@ -3878,6 +4122,8 @@
 		"totalnotes": 312
 	},
 	{
+		"id": 459,
+		"default": 555,
 		"name": "太陽曰く燃えよカオス",
 		"type": "Cover",
 		"difficult": "Hard",
@@ -3885,6 +4131,8 @@
 		"totalnotes": 459
 	},
 	{
+		"id": 460,
+		"default": 556,
 		"name": "太陽曰く燃えよカオス",
 		"type": "Cover",
 		"difficult": "Expert",
@@ -3892,6 +4140,494 @@
 		"totalnotes": 652
 	},
 	{
+		"id": 461,
+		"default": 501,
+		"name": "六兆年と一夜物語",
+		"type": "Cover",
+		"difficult": "Easy",
+		"level": 8,
+		"totalnotes": 157
+	},
+	{
+		"id": 462,
+		"default": 502,
+		"name": "六兆年と一夜物語",
+		"type": "Cover",
+		"difficult": "Normal",
+		"level": 14,
+		"totalnotes": 286
+	},
+	{
+		"id": 463,
+		"default": 503,
+		"name": "六兆年と一夜物語",
+		"type": "Cover",
+		"difficult": "Hard",
+		"level": 21,
+		"totalnotes": 501
+	},
+	{
+		"id": 464,
+		"default": 504,
+		"name": "六兆年と一夜物語",
+		"type": "Cover",
+		"difficult": "Expert",
+		"level": 29,
+		"totalnotes": 895
+	},
+	{
+		"id": 465,
+		"default": 449,
+		"name": "Fantastic future",
+		"type": "Cover",
+		"difficult": "Easy",
+		"level": 8,
+		"totalnotes": 182
+	},
+	{
+		"id": 466,
+		"default": 450,
+		"name": "Fantastic future",
+		"type": "Cover",
+		"difficult": "Normal",
+		"level": 14,
+		"totalnotes": 259
+	},
+	{
+		"id": 467,
+		"default": 451,
+		"name": "Fantastic future",
+		"type": "Cover",
+		"difficult": "Hard",
+		"level": 19,
+		"totalnotes": 454
+	},
+	{
+		"id": 468,
+		"default": 452,
+		"name": "Fantastic future",
+		"type": "Cover",
+		"difficult": "Expert",
+		"level": 26,
+		"totalnotes": 710
+	},
+	{
+		"id": 469,
+		"default": 81,
+		"name": "最高(さあ行こう)！",
+		"type": "Original",
+		"difficult": "Easy",
+		"level": 10,
+		"totalnotes": 196
+	},
+	{
+		"id": 470,
+		"default": 82,
+		"name": "最高(さあ行こう)！",
+		"type": "Original",
+		"difficult": "Normal",
+		"level": 14,
+		"totalnotes": 304
+	},
+	{
+		"id": 471,
+		"default": 83,
+		"name": "最高(さあ行こう)！",
+		"type": "Original",
+		"difficult": "Hard",
+		"level": 20,
+		"totalnotes": 506
+	},
+	{
+		"id": 472,
+		"default": 84,
+		"name": "最高(さあ行こう)！",
+		"type": "Original",
+		"difficult": "Expert",
+		"level": 26,
+		"totalnotes": 666
+	},
+	{
+		"id": 473,
+		"default": 181,
+		"name": "もういちど ルミナス",
+		"type": "Original",
+		"difficult": "Easy",
+		"level": 6,
+		"totalnotes": 86
+	},
+	{
+		"id": 474,
+		"default": 182,
+		"name": "もういちど ルミナス",
+		"type": "Original",
+		"difficult": "Normal",
+		"level": 12,
+		"totalnotes": 168
+	},
+	{
+		"id": 475,
+		"default": 183,
+		"name": "もういちど ルミナス",
+		"type": "Original",
+		"difficult": "Hard",
+		"level": 17,
+		"totalnotes": 439
+	},
+	{
+		"id": 476,
+		"default": 184,
+		"name": "もういちど ルミナス",
+		"type": "Original",
+		"difficult": "Expert",
+		"level": 25,
+		"totalnotes": 660
+	},
+	{
+		"id": 477,
+		"default": 343,
+		"name": "DAYS",
+		"type": "Cover",
+		"difficult": "Easy",
+		"level": 8,
+		"totalnotes": 122
+	},
+	{
+		"id": 478,
+		"default": 344,
+		"name": "DAYS",
+		"type": "Cover",
+		"difficult": "Normal",
+		"level": 13,
+		"totalnotes": 297
+	},
+	{
+		"id": 479,
+		"default": 345,
+		"name": "DAYS",
+		"type": "Cover",
+		"difficult": "Hard",
+		"level": 18,
+		"totalnotes": 493
+	},
+	{
+		"id": 480,
+		"default": 346,
+		"name": "DAYS",
+		"type": "Cover",
+		"difficult": "Expert",
+		"level": 25,
+		"totalnotes": 725
+	},
+	{
+		"id": 481,
+		"default": 287,
+		"name": "ピコっと！パピっと！！ガルパ☆ピコ！！！",
+		"type": "Original",
+		"difficult": "Easy",
+		"level": 9,
+		"totalnotes": 184
+	},
+	{
+		"id": 482,
+		"default": 288,
+		"name": "ピコっと！パピっと！！ガルパ☆ピコ！！！",
+		"type": "Original",
+		"difficult": "Normal",
+		"level": 14,
+		"totalnotes": 320
+	},
+	{
+		"id": 483,
+		"default": 289,
+		"name": "ピコっと！パピっと！！ガルパ☆ピコ！！！",
+		"type": "Original",
+		"difficult": "Hard",
+		"level": 19,
+		"totalnotes": 525
+	},
+	{
+		"id": 484,
+		"default": 290,
+		"name": "ピコっと！パピっと！！ガルパ☆ピコ！！！",
+		"type": "Original",
+		"difficult": "Expert",
+		"level": 26,
+		"totalnotes": 758
+	},
+	{
+		"id": 485,
+		"default": 275,
+		"name": "ハイファイヴ∞あどべんちゃっ",
+		"type": "Original",
+		"difficult": "Easy",
+		"level": 9,
+		"totalnotes": 203
+	},
+	{
+		"id": 486,
+		"default": 276,
+		"name": "ハイファイヴ∞あどべんちゃっ",
+		"type": "Original",
+		"difficult": "Normal",
+		"level": 14,
+		"totalnotes": 307
+	},
+	{
+		"id": 487,
+		"default": 277,
+		"name": "ハイファイヴ∞あどべんちゃっ",
+		"type": "Original",
+		"difficult": "Hard",
+		"level": 19,
+		"totalnotes": 504
+	},
+	{
+		"id": 488,
+		"default": 278,
+		"name": "ハイファイヴ∞あどべんちゃっ",
+		"type": "Original",
+		"difficult": "Expert",
+		"level": 26,
+		"totalnotes": 853
+	},
+	{
+		"id": 489,
+		"default": 347,
+		"name": "Life Will Change",
+		"type": "Cover",
+		"difficult": "Easy",
+		"level": 7,
+		"totalnotes": 128
+	},
+	{
+		"id": 490,
+		"default": 348,
+		"name": "Life Will Change",
+		"type": "Cover",
+		"difficult": "Normal",
+		"level": 12,
+		"totalnotes": 202
+	},
+	{
+		"id": 491,
+		"default": 349,
+		"name": "Life Will Change",
+		"type": "Cover",
+		"difficult": "Hard",
+		"level": 19,
+		"totalnotes": 583
+	},
+	{
+		"id": 492,
+		"default": 350,
+		"name": "Life Will Change",
+		"type": "Cover",
+		"difficult": "Expert",
+		"level": 26,
+		"totalnotes": 823
+	},
+	{
+		"id": 493,
+		"default": 396,
+		"name": "Reach Out To The Truth",
+		"type": "Cover",
+		"difficult": "Easy",
+		"level": 9,
+		"totalnotes": 177
+	},
+	{
+		"id": 494,
+		"default": 397,
+		"name": "Reach Out To The Truth",
+		"type": "Cover",
+		"difficult": "Normal",
+		"level": 14,
+		"totalnotes": 288
+	},
+	{
+		"id": 495,
+		"default": 398,
+		"name": "Reach Out To The Truth",
+		"type": "Cover",
+		"difficult": "Hard",
+		"level": 18,
+		"totalnotes": 521
+	},
+	{
+		"id": 496,
+		"default": 399,
+		"name": "Reach Out To The Truth",
+		"type": "Cover",
+		"difficult": "Expert",
+		"level": 26,
+		"totalnotes": 723
+	},
+	{
+		"id": 497,
+		"default": 505,
+		"name": "キミの記憶",
+		"type": "Cover",
+		"difficult": "Easy",
+		"level": 6,
+		"totalnotes": 104
+	},
+	{
+		"id": 498,
+		"default": 506,
+		"name": "キミの記憶",
+		"type": "Cover",
+		"difficult": "Normal",
+		"level": 11,
+		"totalnotes": 180
+	},
+	{
+		"id": 499,
+		"default": 507,
+		"name": "キミの記憶",
+		"type": "Cover",
+		"difficult": "Hard",
+		"level": 17,
+		"totalnotes": 447
+	},
+	{
+		"id": 500,
+		"default": 508,
+		"name": "キミの記憶",
+		"type": "Cover",
+		"difficult": "Expert",
+		"level": 25,
+		"totalnotes": 651
+	},
+	{
+		"id": 501,
+		"default": 351,
+		"name": "夏祭り",
+		"type": "Cover",
+		"difficult": "Easy",
+		"level": 8,
+		"totalnotes": 177
+	},
+	{
+		"id": 502,
+		"default": 352,
+		"name": "夏祭り",
+		"type": "Cover",
+		"difficult": "Normal",
+		"level": 12,
+		"totalnotes": 263
+	},
+	{
+		"id": 503,
+		"default": 353,
+		"name": "夏祭り",
+		"type": "Cover",
+		"difficult": "Hard",
+		"level": 20,
+		"totalnotes": 618
+	},
+	{
+		"id": 504,
+		"default": 354,
+		"name": "夏祭り",
+		"type": "Cover",
+		"difficult": "Expert",
+		"level": 25,
+		"totalnotes": 823
+	},
+	{
+		"id": 505,
+		"default": 145,
+		"name": "COMIC PANIC!!!",
+		"type": "Original",
+		"difficult": "Easy",
+		"level": 11,
+		"totalnotes": 215
+	},
+	{
+		"id": 506,
+		"default": 146,
+		"name": "COMIC PANIC!!!",
+		"type": "Original",
+		"difficult": "Normal",
+		"level": 15,
+		"totalnotes": 346
+	},
+	{
+		"id": 507,
+		"default": 147,
+		"name": "COMIC PANIC!!!",
+		"type": "Original",
+		"difficult": "Hard",
+		"level": 19,
+		"totalnotes": 523
+	},
+	{
+		"id": 508,
+		"default": 148,
+		"name": "COMIC PANIC!!!",
+		"type": "Original",
+		"difficult": "Expert",
+		"level": 26,
+		"totalnotes": 729
+	},
+	{
+		"id": 509,
+		"default": 509,
+		"name": "シャルル",
+		"type": "Cover",
+		"difficult": "Easy",
+		"level": 8,
+		"totalnotes": 140
+	},
+	{
+		"id": 510,
+		"default": 510,
+		"name": "シャルル",
+		"type": "Cover",
+		"difficult": "Normal",
+		"level": 13,
+		"totalnotes": 218
+	},
+	{
+		"id": 511,
+		"default": 511,
+		"name": "シャルル",
+		"type": "Cover",
+		"difficult": "Hard",
+		"level": 18,
+		"totalnotes": 373
+	},
+	{
+		"id": 512,
+		"default": 512,
+		"name": "シャルル",
+		"type": "Cover",
+		"difficult": "Expert",
+		"level": 25,
+		"totalnotes": 602
+	},
+	{
+		"id": 513,
+		"default": 192,
+		"name": "BLACK SHOUT",
+		"type": "Original",
+		"difficult": "Expert",
+		"level": 25,
+		"totalnotes": 506
+	},
+	{
+		"id": 514,
+		"default": 366,
+		"name": "Don't say \"lazy",
+		"type": "Cover",
+		"difficult": "Expert",
+		"level": 26,
+		"totalnotes": 925
+	},
+	{
+		"id": 515,
+		"default": 557,
 		"name": "GO! GO! MANIAC",
 		"type": "Cover",
 		"difficult": "Easy",
@@ -3899,6 +4635,8 @@
 		"totalnotes": 168
 	},
 	{
+		"id": 516,
+		"default": 558,
 		"name": "GO! GO! MANIAC",
 		"type": "Cover",
 		"difficult": "Normal",
@@ -3906,6 +4644,8 @@
 		"totalnotes": 273
 	},
 	{
+		"id": 517,
+		"default": 559,
 		"name": "GO! GO! MANIAC",
 		"type": "Cover",
 		"difficult": "Hard",
@@ -3913,6 +4653,8 @@
 		"totalnotes": 507
 	},
 	{
+		"id": 518,
+		"default": 560,
 		"name": "GO! GO! MANIAC",
 		"type": "Cover",
 		"difficult": "Expert",
@@ -3920,6 +4662,80 @@
 		"totalnotes": 799
 	},
 	{
+		"id": 519,
+		"default": 238,
+		"name": "Sanctuary",
+		"type": "Original",
+		"difficult": "Easy",
+		"level": 9,
+		"totalnotes": 213
+	},
+	{
+		"id": 520,
+		"default": 239,
+		"name": "Sanctuary",
+		"type": "Original",
+		"difficult": "Normal",
+		"level": 14,
+		"totalnotes": 303
+	},
+	{
+		"id": 521,
+		"default": 240,
+		"name": "Sanctuary",
+		"type": "Original",
+		"difficult": "Hard",
+		"level": 18,
+		"totalnotes": 494
+	},
+	{
+		"id": 522,
+		"default": 241,
+		"name": "Sanctuary",
+		"type": "Original",
+		"difficult": "Expert",
+		"level": 25,
+		"totalnotes": 768
+	},
+	{
+		"id": 523,
+		"default": 355,
+		"name": "ロミオとシンデレラ",
+		"type": "Cover",
+		"difficult": "Easy",
+		"level": 7,
+		"totalnotes": 136
+	},
+	{
+		"id": 524,
+		"default": 356,
+		"name": "ロミオとシンデレラ",
+		"type": "Cover",
+		"difficult": "Normal",
+		"level": 14,
+		"totalnotes": 282
+	},
+	{
+		"id": 525,
+		"default": 357,
+		"name": "ロミオとシンデレラ",
+		"type": "Cover",
+		"difficult": "Hard",
+		"level": 18,
+		"totalnotes": 479
+	},
+	{
+		"id": 526,
+		"default": 358,
+		"name": "ロミオとシンデレラ",
+		"type": "Cover",
+		"difficult": "Expert",
+		"level": 25,
+		"totalnotes": 744
+	},
+	{
+		"id": 527,
+		"default": 561,
 		"name": "エイリアンエイリアン",
 		"type": "Cover",
 		"difficult": "Easy",
@@ -3927,6 +4743,8 @@
 		"totalnotes": 213
 	},
 	{
+		"id": 528,
+		"default": 562,
 		"name": "エイリアンエイリアン",
 		"type": "Cover",
 		"difficult": "Normal",
@@ -3934,6 +4752,8 @@
 		"totalnotes": 354
 	},
 	{
+		"id": 529,
+		"default": 563,
 		"name": "エイリアンエイリアン",
 		"type": "Cover",
 		"difficult": "Hard",
@@ -3941,6 +4761,8 @@
 		"totalnotes": 486
 	},
 	{
+		"id": 530,
+		"default": 564,
 		"name": "エイリアンエイリアン",
 		"type": "Cover",
 		"difficult": "Expert",
@@ -3948,6 +4770,170 @@
 		"totalnotes": 641
 	},
 	{
+		"id": 531,
+		"default": 400,
+		"name": "ロストワンの号哭",
+		"type": "Cover",
+		"difficult": "Easy",
+		"level": 10,
+		"totalnotes": 217
+	},
+	{
+		"id": 532,
+		"default": 401,
+		"name": "ロストワンの号哭",
+		"type": "Cover",
+		"difficult": "Normal",
+		"level": 14,
+		"totalnotes": 298
+	},
+	{
+		"id": 533,
+		"default": 402,
+		"name": "ロストワンの号哭",
+		"type": "Cover",
+		"difficult": "Hard",
+		"level": 21,
+		"totalnotes": 687
+	},
+	{
+		"id": 534,
+		"default": 403,
+		"name": "ロストワンの号哭",
+		"type": "Cover",
+		"difficult": "Expert",
+		"level": 26,
+		"totalnotes": 1026
+	},
+	{
+		"id": 535,
+		"default": 85,
+		"name": "ガールズコード",
+		"type": "Original",
+		"difficult": "Easy",
+		"level": 7,
+		"totalnotes": 148
+	},
+	{
+		"id": 536,
+		"default": 86,
+		"name": "ガールズコード",
+		"type": "Original",
+		"difficult": "Normal",
+		"level": 13,
+		"totalnotes": 255
+	},
+	{
+		"id": 537,
+		"default": 87,
+		"name": "ガールズコード",
+		"type": "Original",
+		"difficult": "Hard",
+		"level": 17,
+		"totalnotes": 388
+	},
+	{
+		"id": 538,
+		"default": 88,
+		"name": "ガールズコード",
+		"type": "Original",
+		"difficult": "Expert",
+		"level": 24,
+		"totalnotes": 638
+	},
+	{
+		"id": 539,
+		"default": 149,
+		"name": "ツナグ、ソラモヨウ",
+		"type": "Original",
+		"difficult": "Easy",
+		"level": 9,
+		"totalnotes": 170
+	},
+	{
+		"id": 540,
+		"default": 150,
+		"name": "ツナグ、ソラモヨウ",
+		"type": "Original",
+		"difficult": "Normal",
+		"level": 14,
+		"totalnotes": 275
+	},
+	{
+		"id": 541,
+		"default": 151,
+		"name": "ツナグ、ソラモヨウ",
+		"type": "Original",
+		"difficult": "Hard",
+		"level": 18,
+		"totalnotes": 432
+	},
+	{
+		"id": 542,
+		"default": 152,
+		"name": "ツナグ、ソラモヨウ",
+		"type": "Original",
+		"difficult": "Expert",
+		"level": 26,
+		"totalnotes": 646
+	},
+	{
+		"id": 543,
+		"default": 453,
+		"name": "DISCOTHEQUE",
+		"type": "Cover",
+		"difficult": "Easy",
+		"level": 9,
+		"totalnotes": 166
+	},
+	{
+		"id": 544,
+		"default": 454,
+		"name": "DISCOTHEQUE",
+		"type": "Cover",
+		"difficult": "Normal",
+		"level": 14,
+		"totalnotes": 234
+	},
+	{
+		"id": 545,
+		"default": 455,
+		"name": "DISCOTHEQUE",
+		"type": "Cover",
+		"difficult": "Hard",
+		"level": 18,
+		"totalnotes": 411
+	},
+	{
+		"id": 546,
+		"default": 456,
+		"name": "DISCOTHEQUE",
+		"type": "Cover",
+		"difficult": "Expert",
+		"level": 26,
+		"totalnotes": 626
+	},
+	{
+		"id": 547,
+		"default": 257,
+		"name": "ゴーカ！ごーかい！？ファントムシーフ！",
+		"type": "Original",
+		"difficult": "Expert",
+		"level": 27,
+		"totalnotes": 698
+	},
+	{
+		"id": 548,
+		"default": 415,
+		"name": "そばかす",
+		"type": "Cover",
+		"difficult": "Expert",
+		"level": 23,
+		"totalnotes": 456
+	},
+	{
+		"id": 549,
+		"default": 565,
 		"name": "新宝島",
 		"type": "Cover",
 		"difficult": "Easy",
@@ -3955,6 +4941,8 @@
 		"totalnotes": 161
 	},
 	{
+		"id": 550,
+		"default": 566,
 		"name": "新宝島",
 		"type": "Cover",
 		"difficult": "Normal",
@@ -3962,6 +4950,8 @@
 		"totalnotes": 249
 	},
 	{
+		"id": 551,
+		"default": 567,
 		"name": "新宝島",
 		"type": "Cover",
 		"difficult": "Hard",
@@ -3969,10 +4959,156 @@
 		"totalnotes": 412
 	},
 	{
+		"id": 552,
+		"default": 568,
 		"name": "新宝島",
 		"type": "Cover",
 		"difficult": "Expert",
 		"level": 24,
 		"totalnotes": 658
+	},
+	{
+		"id": 553,
+		"default": 291,
+		"name": "ひとりじゃないんだから",
+		"type": "Original",
+		"difficult": "Easy",
+		"level": 7,
+		"totalnotes": 115
+	},
+	{
+		"id": 554,
+		"default": 292,
+		"name": "ひとりじゃないんだから",
+		"type": "Original",
+		"difficult": "Normal",
+		"level": 13,
+		"totalnotes": 200
+	},
+	{
+		"id": 555,
+		"default": 293,
+		"name": "ひとりじゃないんだから",
+		"type": "Original",
+		"difficult": "Hard",
+		"level": 18,
+		"totalnotes": 400
+	},
+	{
+		"id": 556,
+		"default": 294,
+		"name": "ひとりじゃないんだから",
+		"type": "Original",
+		"difficult": "Expert",
+		"level": 25,
+		"totalnotes": 591
+	},
+	{
+		"id": 557,
+		"default": 185,
+		"name": "ゼッタイ宣言～Recital～",
+		"type": "Original",
+		"difficult": "Easy",
+		"level": 10,
+		"totalnotes": 185
+	},
+	{
+		"id": 558,
+		"default": 186,
+		"name": "ゼッタイ宣言～Recital～",
+		"type": "Original",
+		"difficult": "Normal",
+		"level": 14,
+		"totalnotes": 279
+	},
+	{
+		"id": 559,
+		"default": 187,
+		"name": "ゼッタイ宣言～Recital～",
+		"type": "Original",
+		"difficult": "Hard",
+		"level": 20,
+		"totalnotes": 572
+	},
+	{
+		"id": 560,
+		"default": 188,
+		"name": "ゼッタイ宣言～Recital～",
+		"type": "Original",
+		"difficult": "Expert",
+		"level": 27,
+		"totalnotes": 921
+	},
+	{
+		"id": 561,
+		"default": 242,
+		"name": "R",
+		"type": "Original",
+		"difficult": "Easy",
+		"level": 8,
+		"totalnotes": 127
+	},
+	{
+		"id": 562,
+		"default": 243,
+		"name": "R",
+		"type": "Original",
+		"difficult": "Normal",
+		"level": 13,
+		"totalnotes": 230
+	},
+	{
+		"id": 563,
+		"default": 244,
+		"name": "R",
+		"type": "Original",
+		"difficult": "Hard",
+		"level": 19,
+		"totalnotes": 537
+	},
+	{
+		"id": 564,
+		"default": 245,
+		"name": "R",
+		"type": "Original",
+		"difficult": "Expert",
+		"level": 26,
+		"totalnotes": 811
+	},
+	{
+		"id": 565,
+		"default": 279,
+		"name": "キミがいなくちゃっ！",
+		"type": "Original",
+		"difficult": "Easy",
+		"level": 9,
+		"totalnotes": 166
+	},
+	{
+		"id": 566,
+		"default": 280,
+		"name": "キミがいなくちゃっ！",
+		"type": "Original",
+		"difficult": "Normal",
+		"level": 14,
+		"totalnotes": 272
+	},
+	{
+		"id": 567,
+		"default": 281,
+		"name": "キミがいなくちゃっ！",
+		"type": "Original",
+		"difficult": "Hard",
+		"level": 17,
+		"totalnotes": 399
+	},
+	{
+		"id": 568,
+		"default": 282,
+		"name": "キミがいなくちゃっ！",
+		"type": "Original",
+		"difficult": "Expert",
+		"level": 25,
+		"totalnotes": 569
 	}
 ]

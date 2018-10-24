@@ -102,6 +102,7 @@ main
 							grCount: sd_grCount,
 							msCount: sd_msCount,
 						},
+						default_index: e.default,
 						index: i,
 						diffs: global.allSongList
 							.filter(e_ => e_.name === e.name)
@@ -141,34 +142,33 @@ main
 				}
 			});
 			
-			if(sortType >= 1){
-				allSongNameList.sort((a,b) => {
-					if(sortType == 1){
-						// 降順
-						if (a.seldiff.explevel < b.seldiff.explevel) return +1;
-						if (a.seldiff.explevel > b.seldiff.explevel) return -1;
-					}
-					if(sortType == 2){
-						// 昇順 ただしAPはNCの手前に表示
-						var ac = a.seldiff.grCount || 8888;
-						var bc = b.seldiff.grCount || 8888;
-						if (ac < bc) return -1;
-						if (ac > bc) return +1;
-					}
-					if(sortType == 3) {
-						// 降順
-						if (a.seldiff.totalnotes < b.seldiff.totalnotes) return +1;
-						if (a.seldiff.totalnotes > b.seldiff.totalnotes) return -1;
-					}
-					if (sortType == 4) {
-						// 降順
-						if (a.seldiff.clearState < b.seldiff.clearState) return +1;
-						if (a.seldiff.clearState > b.seldiff.clearState) return -1;
-					}
-					if(a.index > b.index) return 1;
-					if(a.index < b.index) return -1;
-				})
-			}
+			allSongNameList.sort((a,b) => {
+				if(sortType == 1){
+					// 降順
+					if (a.seldiff.explevel < b.seldiff.explevel) return +1;
+					if (a.seldiff.explevel > b.seldiff.explevel) return -1;
+				}
+				if(sortType == 2){
+					// 昇順 ただしAPはNCの手前に表示
+					var ac = a.seldiff.grCount || 8888;
+					var bc = b.seldiff.grCount || 8888;
+					if (ac < bc) return -1;
+					if (ac > bc) return +1;
+				}
+				if(sortType == 3) {
+					// 降順
+					if (a.seldiff.totalnotes < b.seldiff.totalnotes) return +1;
+					if (a.seldiff.totalnotes > b.seldiff.totalnotes) return -1;
+				}
+				if (sortType == 4) {
+					// 降順
+					if (a.seldiff.clearState < b.seldiff.clearState) return +1;
+					if (a.seldiff.clearState > b.seldiff.clearState) return -1;
+				}
+				if(a.default_index > b.default_index) return 1;
+				if(a.default_index < b.default_index) return -1;
+			})
+			
 			this.allSongNameList = global.allSongNameList = allSongNameList;
 			this.countAP = allSongNameList.filter(e => e.seldiff.clearState == 3).length;
 			this.countFC = allSongNameList.filter(e => e.seldiff.clearState == 2).length;
@@ -193,7 +193,13 @@ main
 					}
 					var long_url = long.data.expand[0].long_url;
 					var reg = /http.*\?data=(.+)/
-					parsed.data = long_url.match(reg)[1];
+					var sdata_str = decompressStr( long_url.match(reg)[1] );
+					var sdata = JSON.parse(sdata_str);
+					var restoreData = restoreSaveDataFromShorten(sdata);
+					// set readonly mode
+					this.URLReadOnly = true;
+					this.viewOnly = true;
+					global.queryLoadData = savedData = restoreData;
 				}
 				if(parsed.data){
 					// set readonly mode
@@ -316,7 +322,7 @@ main
 		}
 		
 		async generateDataURL() {
-			var sd = getSaveData();
+			var sd = createShortDataFromSavedData();
 			var q = compressStr(JSON.stringify(sd));
 			var l = `http://example.com/?data=${q}`;
 			var shorten = await generateShortenURL(l);
@@ -382,6 +388,44 @@ main
 			return zlib.unzipSync(b64s);
 		}
 		
+		// create shorten data from saved big data
+		function createShortDataFromSavedData(){
+			var sd = getSaveData();
+			console.log(sd);
+			var rst = {};
+			sd.forEach(e => {
+				var songd = global.allSongList.find(e_ => e_.name === e.name && e_.difficult === e.difficult);
+				if(songd){
+					rst[songd.id] = [e.clearState, e.great, e.good, e.bad, e.miss].join("|");
+				}
+			});
+			console.log(rst);
+			return rst;
+		}
+		
+		// restore big data from shorten data
+		function restoreSaveDataFromShorten(shd){
+			var rst = [];
+			Object.keys(shd).forEach(k => {
+				var v = shd[k];
+				var [clearState, great, good, bad, miss] = v.split("|");
+				var s = global.allSongList.find(e => e.id == Number(k));
+				console.log(s, k, v);
+				rst.push({
+					name: s.name,
+					difficult: s.difficult,
+					perfect: (s.totalnotes - great - good - bad - miss),
+					great: great - 0,
+					good: good - 0,
+					bad: bad - 0,
+					miss: miss - 0,
+					comment: "",
+					clearState: clearState - 0,
+				});
+			});
+			return rst;
+		}
+		
 		// create shorten URL
 		async function generateShortenURL(base_url){
 			var url = `https://api-ssl.bitly.com/v3/shorten?access_token=${process.env.BITLY_ACCESS_TOKEN}&longUrl=${base_url}`;
@@ -399,7 +443,6 @@ main
 				dataType: "jsonp",
 			});
 		}
-		
 		
 		function execCopy(string){
 			var temp = document.createElement('div');
