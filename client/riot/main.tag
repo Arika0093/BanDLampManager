@@ -1,6 +1,6 @@
 main
 	header
-		a#title(href="/BanGDreamClearManager/" title="BanG-Dream Clear Manager") BGDCM
+		a#title(href="./" title="BanG-Dream Clear Manager") BGDCM
 		span(class='{ active: sortType == 0 }' onclick='{ sortClick.bind(this, 0) }') ▼標準
 		span(class='{ active: sortType == 1 }' onclick='{ sortClick.bind(this, 1) }') ▼レベル順
 		span(class='{ active: sortType == 4 }' onclick='{ sortClick.bind(this, 4) }') ▼クリア状況順
@@ -357,7 +357,7 @@ main
 				alert(`URL生成に失敗しました…… [${shorten.status_txt}]`);
 			}
 			//history.replaceState(null, null, `?hash=${shorten.data.hash}`)
-			var url = `${window.location.origin}/?hash=${shorten.data.hash}`;
+			var url = `${window.location.origin}${window.location.pathname}/?hash=${shorten.data.hash}`;
 			var shared = `バンドリのクリア状況を共有！ (AP:${this.countAP}/FC:${this.countFC}/CL:${this.countCL}/NC:${this.countNC})`;
 			
 			// openDialog
