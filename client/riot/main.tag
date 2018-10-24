@@ -23,7 +23,7 @@ main
 			| :{countNC}
 		input#viewOnlyMode(type="checkbox" onclick='{ toggleViewOnlyMode }' checked='{ this.URLReadOnly }' disabled='{ this.URLReadOnly }')
 		label(for="viewOnlyMode") 閲覧用モード
-		button#sharedData(class='{ hidden: this.URLReadOnly }' onclick='{ generateDataURL }') URL生成
+		//-button#sharedData(class='{ hidden: this.URLReadOnly }' onclick='{ generateDataURL }') URL生成
 
 	div.songLists(class='{wideView: viewOnly}')
 		div.song(each='{s in allSongNameList}' class='type_{s.type}' data-disp='{s.dispValue}' data-index='{s.index}' onclick='{ showEditForm.bind(this, s) }')
@@ -74,8 +74,6 @@ main
 	// Script
 	script.
 		var $ = require("jquery");
-		var zlib = require("zlib");
-		var queryString = require("query-string");
 		
 		// re-lendering
 		var lenderingUpdate = (savedData, sortType) => {
@@ -460,4 +458,3 @@ main
 			// true なら実行できている falseなら失敗か対応していないか
 			return result;
 		}
-		
