@@ -436,7 +436,13 @@ main
 			sd.forEach(e => {
 				var songd = global.allSongList.find(e_ => e_.name === e.name && e_.difficult === e.difficult);
 				if(songd){
-					rst[songd.id] = [e.clearState, e.great, e.good, e.bad, e.miss].join("|");
+					rst[songd.id] = [
+						e.clearState,
+						e.great || "",
+						e.good || "",
+						e.bad || "",
+						e.miss || ""
+					].join("|");
 				}
 			});
 			return rst;
