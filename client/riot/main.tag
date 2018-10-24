@@ -63,6 +63,15 @@ main
 			textarea {editSongDiff.comment}
 			button(onclick='{ updateSongDiffScore.bind(this, editSong, editSongDiff) }') 更新
 		
+	// some dialogs
+	virtual(if='{ shortenURL }')
+		dialog#shortenCreate(open=true)
+			div.closeLink(onclick='{ ()=>{ this.shortenURL = ""; } }') ×
+			input.shorturl(type="text" value='{ shortenURL }' readonly=true)
+			div.information 共有用のURLを生成しました。
+			br
+			a(href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-text="{ sharedText }" data-url="{ shortenURL }" data-hashtags="bgdcm" data-show-count="true") Tweet
+	
 	footer 
 	
 	// ---------------------------
@@ -347,9 +356,22 @@ main
 				console.log(shorten);
 				alert(`URL生成に失敗しました…… [${shorten.status_txt}]`);
 			}
-			history.replaceState(null, null, `?hash=${shorten.data.hash}`)
-			var f = execCopy(window.location);
-			alert(`URLを生成しました。${f ? "\nURLはクリップボードにコピーされています。" : ""}`);
+			//history.replaceState(null, null, `?hash=${shorten.data.hash}`)
+			var url = `${window.location.origin}/?hash=${shorten.data.hash}`;
+			var shared = `バンドリのクリア状況を共有！ (AP:${this.countAP}/FC:${this.countFC}/CL:${this.countCL}/NC:${this.countNC})`;
+			
+			// openDialog
+			this.sharedText = shared;
+			this.shortenURL = url;
+			
+			
+			this.update();
+			if ("twttr" in window) {
+				window.twttr.widgets.load();
+			}
+			
+			console.log(this);
+			
 		}
 		
 		// get localstrage saved score

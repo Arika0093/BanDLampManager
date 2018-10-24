@@ -343,3 +343,24 @@ span.comment {
 }
 
 
+dialog#shortenCreate {
+	position: fixed;
+	top: 5ex;
+	width: 400px;
+	padding: 2ex 1ex;
+	text-align: center;
+	border: 1px solid #CCC;
+	box-shadow: 0 0 8px #CCC;
+}
+
+dialog > div.closeLink{
+	text-align: right;
+	cursor: pointer;
+	margin-right: 1ex;
+}
+
+dialog > input[type="text"] {
+	font-family: "Meiryo";
+	width: 80%;
+	margin-bottom: 1ex;
+}
