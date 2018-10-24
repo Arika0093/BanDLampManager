@@ -187,7 +187,7 @@ main
 			if(parsed){
 				if(parsed.hash){
 					var long = await extractLongURL(parsed.hash);
-					if(!long || !long.data.expand[0]){
+					if(!long || !long.data.length || !long.data.expand[0]){
 						alert("parse error.");
 						return;
 					}
@@ -289,7 +289,6 @@ main
 				comment: cm,
 				clearState
 			}
-			console.log(si);
 			setSaveItem(si, name, difficult);
 			
 			lenderingUpdate(getSaveData(), global.sortType || 0);
@@ -327,6 +326,10 @@ main
 			var l = `http://example.com/?data=${q}`;
 			var shorten = await generateShortenURL(l);
 			
+			if(shorten.status_code == 500){
+				console.log(shorten);
+				alert(`URL生成に失敗しました…… [${shorten.status_txt}]`);
+			}
 			history.replaceState(null, null, `?hash=${shorten.data.hash}`)
 			var f = execCopy(window.location);
 			alert(`URLを生成しました。${f ? "\nURLはクリップボードにコピーされています。" : ""}`);
@@ -336,7 +339,6 @@ main
 		function getSaveData() {
 			// if readonly mode
 			if(this.URLReadOnly){
-				console.log(global.queryLoadData);
 				return global.queryLoadData;
 			}
 			// localstrage data get
@@ -391,7 +393,6 @@ main
 		// create shorten data from saved big data
 		function createShortDataFromSavedData(){
 			var sd = getSaveData();
-			console.log(sd);
 			var rst = {};
 			sd.forEach(e => {
 				var songd = global.allSongList.find(e_ => e_.name === e.name && e_.difficult === e.difficult);
@@ -399,7 +400,6 @@ main
 					rst[songd.id] = [e.clearState, e.great, e.good, e.bad, e.miss].join("|");
 				}
 			});
-			console.log(rst);
 			return rst;
 		}
 		
@@ -410,7 +410,6 @@ main
 				var v = shd[k];
 				var [clearState, great, good, bad, miss] = v.split("|");
 				var s = global.allSongList.find(e => e.id == Number(k));
-				console.log(s, k, v);
 				rst.push({
 					name: s.name,
 					difficult: s.difficult,
