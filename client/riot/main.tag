@@ -187,7 +187,8 @@ main
 			if(parsed){
 				if(parsed.hash){
 					var long = await extractLongURL(parsed.hash);
-					if(!long || !long.data.length || !long.data.expand[0]){
+					console.log(long);
+					if(!long || long.data === [] || !long.data.expand[0]){
 						alert("parse error.");
 						return;
 					}
