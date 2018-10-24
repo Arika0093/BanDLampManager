@@ -74,6 +74,8 @@ main
 	// Script
 	script.
 		var $ = require("jquery");
+		var zlib = require("zlib");
+		var queryString = require("query-string");
 		
 		// re-lendering
 		var lenderingUpdate = (savedData, sortType) => {
