@@ -106,6 +106,10 @@ main
 						index: i,
 						diffs: global.allSongList
 							.filter(e_ => e_.name === e.name)
+							.sort((a,b) => {
+								if(a.default < b.default) return -1;
+								if(a.default > b.default) return +1;
+							})
 							.map(e_ => {
 								var ssd = findSaveDataItem(savedData, e_.name, e_.difficult);
 								var grCount = ssd.great + ssd.good + ssd.bad + ssd.miss;
@@ -122,7 +126,7 @@ main
 				});
 			// dispValue Set
 			allSongNameList.forEach(e => {
-				if(!sortType){ e.dispValue = e.index + 1 }
+				if(!sortType){ e.dispValue = "" }
 				if(sortType == 1){ e.dispValue = e.seldiff.explevel }
 				if(sortType == 2){
 					if(e.seldiff.grCount > e.seldiff.totalnotes){
@@ -211,7 +215,8 @@ main
 			}
 			
 			// Update
-			lenderingUpdate(savedData, this.URLReadOnly ? 4 : 0);
+			global.sortType = this.URLReadOnly ? 4 : 0;
+			lenderingUpdate(savedData, global.sortType);
 		
 			this.update();
 		})(); 
@@ -339,7 +344,7 @@ main
 		// get localstrage saved score
 		function getSaveData() {
 			// if readonly mode
-			if(this.URLReadOnly){
+			if(!!global.queryLoadData){
 				return global.queryLoadData;
 			}
 			// localstrage data get
@@ -348,7 +353,7 @@ main
 		}
 		function setSaveData(sd){
 			// if readonly mode, no action
-			if (this.URLReadOnly) {
+			if (!!global.queryLoadData) {
 				return;
 			}
 			// localstrage data get
@@ -357,7 +362,7 @@ main
 		
 		function setSaveItem(si, songName, songDiff){
 			// if readonly mode, no action
-			if (this.URLReadOnly) {
+			if (!!global.queryLoadData) {
 				return;
 			}
 			var sd = getSaveData();
