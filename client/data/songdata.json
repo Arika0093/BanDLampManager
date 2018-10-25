@@ -591,13 +591,13 @@
 	},
 	{
 		"id": 60,
-		"default": 193,
+		"default": 192,
 		"name": "BLACK SHOUT",
 		"type": "Original",
 		"bandtype": 3,
-		"difficult": "Special",
-		"level": 26,
-		"totalnotes": 575
+		"difficult": "Expert",
+		"level": 25,
+		"totalnotes": 506
 	},
 	{
 		"id": 61,
@@ -1151,13 +1151,13 @@
 	},
 	{
 		"id": 116,
-		"default": 367,
+		"default": 366,
 		"name": "Don't say \"lazy",
 		"type": "Cover",
 		"bandtype": 1,
-		"difficult": "Special",
-		"level": 25,
-		"totalnotes": 763
+		"difficult": "Expert",
+		"level": 26,
+		"totalnotes": 925
 	},
 	{
 		"id": 117,
@@ -1391,13 +1391,13 @@
 	},
 	{
 		"id": 140,
-		"default": 416,
+		"default": 415,
 		"name": "そばかす",
 		"type": "Cover",
 		"bandtype": 2,
-		"difficult": "Special",
-		"level": 25,
-		"totalnotes": 723
+		"difficult": "Expert",
+		"level": 23,
+		"totalnotes": 456
 	},
 	{
 		"id": 141,
@@ -1431,13 +1431,13 @@
 	},
 	{
 		"id": 144,
-		"default": 258,
+		"default": 257,
 		"name": "ゴーカ！ごーかい！？ファントムシーフ！",
 		"type": "Original",
 		"bandtype": 4,
-		"difficult": "Special",
-		"level": 25,
-		"totalnotes": 581
+		"difficult": "Expert",
+		"level": 27,
+		"totalnotes": 698
 	},
 	{
 		"id": 145,
@@ -5121,23 +5121,23 @@
 	},
 	{
 		"id": 513,
-		"default": 192,
-		"name": "BLACK SHOUT",
-		"type": "Original",
-		"bandtype": 3,
-		"difficult": "Expert",
-		"level": 25,
-		"totalnotes": 506
-	},
-	{
-		"id": 514,
-		"default": 366,
+		"default": 367,
 		"name": "Don't say \"lazy",
 		"type": "Cover",
 		"bandtype": 1,
-		"difficult": "Expert",
+		"difficult": "Special",
+		"level": 25,
+		"totalnotes": 763
+	},
+	{
+		"id": 514,
+		"default": 193,
+		"name": "BLACK SHOUT",
+		"type": "Original",
+		"bandtype": 3,
+		"difficult": "Special",
 		"level": 26,
-		"totalnotes": 925
+		"totalnotes": 575
 	},
 	{
 		"id": 515,
@@ -5461,23 +5461,23 @@
 	},
 	{
 		"id": 547,
-		"default": 257,
-		"name": "ゴーカ！ごーかい！？ファントムシーフ！",
-		"type": "Original",
-		"bandtype": 4,
-		"difficult": "Expert",
-		"level": 27,
-		"totalnotes": 698
-	},
-	{
-		"id": 548,
-		"default": 415,
+		"default": 416,
 		"name": "そばかす",
 		"type": "Cover",
 		"bandtype": 2,
-		"difficult": "Expert",
-		"level": 23,
-		"totalnotes": 456
+		"difficult": "Special",
+		"level": 25,
+		"totalnotes": 723
+	},
+	{
+		"id": 548,
+		"default": 258,
+		"name": "ゴーカ！ごーかい！？ファントムシーフ！",
+		"type": "Original",
+		"bandtype": 4,
+		"difficult": "Special",
+		"level": 25,
+		"totalnotes": 581
 	},
 	{
 		"id": 549,
