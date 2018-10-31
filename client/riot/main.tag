@@ -6,6 +6,9 @@ main
 		span(class='{ active: sortType == 4 }' onclick='{ sortClick.bind(this, 4) }') ▼クリア状況順
 		span(class='{ active: sortType == 2 }' onclick='{ sortClick.bind(this, 2) }') ▼Gr数順
 		span(class='{ active: sortType == 5 }' onclick='{ sortClick.bind(this, 5) }') ▼バンド順
+		//- URL閲覧時のみBattleソートを追加
+		span(class='{ active: sortType == 90 }' onclick='{ sortClick.bind(this, 90) }' if='{URLReadOnly}' ) ▼勝敗順
+		
 		select#targetDifficults(onchange='{ sortClick }')
 			option(data-index=0, value="Easy") Easy
 			option(data-index=1, value="Normal") Normal
@@ -13,17 +16,21 @@ main
 			option(data-index=3, value="Expert" selected=true) Expert
 			option(data-index=4, value="Special") Special
 		div#countShow 
-			.diff.clearState_3
+			.diff.clearState_3(title="All Perfect")
 			| :{countAP}
-			.diff.clearState_2
+			.diff.clearState_2(title="Full Combo")
 			| :{countFC}
-			.diff.clearState_1
+			.diff.clearState_1(title="Clear")
 			| :{countCL}
-			.diff.clearState_0
+			.diff.clearState_0(title="No Clear")
 			| :{countNC}
-		input#viewOnlyMode(type="checkbox" onclick='{ toggleViewOnlyMode }' checked='{ this.URLReadOnly }' disabled='{ this.URLReadOnly }')
-		label(for="viewOnlyMode") 閲覧用モード
-		button#sharedData(class='{ hidden: this.URLReadOnly }' onclick='{ generateDataURL }') URL生成
+		//- 閲覧モード切り替え(URL表示時は非表示にする)
+		input#viewOnlyMode(type="checkbox" class='{ hidden: URLReadOnly }' onclick='{ toggleViewOnlyMode }' checked='{ this.URLReadOnly }' disabled='{ this.URLReadOnly }')
+		label(for="viewOnlyMode" class='{ hidden: URLReadOnly }' ) 閲覧用モード
+		
+		
+		//- URL生成ボタン(URL表示時は非表示)
+		button#sharedData(class='{ hidden: URLReadOnly }' onclick='{ generateDataURL }') URL生成
 
 	div.songLists(class='{wideView: viewOnly}')
 		div.song(each='{s in allSongNameList}' class='type_{s.type} band_{s.bandtype}' data-disp='{s.dispValue}' data-index='{s.index}' onclick='{ showEditForm.bind(this, s) }')

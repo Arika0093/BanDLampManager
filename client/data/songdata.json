@@ -161,7 +161,7 @@
 	},
 	{
 		"id": 17,
-		"default": 17,
+		"default": 18,
 		"name": "ぽっぴん’しゃっふる",
 		"type": "Original",
 		"bandtype": 0,
@@ -171,7 +171,7 @@
 	},
 	{
 		"id": 18,
-		"default": 18,
+		"default": 19,
 		"name": "ぽっぴん’しゃっふる",
 		"type": "Original",
 		"bandtype": 0,
@@ -181,7 +181,7 @@
 	},
 	{
 		"id": 19,
-		"default": 19,
+		"default": 20,
 		"name": "ぽっぴん’しゃっふる",
 		"type": "Original",
 		"bandtype": 0,
@@ -191,7 +191,7 @@
 	},
 	{
 		"id": 20,
-		"default": 20,
+		"default": 21,
 		"name": "ぽっぴん’しゃっふる",
 		"type": "Original",
 		"bandtype": 0,
@@ -201,7 +201,7 @@
 	},
 	{
 		"id": 21,
-		"default": 21,
+		"default": 22,
 		"name": "STAR BEAT！～ホシノコドウ～",
 		"type": "Original",
 		"bandtype": 0,
@@ -211,7 +211,7 @@
 	},
 	{
 		"id": 22,
-		"default": 22,
+		"default": 23,
 		"name": "STAR BEAT！～ホシノコドウ～",
 		"type": "Original",
 		"bandtype": 0,
@@ -221,7 +221,7 @@
 	},
 	{
 		"id": 23,
-		"default": 23,
+		"default": 24,
 		"name": "STAR BEAT！～ホシノコドウ～",
 		"type": "Original",
 		"bandtype": 0,
@@ -231,7 +231,7 @@
 	},
 	{
 		"id": 24,
-		"default": 24,
+		"default": 25,
 		"name": "STAR BEAT！～ホシノコドウ～",
 		"type": "Original",
 		"bandtype": 0,
@@ -241,7 +241,7 @@
 	},
 	{
 		"id": 25,
-		"default": 25,
+		"default": 26,
 		"name": "夏空SUN！SUN！SEVEN！",
 		"type": "Original",
 		"bandtype": 0,
@@ -251,7 +251,7 @@
 	},
 	{
 		"id": 26,
-		"default": 26,
+		"default": 27,
 		"name": "夏空SUN！SUN！SEVEN！",
 		"type": "Original",
 		"bandtype": 0,
@@ -261,7 +261,7 @@
 	},
 	{
 		"id": 27,
-		"default": 27,
+		"default": 28,
 		"name": "夏空SUN！SUN！SEVEN！",
 		"type": "Original",
 		"bandtype": 0,
@@ -271,7 +271,7 @@
 	},
 	{
 		"id": 28,
-		"default": 28,
+		"default": 29,
 		"name": "夏空SUN！SUN！SEVEN！",
 		"type": "Original",
 		"bandtype": 0,
@@ -281,7 +281,7 @@
 	},
 	{
 		"id": 29,
-		"default": 29,
+		"default": 30,
 		"name": "走り始めたばかりのキミに",
 		"type": "Original",
 		"bandtype": 0,
@@ -291,7 +291,7 @@
 	},
 	{
 		"id": 30,
-		"default": 30,
+		"default": 31,
 		"name": "走り始めたばかりのキミに",
 		"type": "Original",
 		"bandtype": 0,
@@ -301,7 +301,7 @@
 	},
 	{
 		"id": 31,
-		"default": 31,
+		"default": 32,
 		"name": "走り始めたばかりのキミに",
 		"type": "Original",
 		"bandtype": 0,
@@ -311,7 +311,7 @@
 	},
 	{
 		"id": 32,
-		"default": 32,
+		"default": 33,
 		"name": "走り始めたばかりのキミに",
 		"type": "Original",
 		"bandtype": 0,
@@ -321,7 +321,7 @@
 	},
 	{
 		"id": 33,
-		"default": 33,
+		"default": 34,
 		"name": "1000回潤んだ空",
 		"type": "Original",
 		"bandtype": 0,
@@ -331,7 +331,7 @@
 	},
 	{
 		"id": 34,
-		"default": 34,
+		"default": 35,
 		"name": "1000回潤んだ空",
 		"type": "Original",
 		"bandtype": 0,
@@ -341,7 +341,7 @@
 	},
 	{
 		"id": 35,
-		"default": 35,
+		"default": 36,
 		"name": "1000回潤んだ空",
 		"type": "Original",
 		"bandtype": 0,
@@ -351,7 +351,7 @@
 	},
 	{
 		"id": 36,
-		"default": 36,
+		"default": 37,
 		"name": "1000回潤んだ空",
 		"type": "Original",
 		"bandtype": 0,
@@ -361,7 +361,7 @@
 	},
 	{
 		"id": 37,
-		"default": 93,
+		"default": 94,
 		"name": "Happy Happy Party！",
 		"type": "Original",
 		"bandtype": 0,
@@ -371,7 +371,7 @@
 	},
 	{
 		"id": 38,
-		"default": 94,
+		"default": 95,
 		"name": "Happy Happy Party！",
 		"type": "Original",
 		"bandtype": 0,
@@ -381,7 +381,7 @@
 	},
 	{
 		"id": 39,
-		"default": 95,
+		"default": 96,
 		"name": "Happy Happy Party！",
 		"type": "Original",
 		"bandtype": 0,
@@ -391,7 +391,7 @@
 	},
 	{
 		"id": 40,
-		"default": 96,
+		"default": 97,
 		"name": "Happy Happy Party！",
 		"type": "Original",
 		"bandtype": 0,
@@ -401,7 +401,7 @@
 	},
 	{
 		"id": 41,
-		"default": 121,
+		"default": 122,
 		"name": "That Is How I Roll",
 		"type": "Original",
 		"bandtype": 1,
@@ -411,7 +411,7 @@
 	},
 	{
 		"id": 42,
-		"default": 122,
+		"default": 123,
 		"name": "That Is How I Roll",
 		"type": "Original",
 		"bandtype": 1,
@@ -421,7 +421,7 @@
 	},
 	{
 		"id": 43,
-		"default": 123,
+		"default": 124,
 		"name": "That Is How I Roll",
 		"type": "Original",
 		"bandtype": 1,
@@ -431,7 +431,7 @@
 	},
 	{
 		"id": 44,
-		"default": 124,
+		"default": 125,
 		"name": "That Is How I Roll",
 		"type": "Original",
 		"bandtype": 1,
@@ -441,7 +441,7 @@
 	},
 	{
 		"id": 45,
-		"default": 125,
+		"default": 126,
 		"name": "True color",
 		"type": "Original",
 		"bandtype": 1,
@@ -451,7 +451,7 @@
 	},
 	{
 		"id": 46,
-		"default": 126,
+		"default": 127,
 		"name": "True color",
 		"type": "Original",
 		"bandtype": 1,
@@ -461,7 +461,7 @@
 	},
 	{
 		"id": 47,
-		"default": 127,
+		"default": 128,
 		"name": "True color",
 		"type": "Original",
 		"bandtype": 1,
@@ -471,7 +471,7 @@
 	},
 	{
 		"id": 48,
-		"default": 128,
+		"default": 129,
 		"name": "True color",
 		"type": "Original",
 		"bandtype": 1,
@@ -481,7 +481,7 @@
 	},
 	{
 		"id": 49,
-		"default": 153,
+		"default": 154,
 		"name": "しゅわりん☆どり～みん",
 		"type": "Original",
 		"bandtype": 2,
@@ -491,7 +491,7 @@
 	},
 	{
 		"id": 50,
-		"default": 154,
+		"default": 155,
 		"name": "しゅわりん☆どり～みん",
 		"type": "Original",
 		"bandtype": 2,
@@ -501,7 +501,7 @@
 	},
 	{
 		"id": 51,
-		"default": 155,
+		"default": 156,
 		"name": "しゅわりん☆どり～みん",
 		"type": "Original",
 		"bandtype": 2,
@@ -511,7 +511,7 @@
 	},
 	{
 		"id": 52,
-		"default": 156,
+		"default": 157,
 		"name": "しゅわりん☆どり～みん",
 		"type": "Original",
 		"bandtype": 2,
@@ -521,7 +521,7 @@
 	},
 	{
 		"id": 53,
-		"default": 157,
+		"default": 158,
 		"name": "パスパレボリューションず☆",
 		"type": "Original",
 		"bandtype": 2,
@@ -531,7 +531,7 @@
 	},
 	{
 		"id": 54,
-		"default": 158,
+		"default": 159,
 		"name": "パスパレボリューションず☆",
 		"type": "Original",
 		"bandtype": 2,
@@ -541,7 +541,7 @@
 	},
 	{
 		"id": 55,
-		"default": 159,
+		"default": 160,
 		"name": "パスパレボリューションず☆",
 		"type": "Original",
 		"bandtype": 2,
@@ -551,7 +551,7 @@
 	},
 	{
 		"id": 56,
-		"default": 160,
+		"default": 161,
 		"name": "パスパレボリューションず☆",
 		"type": "Original",
 		"bandtype": 2,
@@ -561,7 +561,7 @@
 	},
 	{
 		"id": 57,
-		"default": 189,
+		"default": 190,
 		"name": "BLACK SHOUT",
 		"type": "Original",
 		"bandtype": 3,
@@ -571,7 +571,7 @@
 	},
 	{
 		"id": 58,
-		"default": 190,
+		"default": 191,
 		"name": "BLACK SHOUT",
 		"type": "Original",
 		"bandtype": 3,
@@ -581,7 +581,7 @@
 	},
 	{
 		"id": 59,
-		"default": 191,
+		"default": 192,
 		"name": "BLACK SHOUT",
 		"type": "Original",
 		"bandtype": 3,
@@ -591,7 +591,7 @@
 	},
 	{
 		"id": 60,
-		"default": 192,
+		"default": 193,
 		"name": "BLACK SHOUT",
 		"type": "Original",
 		"bandtype": 3,
@@ -601,7 +601,7 @@
 	},
 	{
 		"id": 61,
-		"default": 194,
+		"default": 195,
 		"name": "Re:birth day",
 		"type": "Original",
 		"bandtype": 3,
@@ -611,7 +611,7 @@
 	},
 	{
 		"id": 62,
-		"default": 195,
+		"default": 196,
 		"name": "Re:birth day",
 		"type": "Original",
 		"bandtype": 3,
@@ -621,7 +621,7 @@
 	},
 	{
 		"id": 63,
-		"default": 196,
+		"default": 197,
 		"name": "Re:birth day",
 		"type": "Original",
 		"bandtype": 3,
@@ -631,7 +631,7 @@
 	},
 	{
 		"id": 64,
-		"default": 197,
+		"default": 198,
 		"name": "Re:birth day",
 		"type": "Original",
 		"bandtype": 3,
@@ -641,7 +641,7 @@
 	},
 	{
 		"id": 65,
-		"default": 246,
+		"default": 247,
 		"name": "えがおのオーケストラっ！",
 		"type": "Original",
 		"bandtype": 4,
@@ -651,7 +651,7 @@
 	},
 	{
 		"id": 66,
-		"default": 247,
+		"default": 248,
 		"name": "えがおのオーケストラっ！",
 		"type": "Original",
 		"bandtype": 4,
@@ -661,7 +661,7 @@
 	},
 	{
 		"id": 67,
-		"default": 248,
+		"default": 249,
 		"name": "えがおのオーケストラっ！",
 		"type": "Original",
 		"bandtype": 4,
@@ -671,7 +671,7 @@
 	},
 	{
 		"id": 68,
-		"default": 249,
+		"default": 250,
 		"name": "えがおのオーケストラっ！",
 		"type": "Original",
 		"bandtype": 4,
@@ -681,7 +681,7 @@
 	},
 	{
 		"id": 69,
-		"default": 250,
+		"default": 251,
 		"name": "ハピネスっ！ハピィーマジカルっ♪",
 		"type": "Original",
 		"bandtype": 4,
@@ -691,7 +691,7 @@
 	},
 	{
 		"id": 70,
-		"default": 251,
+		"default": 252,
 		"name": "ハピネスっ！ハピィーマジカルっ♪",
 		"type": "Original",
 		"bandtype": 4,
@@ -701,7 +701,7 @@
 	},
 	{
 		"id": 71,
-		"default": 252,
+		"default": 253,
 		"name": "ハピネスっ！ハピィーマジカルっ♪",
 		"type": "Original",
 		"bandtype": 4,
@@ -711,7 +711,7 @@
 	},
 	{
 		"id": 72,
-		"default": 253,
+		"default": 254,
 		"name": "ハピネスっ！ハピィーマジカルっ♪",
 		"type": "Original",
 		"bandtype": 4,
@@ -721,7 +721,7 @@
 	},
 	{
 		"id": 73,
-		"default": 295,
+		"default": 296,
 		"name": "空色デイズ",
 		"type": "Cover",
 		"bandtype": 0,
@@ -731,7 +731,7 @@
 	},
 	{
 		"id": 74,
-		"default": 296,
+		"default": 297,
 		"name": "空色デイズ",
 		"type": "Cover",
 		"bandtype": 0,
@@ -741,7 +741,7 @@
 	},
 	{
 		"id": 75,
-		"default": 297,
+		"default": 298,
 		"name": "空色デイズ",
 		"type": "Cover",
 		"bandtype": 0,
@@ -751,7 +751,7 @@
 	},
 	{
 		"id": 76,
-		"default": 298,
+		"default": 299,
 		"name": "空色デイズ",
 		"type": "Cover",
 		"bandtype": 0,
@@ -761,7 +761,7 @@
 	},
 	{
 		"id": 77,
-		"default": 299,
+		"default": 300,
 		"name": "Alchemy",
 		"type": "Cover",
 		"bandtype": 0,
@@ -771,7 +771,7 @@
 	},
 	{
 		"id": 78,
-		"default": 300,
+		"default": 301,
 		"name": "Alchemy",
 		"type": "Cover",
 		"bandtype": 0,
@@ -781,7 +781,7 @@
 	},
 	{
 		"id": 79,
-		"default": 301,
+		"default": 302,
 		"name": "Alchemy",
 		"type": "Cover",
 		"bandtype": 0,
@@ -791,7 +791,7 @@
 	},
 	{
 		"id": 80,
-		"default": 302,
+		"default": 303,
 		"name": "Alchemy",
 		"type": "Cover",
 		"bandtype": 0,
@@ -801,7 +801,7 @@
 	},
 	{
 		"id": 81,
-		"default": 359,
+		"default": 364,
 		"name": "カルマ",
 		"type": "Cover",
 		"bandtype": 1,
@@ -811,7 +811,7 @@
 	},
 	{
 		"id": 82,
-		"default": 360,
+		"default": 365,
 		"name": "カルマ",
 		"type": "Cover",
 		"bandtype": 1,
@@ -821,7 +821,7 @@
 	},
 	{
 		"id": 83,
-		"default": 361,
+		"default": 366,
 		"name": "カルマ",
 		"type": "Cover",
 		"bandtype": 1,
@@ -831,7 +831,7 @@
 	},
 	{
 		"id": 84,
-		"default": 362,
+		"default": 367,
 		"name": "カルマ",
 		"type": "Cover",
 		"bandtype": 1,
@@ -841,7 +841,7 @@
 	},
 	{
 		"id": 85,
-		"default": 368,
+		"default": 373,
 		"name": "Butter-Fly",
 		"type": "Cover",
 		"bandtype": 1,
@@ -851,7 +851,7 @@
 	},
 	{
 		"id": 86,
-		"default": 369,
+		"default": 374,
 		"name": "Butter-Fly",
 		"type": "Cover",
 		"bandtype": 1,
@@ -861,7 +861,7 @@
 	},
 	{
 		"id": 87,
-		"default": 370,
+		"default": 375,
 		"name": "Butter-Fly",
 		"type": "Cover",
 		"bandtype": 1,
@@ -871,7 +871,7 @@
 	},
 	{
 		"id": 88,
-		"default": 371,
+		"default": 376,
 		"name": "Butter-Fly",
 		"type": "Cover",
 		"bandtype": 1,
@@ -881,7 +881,7 @@
 	},
 	{
 		"id": 89,
-		"default": 404,
+		"default": 409,
 		"name": "secret base～君がくれたもの～",
 		"type": "Cover",
 		"bandtype": 2,
@@ -891,7 +891,7 @@
 	},
 	{
 		"id": 90,
-		"default": 405,
+		"default": 410,
 		"name": "secret base～君がくれたもの～",
 		"type": "Cover",
 		"bandtype": 2,
@@ -901,7 +901,7 @@
 	},
 	{
 		"id": 91,
-		"default": 406,
+		"default": 411,
 		"name": "secret base～君がくれたもの～",
 		"type": "Cover",
 		"bandtype": 2,
@@ -911,7 +911,7 @@
 	},
 	{
 		"id": 92,
-		"default": 407,
+		"default": 412,
 		"name": "secret base～君がくれたもの～",
 		"type": "Cover",
 		"bandtype": 2,
@@ -921,7 +921,7 @@
 	},
 	{
 		"id": 93,
-		"default": 408,
+		"default": 413,
 		"name": "ドリームパレード",
 		"type": "Cover",
 		"bandtype": 2,
@@ -931,7 +931,7 @@
 	},
 	{
 		"id": 94,
-		"default": 409,
+		"default": 414,
 		"name": "ドリームパレード",
 		"type": "Cover",
 		"bandtype": 2,
@@ -941,7 +941,7 @@
 	},
 	{
 		"id": 95,
-		"default": 410,
+		"default": 415,
 		"name": "ドリームパレード",
 		"type": "Cover",
 		"bandtype": 2,
@@ -951,7 +951,7 @@
 	},
 	{
 		"id": 96,
-		"default": 411,
+		"default": 416,
 		"name": "ドリームパレード",
 		"type": "Cover",
 		"bandtype": 2,
@@ -961,7 +961,7 @@
 	},
 	{
 		"id": 97,
-		"default": 457,
+		"default": 462,
 		"name": "魂のルフラン",
 		"type": "Cover",
 		"bandtype": 3,
@@ -971,7 +971,7 @@
 	},
 	{
 		"id": 98,
-		"default": 458,
+		"default": 463,
 		"name": "魂のルフラン",
 		"type": "Cover",
 		"bandtype": 3,
@@ -981,7 +981,7 @@
 	},
 	{
 		"id": 99,
-		"default": 459,
+		"default": 464,
 		"name": "魂のルフラン",
 		"type": "Cover",
 		"bandtype": 3,
@@ -991,7 +991,7 @@
 	},
 	{
 		"id": 100,
-		"default": 460,
+		"default": 465,
 		"name": "魂のルフラン",
 		"type": "Cover",
 		"bandtype": 3,
@@ -1001,7 +1001,7 @@
 	},
 	{
 		"id": 101,
-		"default": 461,
+		"default": 467,
 		"name": "Hacking to the Gate",
 		"type": "Cover",
 		"bandtype": 3,
@@ -1011,7 +1011,7 @@
 	},
 	{
 		"id": 102,
-		"default": 462,
+		"default": 468,
 		"name": "Hacking to the Gate",
 		"type": "Cover",
 		"bandtype": 3,
@@ -1021,7 +1021,7 @@
 	},
 	{
 		"id": 103,
-		"default": 463,
+		"default": 469,
 		"name": "Hacking to the Gate",
 		"type": "Cover",
 		"bandtype": 3,
@@ -1031,7 +1031,7 @@
 	},
 	{
 		"id": 104,
-		"default": 464,
+		"default": 470,
 		"name": "Hacking to the Gate",
 		"type": "Cover",
 		"bandtype": 3,
@@ -1041,7 +1041,7 @@
 	},
 	{
 		"id": 105,
-		"default": 513,
+		"default": 519,
 		"name": "シュガーソングとビターステップ",
 		"type": "Cover",
 		"bandtype": 4,
@@ -1051,7 +1051,7 @@
 	},
 	{
 		"id": 106,
-		"default": 514,
+		"default": 520,
 		"name": "シュガーソングとビターステップ",
 		"type": "Cover",
 		"bandtype": 4,
@@ -1061,7 +1061,7 @@
 	},
 	{
 		"id": 107,
-		"default": 515,
+		"default": 521,
 		"name": "シュガーソングとビターステップ",
 		"type": "Cover",
 		"bandtype": 4,
@@ -1071,7 +1071,7 @@
 	},
 	{
 		"id": 108,
-		"default": 516,
+		"default": 522,
 		"name": "シュガーソングとビターステップ",
 		"type": "Cover",
 		"bandtype": 4,
@@ -1081,7 +1081,7 @@
 	},
 	{
 		"id": 109,
-		"default": 517,
+		"default": 523,
 		"name": "いーあるふぁんくらぶ",
 		"type": "Cover",
 		"bandtype": 4,
@@ -1091,7 +1091,7 @@
 	},
 	{
 		"id": 110,
-		"default": 518,
+		"default": 524,
 		"name": "いーあるふぁんくらぶ",
 		"type": "Cover",
 		"bandtype": 4,
@@ -1101,7 +1101,7 @@
 	},
 	{
 		"id": 111,
-		"default": 519,
+		"default": 525,
 		"name": "いーあるふぁんくらぶ",
 		"type": "Cover",
 		"bandtype": 4,
@@ -1111,7 +1111,7 @@
 	},
 	{
 		"id": 112,
-		"default": 520,
+		"default": 526,
 		"name": "いーあるふぁんくらぶ",
 		"type": "Cover",
 		"bandtype": 4,
@@ -1121,7 +1121,7 @@
 	},
 	{
 		"id": 113,
-		"default": 363,
+		"default": 368,
 		"name": "Don't say \"lazy",
 		"type": "Cover",
 		"bandtype": 1,
@@ -1131,7 +1131,7 @@
 	},
 	{
 		"id": 114,
-		"default": 364,
+		"default": 369,
 		"name": "Don't say \"lazy",
 		"type": "Cover",
 		"bandtype": 1,
@@ -1141,7 +1141,7 @@
 	},
 	{
 		"id": 115,
-		"default": 365,
+		"default": 370,
 		"name": "Don't say \"lazy",
 		"type": "Cover",
 		"bandtype": 1,
@@ -1151,7 +1151,7 @@
 	},
 	{
 		"id": 116,
-		"default": 366,
+		"default": 371,
 		"name": "Don't say \"lazy",
 		"type": "Cover",
 		"bandtype": 1,
@@ -1161,7 +1161,7 @@
 	},
 	{
 		"id": 117,
-		"default": 89,
+		"default": 90,
 		"name": "Don't be afraid！",
 		"type": "Original",
 		"bandtype": 5,
@@ -1171,7 +1171,7 @@
 	},
 	{
 		"id": 118,
-		"default": 90,
+		"default": 91,
 		"name": "Don't be afraid！",
 		"type": "Original",
 		"bandtype": 5,
@@ -1181,7 +1181,7 @@
 	},
 	{
 		"id": 119,
-		"default": 91,
+		"default": 92,
 		"name": "Don't be afraid！",
 		"type": "Original",
 		"bandtype": 5,
@@ -1191,7 +1191,7 @@
 	},
 	{
 		"id": 120,
-		"default": 92,
+		"default": 93,
 		"name": "Don't be afraid！",
 		"type": "Original",
 		"bandtype": 5,
@@ -1201,7 +1201,7 @@
 	},
 	{
 		"id": 121,
-		"default": 303,
+		"default": 304,
 		"name": "光るなら",
 		"type": "Cover",
 		"bandtype": 0,
@@ -1211,7 +1211,7 @@
 	},
 	{
 		"id": 122,
-		"default": 304,
+		"default": 305,
 		"name": "光るなら",
 		"type": "Cover",
 		"bandtype": 0,
@@ -1221,7 +1221,7 @@
 	},
 	{
 		"id": 123,
-		"default": 305,
+		"default": 306,
 		"name": "光るなら",
 		"type": "Cover",
 		"bandtype": 0,
@@ -1231,7 +1231,7 @@
 	},
 	{
 		"id": 124,
-		"default": 306,
+		"default": 307,
 		"name": "光るなら",
 		"type": "Cover",
 		"bandtype": 0,
@@ -1241,7 +1241,7 @@
 	},
 	{
 		"id": 125,
-		"default": 37,
+		"default": 38,
 		"name": "前へススメ！",
 		"type": "Original",
 		"bandtype": 0,
@@ -1251,7 +1251,7 @@
 	},
 	{
 		"id": 126,
-		"default": 38,
+		"default": 39,
 		"name": "前へススメ！",
 		"type": "Original",
 		"bandtype": 0,
@@ -1261,7 +1261,7 @@
 	},
 	{
 		"id": 127,
-		"default": 39,
+		"default": 40,
 		"name": "前へススメ！",
 		"type": "Original",
 		"bandtype": 0,
@@ -1271,7 +1271,7 @@
 	},
 	{
 		"id": 128,
-		"default": 40,
+		"default": 41,
 		"name": "前へススメ！",
 		"type": "Original",
 		"bandtype": 0,
@@ -1281,7 +1281,7 @@
 	},
 	{
 		"id": 129,
-		"default": 521,
+		"default": 527,
 		"name": "シルエット",
 		"type": "Cover",
 		"bandtype": 4,
@@ -1291,7 +1291,7 @@
 	},
 	{
 		"id": 130,
-		"default": 522,
+		"default": 528,
 		"name": "シルエット",
 		"type": "Cover",
 		"bandtype": 4,
@@ -1301,7 +1301,7 @@
 	},
 	{
 		"id": 131,
-		"default": 523,
+		"default": 529,
 		"name": "シルエット",
 		"type": "Cover",
 		"bandtype": 4,
@@ -1311,7 +1311,7 @@
 	},
 	{
 		"id": 132,
-		"default": 524,
+		"default": 530,
 		"name": "シルエット",
 		"type": "Cover",
 		"bandtype": 4,
@@ -1321,7 +1321,7 @@
 	},
 	{
 		"id": 133,
-		"default": 198,
+		"default": 199,
 		"name": "LOUDER",
 		"type": "Original",
 		"bandtype": 3,
@@ -1331,7 +1331,7 @@
 	},
 	{
 		"id": 134,
-		"default": 199,
+		"default": 200,
 		"name": "LOUDER",
 		"type": "Original",
 		"bandtype": 3,
@@ -1341,7 +1341,7 @@
 	},
 	{
 		"id": 135,
-		"default": 200,
+		"default": 201,
 		"name": "LOUDER",
 		"type": "Original",
 		"bandtype": 3,
@@ -1351,7 +1351,7 @@
 	},
 	{
 		"id": 136,
-		"default": 201,
+		"default": 202,
 		"name": "LOUDER",
 		"type": "Original",
 		"bandtype": 3,
@@ -1361,7 +1361,7 @@
 	},
 	{
 		"id": 137,
-		"default": 412,
+		"default": 417,
 		"name": "そばかす",
 		"type": "Cover",
 		"bandtype": 2,
@@ -1371,7 +1371,7 @@
 	},
 	{
 		"id": 138,
-		"default": 413,
+		"default": 418,
 		"name": "そばかす",
 		"type": "Cover",
 		"bandtype": 2,
@@ -1381,7 +1381,7 @@
 	},
 	{
 		"id": 139,
-		"default": 414,
+		"default": 419,
 		"name": "そばかす",
 		"type": "Cover",
 		"bandtype": 2,
@@ -1391,7 +1391,7 @@
 	},
 	{
 		"id": 140,
-		"default": 415,
+		"default": 420,
 		"name": "そばかす",
 		"type": "Cover",
 		"bandtype": 2,
@@ -1401,7 +1401,7 @@
 	},
 	{
 		"id": 141,
-		"default": 254,
+		"default": 255,
 		"name": "ゴーカ！ごーかい！？ファントムシーフ！",
 		"type": "Original",
 		"bandtype": 4,
@@ -1411,7 +1411,7 @@
 	},
 	{
 		"id": 142,
-		"default": 255,
+		"default": 256,
 		"name": "ゴーカ！ごーかい！？ファントムシーフ！",
 		"type": "Original",
 		"bandtype": 4,
@@ -1421,7 +1421,7 @@
 	},
 	{
 		"id": 143,
-		"default": 256,
+		"default": 257,
 		"name": "ゴーカ！ごーかい！？ファントムシーフ！",
 		"type": "Original",
 		"bandtype": 4,
@@ -1431,7 +1431,7 @@
 	},
 	{
 		"id": 144,
-		"default": 257,
+		"default": 258,
 		"name": "ゴーカ！ごーかい！？ファントムシーフ！",
 		"type": "Original",
 		"bandtype": 4,
@@ -1441,7 +1441,7 @@
 	},
 	{
 		"id": 145,
-		"default": 465,
+		"default": 471,
 		"name": "ETERNAL BLAZE",
 		"type": "Cover",
 		"bandtype": 3,
@@ -1451,7 +1451,7 @@
 	},
 	{
 		"id": 146,
-		"default": 466,
+		"default": 472,
 		"name": "ETERNAL BLAZE",
 		"type": "Cover",
 		"bandtype": 3,
@@ -1461,7 +1461,7 @@
 	},
 	{
 		"id": 147,
-		"default": 467,
+		"default": 473,
 		"name": "ETERNAL BLAZE",
 		"type": "Cover",
 		"bandtype": 3,
@@ -1471,7 +1471,7 @@
 	},
 	{
 		"id": 148,
-		"default": 468,
+		"default": 474,
 		"name": "ETERNAL BLAZE",
 		"type": "Cover",
 		"bandtype": 3,
@@ -1481,7 +1481,7 @@
 	},
 	{
 		"id": 149,
-		"default": 45,
+		"default": 46,
 		"name": "キミにもらったもの",
 		"type": "Original",
 		"bandtype": 0,
@@ -1491,7 +1491,7 @@
 	},
 	{
 		"id": 150,
-		"default": 46,
+		"default": 47,
 		"name": "キミにもらったもの",
 		"type": "Original",
 		"bandtype": 0,
@@ -1501,7 +1501,7 @@
 	},
 	{
 		"id": 151,
-		"default": 47,
+		"default": 48,
 		"name": "キミにもらったもの",
 		"type": "Original",
 		"bandtype": 0,
@@ -1511,7 +1511,7 @@
 	},
 	{
 		"id": 152,
-		"default": 48,
+		"default": 49,
 		"name": "キミにもらったもの",
 		"type": "Original",
 		"bandtype": 0,
@@ -1521,7 +1521,7 @@
 	},
 	{
 		"id": 153,
-		"default": 41,
+		"default": 42,
 		"name": "夢見るSunflower",
 		"type": "Original",
 		"bandtype": 0,
@@ -1531,7 +1531,7 @@
 	},
 	{
 		"id": 154,
-		"default": 42,
+		"default": 43,
 		"name": "夢見るSunflower",
 		"type": "Original",
 		"bandtype": 0,
@@ -1541,7 +1541,7 @@
 	},
 	{
 		"id": 155,
-		"default": 43,
+		"default": 44,
 		"name": "夢見るSunflower",
 		"type": "Original",
 		"bandtype": 0,
@@ -1551,7 +1551,7 @@
 	},
 	{
 		"id": 156,
-		"default": 44,
+		"default": 45,
 		"name": "夢見るSunflower",
 		"type": "Original",
 		"bandtype": 0,
@@ -1561,7 +1561,7 @@
 	},
 	{
 		"id": 157,
-		"default": 307,
+		"default": 308,
 		"name": "Little Busters！",
 		"type": "Cover",
 		"bandtype": 0,
@@ -1571,7 +1571,7 @@
 	},
 	{
 		"id": 158,
-		"default": 308,
+		"default": 309,
 		"name": "Little Busters！",
 		"type": "Cover",
 		"bandtype": 0,
@@ -1581,7 +1581,7 @@
 	},
 	{
 		"id": 159,
-		"default": 309,
+		"default": 310,
 		"name": "Little Busters！",
 		"type": "Cover",
 		"bandtype": 0,
@@ -1591,7 +1591,7 @@
 	},
 	{
 		"id": 160,
-		"default": 310,
+		"default": 311,
 		"name": "Little Busters！",
 		"type": "Cover",
 		"bandtype": 0,
@@ -1601,7 +1601,7 @@
 	},
 	{
 		"id": 161,
-		"default": 311,
+		"default": 312,
 		"name": "正解はひとつ！じゃない！！",
 		"type": "Cover",
 		"bandtype": 5,
@@ -1611,7 +1611,7 @@
 	},
 	{
 		"id": 162,
-		"default": 312,
+		"default": 313,
 		"name": "正解はひとつ！じゃない！！",
 		"type": "Cover",
 		"bandtype": 5,
@@ -1621,7 +1621,7 @@
 	},
 	{
 		"id": 163,
-		"default": 313,
+		"default": 314,
 		"name": "正解はひとつ！じゃない！！",
 		"type": "Cover",
 		"bandtype": 5,
@@ -1631,7 +1631,7 @@
 	},
 	{
 		"id": 164,
-		"default": 314,
+		"default": 315,
 		"name": "正解はひとつ！じゃない！！",
 		"type": "Cover",
 		"bandtype": 5,
@@ -1641,7 +1641,7 @@
 	},
 	{
 		"id": 165,
-		"default": 315,
+		"default": 316,
 		"name": "天体観測",
 		"type": "Cover",
 		"bandtype": 5,
@@ -1651,7 +1651,7 @@
 	},
 	{
 		"id": 166,
-		"default": 316,
+		"default": 317,
 		"name": "天体観測",
 		"type": "Cover",
 		"bandtype": 5,
@@ -1661,7 +1661,7 @@
 	},
 	{
 		"id": 167,
-		"default": 317,
+		"default": 318,
 		"name": "天体観測",
 		"type": "Cover",
 		"bandtype": 5,
@@ -1671,7 +1671,7 @@
 	},
 	{
 		"id": 168,
-		"default": 318,
+		"default": 319,
 		"name": "天体観測",
 		"type": "Cover",
 		"bandtype": 5,
@@ -1681,7 +1681,7 @@
 	},
 	{
 		"id": 169,
-		"default": 129,
+		"default": 130,
 		"name": "Scarlet Sky",
 		"type": "Original",
 		"bandtype": 1,
@@ -1691,7 +1691,7 @@
 	},
 	{
 		"id": 170,
-		"default": 130,
+		"default": 131,
 		"name": "Scarlet Sky",
 		"type": "Original",
 		"bandtype": 1,
@@ -1701,7 +1701,7 @@
 	},
 	{
 		"id": 171,
-		"default": 131,
+		"default": 132,
 		"name": "Scarlet Sky",
 		"type": "Original",
 		"bandtype": 1,
@@ -1711,7 +1711,7 @@
 	},
 	{
 		"id": 172,
-		"default": 132,
+		"default": 133,
 		"name": "Scarlet Sky",
 		"type": "Original",
 		"bandtype": 1,
@@ -1721,7 +1721,7 @@
 	},
 	{
 		"id": 173,
-		"default": 417,
+		"default": 422,
 		"name": "MOON PRIDE",
 		"type": "Cover",
 		"bandtype": 2,
@@ -1731,7 +1731,7 @@
 	},
 	{
 		"id": 174,
-		"default": 418,
+		"default": 423,
 		"name": "MOON PRIDE",
 		"type": "Cover",
 		"bandtype": 2,
@@ -1741,7 +1741,7 @@
 	},
 	{
 		"id": 175,
-		"default": 419,
+		"default": 424,
 		"name": "MOON PRIDE",
 		"type": "Cover",
 		"bandtype": 2,
@@ -1751,7 +1751,7 @@
 	},
 	{
 		"id": 176,
-		"default": 420,
+		"default": 425,
 		"name": "MOON PRIDE",
 		"type": "Cover",
 		"bandtype": 2,
@@ -1761,7 +1761,7 @@
 	},
 	{
 		"id": 177,
-		"default": 161,
+		"default": 162,
 		"name": "はなまる◎アンダンテ",
 		"type": "Original",
 		"bandtype": 2,
@@ -1771,7 +1771,7 @@
 	},
 	{
 		"id": 178,
-		"default": 162,
+		"default": 163,
 		"name": "はなまる◎アンダンテ",
 		"type": "Original",
 		"bandtype": 2,
@@ -1781,7 +1781,7 @@
 	},
 	{
 		"id": 179,
-		"default": 163,
+		"default": 164,
 		"name": "はなまる◎アンダンテ",
 		"type": "Original",
 		"bandtype": 2,
@@ -1791,7 +1791,7 @@
 	},
 	{
 		"id": 180,
-		"default": 164,
+		"default": 165,
 		"name": "はなまる◎アンダンテ",
 		"type": "Original",
 		"bandtype": 2,
@@ -1801,7 +1801,7 @@
 	},
 	{
 		"id": 181,
-		"default": 101,
+		"default": 102,
 		"name": "どきどきSING OUT！",
 		"type": "Original",
 		"bandtype": 5,
@@ -1811,7 +1811,7 @@
 	},
 	{
 		"id": 182,
-		"default": 102,
+		"default": 103,
 		"name": "どきどきSING OUT！",
 		"type": "Original",
 		"bandtype": 5,
@@ -1821,7 +1821,7 @@
 	},
 	{
 		"id": 183,
-		"default": 103,
+		"default": 104,
 		"name": "どきどきSING OUT！",
 		"type": "Original",
 		"bandtype": 5,
@@ -1831,7 +1831,7 @@
 	},
 	{
 		"id": 184,
-		"default": 104,
+		"default": 105,
 		"name": "どきどきSING OUT！",
 		"type": "Original",
 		"bandtype": 5,
@@ -1841,7 +1841,7 @@
 	},
 	{
 		"id": 185,
-		"default": 525,
+		"default": 531,
 		"name": "ハッピーサマーウェディング",
 		"type": "Cover",
 		"bandtype": 4,
@@ -1851,7 +1851,7 @@
 	},
 	{
 		"id": 186,
-		"default": 526,
+		"default": 532,
 		"name": "ハッピーサマーウェディング",
 		"type": "Cover",
 		"bandtype": 4,
@@ -1861,7 +1861,7 @@
 	},
 	{
 		"id": 187,
-		"default": 527,
+		"default": 533,
 		"name": "ハッピーサマーウェディング",
 		"type": "Cover",
 		"bandtype": 4,
@@ -1871,7 +1871,7 @@
 	},
 	{
 		"id": 188,
-		"default": 528,
+		"default": 534,
 		"name": "ハッピーサマーウェディング",
 		"type": "Cover",
 		"bandtype": 4,
@@ -1881,7 +1881,7 @@
 	},
 	{
 		"id": 189,
-		"default": 202,
+		"default": 203,
 		"name": "陽だまりロードナイト",
 		"type": "Original",
 		"bandtype": 3,
@@ -1891,7 +1891,7 @@
 	},
 	{
 		"id": 190,
-		"default": 203,
+		"default": 204,
 		"name": "陽だまりロードナイト",
 		"type": "Original",
 		"bandtype": 3,
@@ -1901,7 +1901,7 @@
 	},
 	{
 		"id": 191,
-		"default": 204,
+		"default": 205,
 		"name": "陽だまりロードナイト",
 		"type": "Original",
 		"bandtype": 3,
@@ -1911,7 +1911,7 @@
 	},
 	{
 		"id": 192,
-		"default": 205,
+		"default": 206,
 		"name": "陽だまりロードナイト",
 		"type": "Original",
 		"bandtype": 3,
@@ -1921,7 +1921,7 @@
 	},
 	{
 		"id": 193,
-		"default": 469,
+		"default": 475,
 		"name": "紅蓮の弓矢",
 		"type": "Cover",
 		"bandtype": 3,
@@ -1931,7 +1931,7 @@
 	},
 	{
 		"id": 194,
-		"default": 470,
+		"default": 476,
 		"name": "紅蓮の弓矢",
 		"type": "Cover",
 		"bandtype": 3,
@@ -1941,7 +1941,7 @@
 	},
 	{
 		"id": 195,
-		"default": 471,
+		"default": 477,
 		"name": "紅蓮の弓矢",
 		"type": "Cover",
 		"bandtype": 3,
@@ -1951,7 +1951,7 @@
 	},
 	{
 		"id": 196,
-		"default": 472,
+		"default": 478,
 		"name": "紅蓮の弓矢",
 		"type": "Cover",
 		"bandtype": 3,
@@ -1961,7 +1961,7 @@
 	},
 	{
 		"id": 197,
-		"default": 319,
+		"default": 320,
 		"name": "God knows…",
 		"type": "Cover",
 		"bandtype": 0,
@@ -1971,7 +1971,7 @@
 	},
 	{
 		"id": 198,
-		"default": 320,
+		"default": 321,
 		"name": "God knows…",
 		"type": "Cover",
 		"bandtype": 0,
@@ -1981,7 +1981,7 @@
 	},
 	{
 		"id": 199,
-		"default": 321,
+		"default": 322,
 		"name": "God knows…",
 		"type": "Cover",
 		"bandtype": 0,
@@ -1991,7 +1991,7 @@
 	},
 	{
 		"id": 200,
-		"default": 322,
+		"default": 323,
 		"name": "God knows…",
 		"type": "Cover",
 		"bandtype": 0,
@@ -2001,7 +2001,7 @@
 	},
 	{
 		"id": 201,
-		"default": 105,
+		"default": 106,
 		"name": "花園電気ギター！！！",
 		"type": "Original",
 		"bandtype": 5,
@@ -2011,7 +2011,7 @@
 	},
 	{
 		"id": 202,
-		"default": 106,
+		"default": 107,
 		"name": "花園電気ギター！！！",
 		"type": "Original",
 		"bandtype": 5,
@@ -2021,7 +2021,7 @@
 	},
 	{
 		"id": 203,
-		"default": 107,
+		"default": 108,
 		"name": "花園電気ギター！！！",
 		"type": "Original",
 		"bandtype": 5,
@@ -2031,7 +2031,7 @@
 	},
 	{
 		"id": 204,
-		"default": 108,
+		"default": 109,
 		"name": "花園電気ギター！！！",
 		"type": "Original",
 		"bandtype": 5,
@@ -2041,7 +2041,7 @@
 	},
 	{
 		"id": 205,
-		"default": 165,
+		"default": 166,
 		"name": "ゆら・ゆらRing-Dong-Dance",
 		"type": "Original",
 		"bandtype": 2,
@@ -2051,7 +2051,7 @@
 	},
 	{
 		"id": 206,
-		"default": 166,
+		"default": 167,
 		"name": "ゆら・ゆらRing-Dong-Dance",
 		"type": "Original",
 		"bandtype": 2,
@@ -2061,7 +2061,7 @@
 	},
 	{
 		"id": 207,
-		"default": 167,
+		"default": 168,
 		"name": "ゆら・ゆらRing-Dong-Dance",
 		"type": "Original",
 		"bandtype": 2,
@@ -2071,7 +2071,7 @@
 	},
 	{
 		"id": 208,
-		"default": 168,
+		"default": 169,
 		"name": "ゆら・ゆらRing-Dong-Dance",
 		"type": "Original",
 		"bandtype": 2,
@@ -2081,7 +2081,7 @@
 	},
 	{
 		"id": 209,
-		"default": 372,
+		"default": 377,
 		"name": "great escape",
 		"type": "Cover",
 		"bandtype": 1,
@@ -2091,7 +2091,7 @@
 	},
 	{
 		"id": 210,
-		"default": 373,
+		"default": 378,
 		"name": "great escape",
 		"type": "Cover",
 		"bandtype": 1,
@@ -2101,7 +2101,7 @@
 	},
 	{
 		"id": 211,
-		"default": 374,
+		"default": 379,
 		"name": "great escape",
 		"type": "Cover",
 		"bandtype": 1,
@@ -2111,7 +2111,7 @@
 	},
 	{
 		"id": 212,
-		"default": 375,
+		"default": 380,
 		"name": "great escape",
 		"type": "Cover",
 		"bandtype": 1,
@@ -2121,7 +2121,7 @@
 	},
 	{
 		"id": 213,
-		"default": 109,
+		"default": 110,
 		"name": "チョコレイトの低音レシピ",
 		"type": "Original",
 		"bandtype": 5,
@@ -2131,7 +2131,7 @@
 	},
 	{
 		"id": 214,
-		"default": 110,
+		"default": 111,
 		"name": "チョコレイトの低音レシピ",
 		"type": "Original",
 		"bandtype": 5,
@@ -2141,7 +2141,7 @@
 	},
 	{
 		"id": 215,
-		"default": 111,
+		"default": 112,
 		"name": "チョコレイトの低音レシピ",
 		"type": "Original",
 		"bandtype": 5,
@@ -2151,7 +2151,7 @@
 	},
 	{
 		"id": 216,
-		"default": 112,
+		"default": 113,
 		"name": "チョコレイトの低音レシピ",
 		"type": "Original",
 		"bandtype": 5,
@@ -2161,7 +2161,7 @@
 	},
 	{
 		"id": 217,
-		"default": 421,
+		"default": 426,
 		"name": "ふわふわ時間",
 		"type": "Cover",
 		"bandtype": 2,
@@ -2171,7 +2171,7 @@
 	},
 	{
 		"id": 218,
-		"default": 422,
+		"default": 427,
 		"name": "ふわふわ時間",
 		"type": "Cover",
 		"bandtype": 2,
@@ -2181,7 +2181,7 @@
 	},
 	{
 		"id": 219,
-		"default": 423,
+		"default": 428,
 		"name": "ふわふわ時間",
 		"type": "Cover",
 		"bandtype": 2,
@@ -2191,7 +2191,7 @@
 	},
 	{
 		"id": 220,
-		"default": 424,
+		"default": 429,
 		"name": "ふわふわ時間",
 		"type": "Cover",
 		"bandtype": 2,
@@ -2201,7 +2201,7 @@
 	},
 	{
 		"id": 221,
-		"default": 97,
+		"default": 98,
 		"name": "夏のドーン！",
 		"type": "Original",
 		"bandtype": 0,
@@ -2211,7 +2211,7 @@
 	},
 	{
 		"id": 222,
-		"default": 98,
+		"default": 99,
 		"name": "夏のドーン！",
 		"type": "Original",
 		"bandtype": 0,
@@ -2221,7 +2221,7 @@
 	},
 	{
 		"id": 223,
-		"default": 99,
+		"default": 100,
 		"name": "夏のドーン！",
 		"type": "Original",
 		"bandtype": 0,
@@ -2231,7 +2231,7 @@
 	},
 	{
 		"id": 224,
-		"default": 100,
+		"default": 101,
 		"name": "夏のドーン！",
 		"type": "Original",
 		"bandtype": 0,
@@ -2241,7 +2241,7 @@
 	},
 	{
 		"id": 225,
-		"default": 529,
+		"default": 535,
 		"name": "ひまわりの約束",
 		"type": "Cover",
 		"bandtype": 4,
@@ -2251,7 +2251,7 @@
 	},
 	{
 		"id": 226,
-		"default": 530,
+		"default": 536,
 		"name": "ひまわりの約束",
 		"type": "Cover",
 		"bandtype": 4,
@@ -2261,7 +2261,7 @@
 	},
 	{
 		"id": 227,
-		"default": 531,
+		"default": 537,
 		"name": "ひまわりの約束",
 		"type": "Cover",
 		"bandtype": 4,
@@ -2271,7 +2271,7 @@
 	},
 	{
 		"id": 228,
-		"default": 532,
+		"default": 538,
 		"name": "ひまわりの約束",
 		"type": "Cover",
 		"bandtype": 4,
@@ -2281,7 +2281,7 @@
 	},
 	{
 		"id": 229,
-		"default": 473,
+		"default": 479,
 		"name": "The Everlasting Guilty Crown",
 		"type": "Cover",
 		"bandtype": 3,
@@ -2291,7 +2291,7 @@
 	},
 	{
 		"id": 230,
-		"default": 474,
+		"default": 480,
 		"name": "The Everlasting Guilty Crown",
 		"type": "Cover",
 		"bandtype": 3,
@@ -2301,7 +2301,7 @@
 	},
 	{
 		"id": 231,
-		"default": 475,
+		"default": 481,
 		"name": "The Everlasting Guilty Crown",
 		"type": "Cover",
 		"bandtype": 3,
@@ -2311,7 +2311,7 @@
 	},
 	{
 		"id": 232,
-		"default": 476,
+		"default": 482,
 		"name": "The Everlasting Guilty Crown",
 		"type": "Cover",
 		"bandtype": 3,
@@ -2321,7 +2321,7 @@
 	},
 	{
 		"id": 233,
-		"default": 49,
+		"default": 50,
 		"name": "八月のif",
 		"type": "Original",
 		"bandtype": 0,
@@ -2331,7 +2331,7 @@
 	},
 	{
 		"id": 234,
-		"default": 50,
+		"default": 51,
 		"name": "八月のif",
 		"type": "Original",
 		"bandtype": 0,
@@ -2341,7 +2341,7 @@
 	},
 	{
 		"id": 235,
-		"default": 51,
+		"default": 52,
 		"name": "八月のif",
 		"type": "Original",
 		"bandtype": 0,
@@ -2351,7 +2351,7 @@
 	},
 	{
 		"id": 236,
-		"default": 52,
+		"default": 53,
 		"name": "八月のif",
 		"type": "Original",
 		"bandtype": 0,
@@ -2361,7 +2361,7 @@
 	},
 	{
 		"id": 237,
-		"default": 133,
+		"default": 134,
 		"name": "Hey-day狂騒曲(カプリチオ)",
 		"type": "Original",
 		"bandtype": 1,
@@ -2371,7 +2371,7 @@
 	},
 	{
 		"id": 238,
-		"default": 134,
+		"default": 135,
 		"name": "Hey-day狂騒曲(カプリチオ)",
 		"type": "Original",
 		"bandtype": 1,
@@ -2381,7 +2381,7 @@
 	},
 	{
 		"id": 239,
-		"default": 135,
+		"default": 136,
 		"name": "Hey-day狂騒曲(カプリチオ)",
 		"type": "Original",
 		"bandtype": 1,
@@ -2391,7 +2391,7 @@
 	},
 	{
 		"id": 240,
-		"default": 136,
+		"default": 137,
 		"name": "Hey-day狂騒曲(カプリチオ)",
 		"type": "Original",
 		"bandtype": 1,
@@ -2401,7 +2401,7 @@
 	},
 	{
 		"id": 241,
-		"default": 206,
+		"default": 207,
 		"name": "熱色スターマイン",
 		"type": "Original",
 		"bandtype": 3,
@@ -2411,7 +2411,7 @@
 	},
 	{
 		"id": 242,
-		"default": 207,
+		"default": 208,
 		"name": "熱色スターマイン",
 		"type": "Original",
 		"bandtype": 3,
@@ -2421,7 +2421,7 @@
 	},
 	{
 		"id": 243,
-		"default": 208,
+		"default": 209,
 		"name": "熱色スターマイン",
 		"type": "Original",
 		"bandtype": 3,
@@ -2431,7 +2431,7 @@
 	},
 	{
 		"id": 244,
-		"default": 209,
+		"default": 210,
 		"name": "熱色スターマイン",
 		"type": "Original",
 		"bandtype": 3,
@@ -2441,7 +2441,7 @@
 	},
 	{
 		"id": 245,
-		"default": 323,
+		"default": 324,
 		"name": "only my railgun",
 		"type": "Cover",
 		"bandtype": 0,
@@ -2451,7 +2451,7 @@
 	},
 	{
 		"id": 246,
-		"default": 324,
+		"default": 325,
 		"name": "only my railgun",
 		"type": "Cover",
 		"bandtype": 0,
@@ -2461,7 +2461,7 @@
 	},
 	{
 		"id": 247,
-		"default": 325,
+		"default": 326,
 		"name": "only my railgun",
 		"type": "Cover",
 		"bandtype": 0,
@@ -2471,7 +2471,7 @@
 	},
 	{
 		"id": 248,
-		"default": 326,
+		"default": 327,
 		"name": "only my railgun",
 		"type": "Cover",
 		"bandtype": 0,
@@ -2481,7 +2481,7 @@
 	},
 	{
 		"id": 249,
-		"default": 376,
+		"default": 381,
 		"name": "アスノヨゾラ哨戒班",
 		"type": "Cover",
 		"bandtype": 1,
@@ -2491,7 +2491,7 @@
 	},
 	{
 		"id": 250,
-		"default": 377,
+		"default": 382,
 		"name": "アスノヨゾラ哨戒班",
 		"type": "Cover",
 		"bandtype": 1,
@@ -2501,7 +2501,7 @@
 	},
 	{
 		"id": 251,
-		"default": 378,
+		"default": 383,
 		"name": "アスノヨゾラ哨戒班",
 		"type": "Cover",
 		"bandtype": 1,
@@ -2511,7 +2511,7 @@
 	},
 	{
 		"id": 252,
-		"default": 379,
+		"default": 384,
 		"name": "アスノヨゾラ哨戒班",
 		"type": "Cover",
 		"bandtype": 1,
@@ -2521,7 +2521,7 @@
 	},
 	{
 		"id": 253,
-		"default": 53,
+		"default": 54,
 		"name": "Time Lapse",
 		"type": "Original",
 		"bandtype": 0,
@@ -2531,7 +2531,7 @@
 	},
 	{
 		"id": 254,
-		"default": 54,
+		"default": 55,
 		"name": "Time Lapse",
 		"type": "Original",
 		"bandtype": 0,
@@ -2541,7 +2541,7 @@
 	},
 	{
 		"id": 255,
-		"default": 55,
+		"default": 56,
 		"name": "Time Lapse",
 		"type": "Original",
 		"bandtype": 0,
@@ -2551,7 +2551,7 @@
 	},
 	{
 		"id": 256,
-		"default": 56,
+		"default": 57,
 		"name": "Time Lapse",
 		"type": "Original",
 		"bandtype": 0,
@@ -2561,7 +2561,7 @@
 	},
 	{
 		"id": 257,
-		"default": 259,
+		"default": 260,
 		"name": "せかいのっびのびトレジャー！",
 		"type": "Original",
 		"bandtype": 4,
@@ -2571,7 +2571,7 @@
 	},
 	{
 		"id": 258,
-		"default": 260,
+		"default": 261,
 		"name": "せかいのっびのびトレジャー！",
 		"type": "Original",
 		"bandtype": 4,
@@ -2581,7 +2581,7 @@
 	},
 	{
 		"id": 259,
-		"default": 261,
+		"default": 262,
 		"name": "せかいのっびのびトレジャー！",
 		"type": "Original",
 		"bandtype": 4,
@@ -2591,7 +2591,7 @@
 	},
 	{
 		"id": 260,
-		"default": 262,
+		"default": 263,
 		"name": "せかいのっびのびトレジャー！",
 		"type": "Original",
 		"bandtype": 4,
@@ -2601,7 +2601,7 @@
 	},
 	{
 		"id": 261,
-		"default": 169,
+		"default": 170,
 		"name": "SURVIVOR ねばーぎぶあっぷ！",
 		"type": "Original",
 		"bandtype": 2,
@@ -2611,7 +2611,7 @@
 	},
 	{
 		"id": 262,
-		"default": 170,
+		"default": 171,
 		"name": "SURVIVOR ねばーぎぶあっぷ！",
 		"type": "Original",
 		"bandtype": 2,
@@ -2621,7 +2621,7 @@
 	},
 	{
 		"id": 263,
-		"default": 171,
+		"default": 172,
 		"name": "SURVIVOR ねばーぎぶあっぷ！",
 		"type": "Original",
 		"bandtype": 2,
@@ -2631,7 +2631,7 @@
 	},
 	{
 		"id": 264,
-		"default": 172,
+		"default": 173,
 		"name": "SURVIVOR ねばーぎぶあっぷ！",
 		"type": "Original",
 		"bandtype": 2,
@@ -2641,7 +2641,7 @@
 	},
 	{
 		"id": 265,
-		"default": 263,
+		"default": 264,
 		"name": "YAPPY！SCHOOL CARNIVAL☆彡",
 		"type": "Original",
 		"bandtype": 4,
@@ -2651,7 +2651,7 @@
 	},
 	{
 		"id": 266,
-		"default": 264,
+		"default": 265,
 		"name": "YAPPY！SCHOOL CARNIVAL☆彡",
 		"type": "Original",
 		"bandtype": 4,
@@ -2661,7 +2661,7 @@
 	},
 	{
 		"id": 267,
-		"default": 265,
+		"default": 266,
 		"name": "YAPPY！SCHOOL CARNIVAL☆彡",
 		"type": "Original",
 		"bandtype": 4,
@@ -2671,7 +2671,7 @@
 	},
 	{
 		"id": 268,
-		"default": 266,
+		"default": 267,
 		"name": "YAPPY！SCHOOL CARNIVAL☆彡",
 		"type": "Original",
 		"bandtype": 4,
@@ -2681,7 +2681,7 @@
 	},
 	{
 		"id": 269,
-		"default": 477,
+		"default": 483,
 		"name": "Red fraction",
 		"type": "Cover",
 		"bandtype": 3,
@@ -2691,7 +2691,7 @@
 	},
 	{
 		"id": 270,
-		"default": 478,
+		"default": 484,
 		"name": "Red fraction",
 		"type": "Cover",
 		"bandtype": 3,
@@ -2701,7 +2701,7 @@
 	},
 	{
 		"id": 271,
-		"default": 479,
+		"default": 485,
 		"name": "Red fraction",
 		"type": "Cover",
 		"bandtype": 3,
@@ -2711,7 +2711,7 @@
 	},
 	{
 		"id": 272,
-		"default": 480,
+		"default": 486,
 		"name": "Red fraction",
 		"type": "Cover",
 		"bandtype": 3,
@@ -2721,7 +2721,7 @@
 	},
 	{
 		"id": 273,
-		"default": 425,
+		"default": 430,
 		"name": "はなまるぴっぴはよいこだけ",
 		"type": "Cover",
 		"bandtype": 2,
@@ -2731,7 +2731,7 @@
 	},
 	{
 		"id": 274,
-		"default": 426,
+		"default": 431,
 		"name": "はなまるぴっぴはよいこだけ",
 		"type": "Cover",
 		"bandtype": 2,
@@ -2741,7 +2741,7 @@
 	},
 	{
 		"id": 275,
-		"default": 427,
+		"default": 432,
 		"name": "はなまるぴっぴはよいこだけ",
 		"type": "Cover",
 		"bandtype": 2,
@@ -2751,7 +2751,7 @@
 	},
 	{
 		"id": 276,
-		"default": 428,
+		"default": 433,
 		"name": "はなまるぴっぴはよいこだけ",
 		"type": "Cover",
 		"bandtype": 2,
@@ -2761,7 +2761,7 @@
 	},
 	{
 		"id": 277,
-		"default": 113,
+		"default": 114,
 		"name": "遠い音楽 ～ハートビート～",
 		"type": "Original",
 		"bandtype": 5,
@@ -2771,7 +2771,7 @@
 	},
 	{
 		"id": 278,
-		"default": 114,
+		"default": 115,
 		"name": "遠い音楽 ～ハートビート～",
 		"type": "Original",
 		"bandtype": 5,
@@ -2781,7 +2781,7 @@
 	},
 	{
 		"id": 279,
-		"default": 115,
+		"default": 116,
 		"name": "遠い音楽 ～ハートビート～",
 		"type": "Original",
 		"bandtype": 5,
@@ -2791,7 +2791,7 @@
 	},
 	{
 		"id": 280,
-		"default": 116,
+		"default": 117,
 		"name": "遠い音楽 ～ハートビート～",
 		"type": "Original",
 		"bandtype": 5,
@@ -2801,7 +2801,7 @@
 	},
 	{
 		"id": 281,
-		"default": 210,
+		"default": 211,
 		"name": "-HEROIC ADVENT-",
 		"type": "Original",
 		"bandtype": 3,
@@ -2811,7 +2811,7 @@
 	},
 	{
 		"id": 282,
-		"default": 211,
+		"default": 212,
 		"name": "-HEROIC ADVENT-",
 		"type": "Original",
 		"bandtype": 3,
@@ -2821,7 +2821,7 @@
 	},
 	{
 		"id": 283,
-		"default": 212,
+		"default": 213,
 		"name": "-HEROIC ADVENT-",
 		"type": "Original",
 		"bandtype": 3,
@@ -2831,7 +2831,7 @@
 	},
 	{
 		"id": 284,
-		"default": 213,
+		"default": 214,
 		"name": "-HEROIC ADVENT-",
 		"type": "Original",
 		"bandtype": 3,
@@ -2841,7 +2841,7 @@
 	},
 	{
 		"id": 285,
-		"default": 214,
+		"default": 215,
 		"name": "Determination Symphony",
 		"type": "Original",
 		"bandtype": 3,
@@ -2851,7 +2851,7 @@
 	},
 	{
 		"id": 286,
-		"default": 215,
+		"default": 216,
 		"name": "Determination Symphony",
 		"type": "Original",
 		"bandtype": 3,
@@ -2861,7 +2861,7 @@
 	},
 	{
 		"id": 287,
-		"default": 216,
+		"default": 217,
 		"name": "Determination Symphony",
 		"type": "Original",
 		"bandtype": 3,
@@ -2871,7 +2871,7 @@
 	},
 	{
 		"id": 288,
-		"default": 217,
+		"default": 218,
 		"name": "Determination Symphony",
 		"type": "Original",
 		"bandtype": 3,
@@ -2881,7 +2881,7 @@
 	},
 	{
 		"id": 289,
-		"default": 533,
+		"default": 539,
 		"name": "ロメオ",
 		"type": "Cover",
 		"bandtype": 4,
@@ -2891,7 +2891,7 @@
 	},
 	{
 		"id": 290,
-		"default": 534,
+		"default": 540,
 		"name": "ロメオ",
 		"type": "Cover",
 		"bandtype": 4,
@@ -2901,7 +2901,7 @@
 	},
 	{
 		"id": 291,
-		"default": 535,
+		"default": 541,
 		"name": "ロメオ",
 		"type": "Cover",
 		"bandtype": 4,
@@ -2911,7 +2911,7 @@
 	},
 	{
 		"id": 292,
-		"default": 536,
+		"default": 542,
 		"name": "ロメオ",
 		"type": "Cover",
 		"bandtype": 4,
@@ -2921,7 +2921,7 @@
 	},
 	{
 		"id": 293,
-		"default": 380,
+		"default": 385,
 		"name": "READY STEADY GO",
 		"type": "Cover",
 		"bandtype": 1,
@@ -2931,7 +2931,7 @@
 	},
 	{
 		"id": 294,
-		"default": 381,
+		"default": 386,
 		"name": "READY STEADY GO",
 		"type": "Cover",
 		"bandtype": 1,
@@ -2941,7 +2941,7 @@
 	},
 	{
 		"id": 295,
-		"default": 382,
+		"default": 387,
 		"name": "READY STEADY GO",
 		"type": "Cover",
 		"bandtype": 1,
@@ -2951,7 +2951,7 @@
 	},
 	{
 		"id": 296,
-		"default": 383,
+		"default": 388,
 		"name": "READY STEADY GO",
 		"type": "Cover",
 		"bandtype": 1,
@@ -2961,7 +2961,7 @@
 	},
 	{
 		"id": 297,
-		"default": 429,
+		"default": 434,
 		"name": "世界は恋に落ちている",
 		"type": "Cover",
 		"bandtype": 2,
@@ -2971,7 +2971,7 @@
 	},
 	{
 		"id": 298,
-		"default": 430,
+		"default": 435,
 		"name": "世界は恋に落ちている",
 		"type": "Cover",
 		"bandtype": 2,
@@ -2981,7 +2981,7 @@
 	},
 	{
 		"id": 299,
-		"default": 431,
+		"default": 436,
 		"name": "世界は恋に落ちている",
 		"type": "Cover",
 		"bandtype": 2,
@@ -2991,7 +2991,7 @@
 	},
 	{
 		"id": 300,
-		"default": 432,
+		"default": 437,
 		"name": "世界は恋に落ちている",
 		"type": "Cover",
 		"bandtype": 2,
@@ -3001,7 +3001,7 @@
 	},
 	{
 		"id": 301,
-		"default": 117,
+		"default": 118,
 		"name": "す、好きなんかじゃない！",
 		"type": "Original",
 		"bandtype": 5,
@@ -3011,7 +3011,7 @@
 	},
 	{
 		"id": 302,
-		"default": 118,
+		"default": 119,
 		"name": "す、好きなんかじゃない！",
 		"type": "Original",
 		"bandtype": 5,
@@ -3021,7 +3021,7 @@
 	},
 	{
 		"id": 303,
-		"default": 119,
+		"default": 120,
 		"name": "す、好きなんかじゃない！",
 		"type": "Original",
 		"bandtype": 5,
@@ -3031,7 +3031,7 @@
 	},
 	{
 		"id": 304,
-		"default": 120,
+		"default": 121,
 		"name": "す、好きなんかじゃない！",
 		"type": "Original",
 		"bandtype": 5,
@@ -3041,7 +3041,7 @@
 	},
 	{
 		"id": 305,
-		"default": 327,
+		"default": 328,
 		"name": "千本桜",
 		"type": "Cover",
 		"bandtype": 0,
@@ -3051,7 +3051,7 @@
 	},
 	{
 		"id": 306,
-		"default": 328,
+		"default": 329,
 		"name": "千本桜",
 		"type": "Cover",
 		"bandtype": 0,
@@ -3061,7 +3061,7 @@
 	},
 	{
 		"id": 307,
-		"default": 329,
+		"default": 330,
 		"name": "千本桜",
 		"type": "Cover",
 		"bandtype": 0,
@@ -3071,7 +3071,7 @@
 	},
 	{
 		"id": 308,
-		"default": 330,
+		"default": 331,
 		"name": "千本桜",
 		"type": "Cover",
 		"bandtype": 0,
@@ -3081,7 +3081,7 @@
 	},
 	{
 		"id": 309,
-		"default": 537,
+		"default": 543,
 		"name": "恋は渾沌の隷也",
 		"type": "Cover",
 		"bandtype": 4,
@@ -3091,7 +3091,7 @@
 	},
 	{
 		"id": 310,
-		"default": 538,
+		"default": 544,
 		"name": "恋は渾沌の隷也",
 		"type": "Cover",
 		"bandtype": 4,
@@ -3101,7 +3101,7 @@
 	},
 	{
 		"id": 311,
-		"default": 539,
+		"default": 545,
 		"name": "恋は渾沌の隷也",
 		"type": "Cover",
 		"bandtype": 4,
@@ -3111,7 +3111,7 @@
 	},
 	{
 		"id": 312,
-		"default": 540,
+		"default": 546,
 		"name": "恋は渾沌の隷也",
 		"type": "Cover",
 		"bandtype": 4,
@@ -3121,7 +3121,7 @@
 	},
 	{
 		"id": 313,
-		"default": 57,
+		"default": 58,
 		"name": "クリスマスのうた",
 		"type": "Original",
 		"bandtype": 0,
@@ -3131,7 +3131,7 @@
 	},
 	{
 		"id": 314,
-		"default": 58,
+		"default": 59,
 		"name": "クリスマスのうた",
 		"type": "Original",
 		"bandtype": 0,
@@ -3141,7 +3141,7 @@
 	},
 	{
 		"id": 315,
-		"default": 59,
+		"default": 60,
 		"name": "クリスマスのうた",
 		"type": "Original",
 		"bandtype": 0,
@@ -3151,7 +3151,7 @@
 	},
 	{
 		"id": 316,
-		"default": 60,
+		"default": 61,
 		"name": "クリスマスのうた",
 		"type": "Original",
 		"bandtype": 0,
@@ -3161,7 +3161,7 @@
 	},
 	{
 		"id": 317,
-		"default": 61,
+		"default": 62,
 		"name": "B.O.F",
 		"type": "Original",
 		"bandtype": 0,
@@ -3171,7 +3171,7 @@
 	},
 	{
 		"id": 318,
-		"default": 62,
+		"default": 63,
 		"name": "B.O.F",
 		"type": "Original",
 		"bandtype": 0,
@@ -3181,7 +3181,7 @@
 	},
 	{
 		"id": 319,
-		"default": 63,
+		"default": 64,
 		"name": "B.O.F",
 		"type": "Original",
 		"bandtype": 0,
@@ -3191,7 +3191,7 @@
 	},
 	{
 		"id": 320,
-		"default": 64,
+		"default": 65,
 		"name": "B.O.F",
 		"type": "Original",
 		"bandtype": 0,
@@ -3201,7 +3201,7 @@
 	},
 	{
 		"id": 321,
-		"default": 137,
+		"default": 138,
 		"name": "Y.O.L.O!!!!!",
 		"type": "Original",
 		"bandtype": 1,
@@ -3211,7 +3211,7 @@
 	},
 	{
 		"id": 322,
-		"default": 138,
+		"default": 139,
 		"name": "Y.O.L.O!!!!!",
 		"type": "Original",
 		"bandtype": 1,
@@ -3221,7 +3221,7 @@
 	},
 	{
 		"id": 323,
-		"default": 139,
+		"default": 140,
 		"name": "Y.O.L.O!!!!!",
 		"type": "Original",
 		"bandtype": 1,
@@ -3231,7 +3231,7 @@
 	},
 	{
 		"id": 324,
-		"default": 140,
+		"default": 141,
 		"name": "Y.O.L.O!!!!!",
 		"type": "Original",
 		"bandtype": 1,
@@ -3241,7 +3241,7 @@
 	},
 	{
 		"id": 325,
-		"default": 481,
+		"default": 487,
 		"name": "深愛",
 		"type": "Cover",
 		"bandtype": 3,
@@ -3251,7 +3251,7 @@
 	},
 	{
 		"id": 326,
-		"default": 482,
+		"default": 488,
 		"name": "深愛",
 		"type": "Cover",
 		"bandtype": 3,
@@ -3261,7 +3261,7 @@
 	},
 	{
 		"id": 327,
-		"default": 483,
+		"default": 489,
 		"name": "深愛",
 		"type": "Cover",
 		"bandtype": 3,
@@ -3271,7 +3271,7 @@
 	},
 	{
 		"id": 328,
-		"default": 484,
+		"default": 490,
 		"name": "深愛",
 		"type": "Cover",
 		"bandtype": 3,
@@ -3281,7 +3281,7 @@
 	},
 	{
 		"id": 329,
-		"default": 267,
+		"default": 268,
 		"name": "わちゃ・もちゃ・ぺったん行進曲",
 		"type": "Original",
 		"bandtype": 4,
@@ -3291,7 +3291,7 @@
 	},
 	{
 		"id": 330,
-		"default": 268,
+		"default": 269,
 		"name": "わちゃ・もちゃ・ぺったん行進曲",
 		"type": "Original",
 		"bandtype": 4,
@@ -3301,7 +3301,7 @@
 	},
 	{
 		"id": 331,
-		"default": 269,
+		"default": 270,
 		"name": "わちゃ・もちゃ・ぺったん行進曲",
 		"type": "Original",
 		"bandtype": 4,
@@ -3311,7 +3311,7 @@
 	},
 	{
 		"id": 332,
-		"default": 270,
+		"default": 271,
 		"name": "わちゃ・もちゃ・ぺったん行進曲",
 		"type": "Original",
 		"bandtype": 4,
@@ -3321,7 +3321,7 @@
 	},
 	{
 		"id": 333,
-		"default": 433,
+		"default": 438,
 		"name": "ハッピーシンセサイザ",
 		"type": "Cover",
 		"bandtype": 2,
@@ -3331,7 +3331,7 @@
 	},
 	{
 		"id": 334,
-		"default": 434,
+		"default": 439,
 		"name": "ハッピーシンセサイザ",
 		"type": "Cover",
 		"bandtype": 2,
@@ -3341,7 +3341,7 @@
 	},
 	{
 		"id": 335,
-		"default": 435,
+		"default": 440,
 		"name": "ハッピーシンセサイザ",
 		"type": "Cover",
 		"bandtype": 2,
@@ -3351,7 +3351,7 @@
 	},
 	{
 		"id": 336,
-		"default": 436,
+		"default": 441,
 		"name": "ハッピーシンセサイザ",
 		"type": "Cover",
 		"bandtype": 2,
@@ -3361,7 +3361,7 @@
 	},
 	{
 		"id": 337,
-		"default": 541,
+		"default": 547,
 		"name": "Dragon Night",
 		"type": "Cover",
 		"bandtype": 4,
@@ -3371,7 +3371,7 @@
 	},
 	{
 		"id": 338,
-		"default": 542,
+		"default": 548,
 		"name": "Dragon Night",
 		"type": "Cover",
 		"bandtype": 4,
@@ -3381,7 +3381,7 @@
 	},
 	{
 		"id": 339,
-		"default": 543,
+		"default": 549,
 		"name": "Dragon Night",
 		"type": "Cover",
 		"bandtype": 4,
@@ -3391,7 +3391,7 @@
 	},
 	{
 		"id": 340,
-		"default": 544,
+		"default": 550,
 		"name": "Dragon Night",
 		"type": "Cover",
 		"bandtype": 4,
@@ -3401,7 +3401,7 @@
 	},
 	{
 		"id": 341,
-		"default": 485,
+		"default": 491,
 		"name": "残酷な天使のテーゼ",
 		"type": "Cover",
 		"bandtype": 3,
@@ -3411,7 +3411,7 @@
 	},
 	{
 		"id": 342,
-		"default": 486,
+		"default": 492,
 		"name": "残酷な天使のテーゼ",
 		"type": "Cover",
 		"bandtype": 3,
@@ -3421,7 +3421,7 @@
 	},
 	{
 		"id": 343,
-		"default": 487,
+		"default": 493,
 		"name": "残酷な天使のテーゼ",
 		"type": "Cover",
 		"bandtype": 3,
@@ -3431,7 +3431,7 @@
 	},
 	{
 		"id": 344,
-		"default": 488,
+		"default": 494,
 		"name": "残酷な天使のテーゼ",
 		"type": "Cover",
 		"bandtype": 3,
@@ -3441,7 +3441,7 @@
 	},
 	{
 		"id": 345,
-		"default": 384,
+		"default": 389,
 		"name": "Redo",
 		"type": "Cover",
 		"bandtype": 1,
@@ -3451,7 +3451,7 @@
 	},
 	{
 		"id": 346,
-		"default": 385,
+		"default": 390,
 		"name": "Redo",
 		"type": "Cover",
 		"bandtype": 1,
@@ -3461,7 +3461,7 @@
 	},
 	{
 		"id": 347,
-		"default": 386,
+		"default": 391,
 		"name": "Redo",
 		"type": "Cover",
 		"bandtype": 1,
@@ -3471,7 +3471,7 @@
 	},
 	{
 		"id": 348,
-		"default": 387,
+		"default": 392,
 		"name": "Redo",
 		"type": "Cover",
 		"bandtype": 1,
@@ -3481,7 +3481,7 @@
 	},
 	{
 		"id": 349,
-		"default": 331,
+		"default": 332,
 		"name": "君じゃなきゃダメみたい",
 		"type": "Cover",
 		"bandtype": 0,
@@ -3491,7 +3491,7 @@
 	},
 	{
 		"id": 350,
-		"default": 332,
+		"default": 333,
 		"name": "君じゃなきゃダメみたい",
 		"type": "Cover",
 		"bandtype": 0,
@@ -3501,7 +3501,7 @@
 	},
 	{
 		"id": 351,
-		"default": 333,
+		"default": 334,
 		"name": "君じゃなきゃダメみたい",
 		"type": "Cover",
 		"bandtype": 0,
@@ -3511,7 +3511,7 @@
 	},
 	{
 		"id": 352,
-		"default": 334,
+		"default": 335,
 		"name": "君じゃなきゃダメみたい",
 		"type": "Cover",
 		"bandtype": 0,
@@ -3521,7 +3521,7 @@
 	},
 	{
 		"id": 353,
-		"default": 65,
+		"default": 66,
 		"name": "CiRCLING",
 		"type": "Original",
 		"bandtype": 0,
@@ -3531,7 +3531,7 @@
 	},
 	{
 		"id": 354,
-		"default": 66,
+		"default": 67,
 		"name": "CiRCLING",
 		"type": "Original",
 		"bandtype": 0,
@@ -3541,7 +3541,7 @@
 	},
 	{
 		"id": 355,
-		"default": 67,
+		"default": 68,
 		"name": "CiRCLING",
 		"type": "Original",
 		"bandtype": 0,
@@ -3551,7 +3551,7 @@
 	},
 	{
 		"id": 356,
-		"default": 68,
+		"default": 69,
 		"name": "CiRCLING",
 		"type": "Original",
 		"bandtype": 0,
@@ -3561,7 +3561,7 @@
 	},
 	{
 		"id": 357,
-		"default": 283,
+		"default": 284,
 		"name": "クインティプル☆すまいる",
 		"type": "Original",
 		"bandtype": 5,
@@ -3571,7 +3571,7 @@
 	},
 	{
 		"id": 358,
-		"default": 284,
+		"default": 285,
 		"name": "クインティプル☆すまいる",
 		"type": "Original",
 		"bandtype": 5,
@@ -3581,7 +3581,7 @@
 	},
 	{
 		"id": 359,
-		"default": 285,
+		"default": 286,
 		"name": "クインティプル☆すまいる",
 		"type": "Original",
 		"bandtype": 5,
@@ -3591,7 +3591,7 @@
 	},
 	{
 		"id": 360,
-		"default": 286,
+		"default": 287,
 		"name": "クインティプル☆すまいる",
 		"type": "Original",
 		"bandtype": 5,
@@ -3601,7 +3601,7 @@
 	},
 	{
 		"id": 361,
-		"default": 218,
+		"default": 219,
 		"name": "ONENESS",
 		"type": "Original",
 		"bandtype": 3,
@@ -3611,7 +3611,7 @@
 	},
 	{
 		"id": 362,
-		"default": 219,
+		"default": 220,
 		"name": "ONENESS",
 		"type": "Original",
 		"bandtype": 3,
@@ -3621,7 +3621,7 @@
 	},
 	{
 		"id": 363,
-		"default": 220,
+		"default": 221,
 		"name": "ONENESS",
 		"type": "Original",
 		"bandtype": 3,
@@ -3631,7 +3631,7 @@
 	},
 	{
 		"id": 364,
-		"default": 221,
+		"default": 222,
 		"name": "ONENESS",
 		"type": "Original",
 		"bandtype": 3,
@@ -3641,7 +3641,7 @@
 	},
 	{
 		"id": 365,
-		"default": 222,
+		"default": 223,
 		"name": "Opera of the wasteland",
 		"type": "Original",
 		"bandtype": 3,
@@ -3651,7 +3651,7 @@
 	},
 	{
 		"id": 366,
-		"default": 223,
+		"default": 224,
 		"name": "Opera of the wasteland",
 		"type": "Original",
 		"bandtype": 3,
@@ -3661,7 +3661,7 @@
 	},
 	{
 		"id": 367,
-		"default": 224,
+		"default": 225,
 		"name": "Opera of the wasteland",
 		"type": "Original",
 		"bandtype": 3,
@@ -3671,7 +3671,7 @@
 	},
 	{
 		"id": 368,
-		"default": 225,
+		"default": 226,
 		"name": "Opera of the wasteland",
 		"type": "Original",
 		"bandtype": 3,
@@ -3681,7 +3681,7 @@
 	},
 	{
 		"id": 369,
-		"default": 388,
+		"default": 393,
 		"name": "プライド革命",
 		"type": "Cover",
 		"bandtype": 1,
@@ -3691,7 +3691,7 @@
 	},
 	{
 		"id": 370,
-		"default": 389,
+		"default": 394,
 		"name": "プライド革命",
 		"type": "Cover",
 		"bandtype": 1,
@@ -3701,7 +3701,7 @@
 	},
 	{
 		"id": 371,
-		"default": 390,
+		"default": 395,
 		"name": "プライド革命",
 		"type": "Cover",
 		"bandtype": 1,
@@ -3711,7 +3711,7 @@
 	},
 	{
 		"id": 372,
-		"default": 391,
+		"default": 396,
 		"name": "プライド革命",
 		"type": "Cover",
 		"bandtype": 1,
@@ -3721,7 +3721,7 @@
 	},
 	{
 		"id": 373,
-		"default": 335,
+		"default": 336,
 		"name": "メランコリック",
 		"type": "Cover",
 		"bandtype": 0,
@@ -3731,7 +3731,7 @@
 	},
 	{
 		"id": 374,
-		"default": 336,
+		"default": 337,
 		"name": "メランコリック",
 		"type": "Cover",
 		"bandtype": 0,
@@ -3741,7 +3741,7 @@
 	},
 	{
 		"id": 375,
-		"default": 337,
+		"default": 338,
 		"name": "メランコリック",
 		"type": "Cover",
 		"bandtype": 0,
@@ -3751,7 +3751,7 @@
 	},
 	{
 		"id": 376,
-		"default": 338,
+		"default": 339,
 		"name": "メランコリック",
 		"type": "Cover",
 		"bandtype": 0,
@@ -3761,7 +3761,7 @@
 	},
 	{
 		"id": 377,
-		"default": 437,
+		"default": 442,
 		"name": "SAKURAスキップ",
 		"type": "Cover",
 		"bandtype": 2,
@@ -3771,7 +3771,7 @@
 	},
 	{
 		"id": 378,
-		"default": 438,
+		"default": 443,
 		"name": "SAKURAスキップ",
 		"type": "Cover",
 		"bandtype": 2,
@@ -3781,7 +3781,7 @@
 	},
 	{
 		"id": 379,
-		"default": 439,
+		"default": 444,
 		"name": "SAKURAスキップ",
 		"type": "Cover",
 		"bandtype": 2,
@@ -3791,7 +3791,7 @@
 	},
 	{
 		"id": 380,
-		"default": 440,
+		"default": 445,
 		"name": "SAKURAスキップ",
 		"type": "Cover",
 		"bandtype": 2,
@@ -3801,7 +3801,7 @@
 	},
 	{
 		"id": 381,
-		"default": 173,
+		"default": 174,
 		"name": "Wonderland Girl",
 		"type": "Original",
 		"bandtype": 2,
@@ -3811,7 +3811,7 @@
 	},
 	{
 		"id": 382,
-		"default": 174,
+		"default": 175,
 		"name": "Wonderland Girl",
 		"type": "Original",
 		"bandtype": 2,
@@ -3821,7 +3821,7 @@
 	},
 	{
 		"id": 383,
-		"default": 175,
+		"default": 176,
 		"name": "Wonderland Girl",
 		"type": "Original",
 		"bandtype": 2,
@@ -3831,7 +3831,7 @@
 	},
 	{
 		"id": 384,
-		"default": 176,
+		"default": 177,
 		"name": "Wonderland Girl",
 		"type": "Original",
 		"bandtype": 2,
@@ -3841,7 +3841,7 @@
 	},
 	{
 		"id": 385,
-		"default": 489,
+		"default": 495,
 		"name": "Shangri-La",
 		"type": "Cover",
 		"bandtype": 3,
@@ -3851,7 +3851,7 @@
 	},
 	{
 		"id": 386,
-		"default": 490,
+		"default": 496,
 		"name": "Shangri-La",
 		"type": "Cover",
 		"bandtype": 3,
@@ -3861,7 +3861,7 @@
 	},
 	{
 		"id": 387,
-		"default": 491,
+		"default": 497,
 		"name": "Shangri-La",
 		"type": "Cover",
 		"bandtype": 3,
@@ -3871,7 +3871,7 @@
 	},
 	{
 		"id": 388,
-		"default": 492,
+		"default": 498,
 		"name": "Shangri-La",
 		"type": "Cover",
 		"bandtype": 3,
@@ -3881,7 +3881,7 @@
 	},
 	{
 		"id": 389,
-		"default": 545,
+		"default": 551,
 		"name": "fantastic dreamer",
 		"type": "Cover",
 		"bandtype": 4,
@@ -3891,7 +3891,7 @@
 	},
 	{
 		"id": 390,
-		"default": 546,
+		"default": 552,
 		"name": "fantastic dreamer",
 		"type": "Cover",
 		"bandtype": 4,
@@ -3901,7 +3901,7 @@
 	},
 	{
 		"id": 391,
-		"default": 547,
+		"default": 553,
 		"name": "fantastic dreamer",
 		"type": "Cover",
 		"bandtype": 4,
@@ -3911,7 +3911,7 @@
 	},
 	{
 		"id": 392,
-		"default": 548,
+		"default": 554,
 		"name": "fantastic dreamer",
 		"type": "Cover",
 		"bandtype": 4,
@@ -3921,7 +3921,7 @@
 	},
 	{
 		"id": 393,
-		"default": 549,
+		"default": 555,
 		"name": "ハレ晴レユカイ",
 		"type": "Cover",
 		"bandtype": 5,
@@ -3931,7 +3931,7 @@
 	},
 	{
 		"id": 394,
-		"default": 550,
+		"default": 556,
 		"name": "ハレ晴レユカイ",
 		"type": "Cover",
 		"bandtype": 5,
@@ -3941,7 +3941,7 @@
 	},
 	{
 		"id": 395,
-		"default": 551,
+		"default": 557,
 		"name": "ハレ晴レユカイ",
 		"type": "Cover",
 		"bandtype": 5,
@@ -3951,7 +3951,7 @@
 	},
 	{
 		"id": 396,
-		"default": 552,
+		"default": 558,
 		"name": "ハレ晴レユカイ",
 		"type": "Cover",
 		"bandtype": 5,
@@ -3961,7 +3961,7 @@
 	},
 	{
 		"id": 397,
-		"default": 493,
+		"default": 499,
 		"name": "This game",
 		"type": "Cover",
 		"bandtype": 3,
@@ -3971,7 +3971,7 @@
 	},
 	{
 		"id": 398,
-		"default": 494,
+		"default": 500,
 		"name": "This game",
 		"type": "Cover",
 		"bandtype": 3,
@@ -3981,7 +3981,7 @@
 	},
 	{
 		"id": 399,
-		"default": 495,
+		"default": 501,
 		"name": "This game",
 		"type": "Cover",
 		"bandtype": 3,
@@ -3991,7 +3991,7 @@
 	},
 	{
 		"id": 400,
-		"default": 496,
+		"default": 502,
 		"name": "This game",
 		"type": "Cover",
 		"bandtype": 3,
@@ -4001,7 +4001,7 @@
 	},
 	{
 		"id": 401,
-		"default": 339,
+		"default": 340,
 		"name": "GLAMOROUS SKY",
 		"type": "Cover",
 		"bandtype": 0,
@@ -4011,7 +4011,7 @@
 	},
 	{
 		"id": 402,
-		"default": 340,
+		"default": 341,
 		"name": "GLAMOROUS SKY",
 		"type": "Cover",
 		"bandtype": 0,
@@ -4021,7 +4021,7 @@
 	},
 	{
 		"id": 403,
-		"default": 341,
+		"default": 342,
 		"name": "GLAMOROUS SKY",
 		"type": "Cover",
 		"bandtype": 0,
@@ -4031,7 +4031,7 @@
 	},
 	{
 		"id": 404,
-		"default": 342,
+		"default": 343,
 		"name": "GLAMOROUS SKY",
 		"type": "Cover",
 		"bandtype": 0,
@@ -4041,7 +4041,7 @@
 	},
 	{
 		"id": 405,
-		"default": 141,
+		"default": 142,
 		"name": "Jamboree!Journey!",
 		"type": "Original",
 		"bandtype": 1,
@@ -4051,7 +4051,7 @@
 	},
 	{
 		"id": 406,
-		"default": 142,
+		"default": 143,
 		"name": "Jamboree!Journey!",
 		"type": "Original",
 		"bandtype": 1,
@@ -4061,7 +4061,7 @@
 	},
 	{
 		"id": 407,
-		"default": 143,
+		"default": 144,
 		"name": "Jamboree!Journey!",
 		"type": "Original",
 		"bandtype": 1,
@@ -4071,7 +4071,7 @@
 	},
 	{
 		"id": 408,
-		"default": 144,
+		"default": 145,
 		"name": "Jamboree!Journey!",
 		"type": "Original",
 		"bandtype": 1,
@@ -4081,7 +4081,7 @@
 	},
 	{
 		"id": 409,
-		"default": 226,
+		"default": 227,
 		"name": "軌跡",
 		"type": "Original",
 		"bandtype": 3,
@@ -4091,7 +4091,7 @@
 	},
 	{
 		"id": 410,
-		"default": 227,
+		"default": 228,
 		"name": "軌跡",
 		"type": "Original",
 		"bandtype": 3,
@@ -4101,7 +4101,7 @@
 	},
 	{
 		"id": 411,
-		"default": 228,
+		"default": 229,
 		"name": "軌跡",
 		"type": "Original",
 		"bandtype": 3,
@@ -4111,7 +4111,7 @@
 	},
 	{
 		"id": 412,
-		"default": 229,
+		"default": 230,
 		"name": "軌跡",
 		"type": "Original",
 		"bandtype": 3,
@@ -4121,7 +4121,7 @@
 	},
 	{
 		"id": 413,
-		"default": 177,
+		"default": 178,
 		"name": "天下トーイツ A to Z☆",
 		"type": "Original",
 		"bandtype": 2,
@@ -4131,7 +4131,7 @@
 	},
 	{
 		"id": 414,
-		"default": 178,
+		"default": 179,
 		"name": "天下トーイツ A to Z☆",
 		"type": "Original",
 		"bandtype": 2,
@@ -4141,7 +4141,7 @@
 	},
 	{
 		"id": 415,
-		"default": 179,
+		"default": 180,
 		"name": "天下トーイツ A to Z☆",
 		"type": "Original",
 		"bandtype": 2,
@@ -4151,7 +4151,7 @@
 	},
 	{
 		"id": 416,
-		"default": 180,
+		"default": 181,
 		"name": "天下トーイツ A to Z☆",
 		"type": "Original",
 		"bandtype": 2,
@@ -4161,7 +4161,7 @@
 	},
 	{
 		"id": 417,
-		"default": 271,
+		"default": 272,
 		"name": "ふわふわ☆ゆめいろサンドイッチ",
 		"type": "Original",
 		"bandtype": 4,
@@ -4171,7 +4171,7 @@
 	},
 	{
 		"id": 418,
-		"default": 272,
+		"default": 273,
 		"name": "ふわふわ☆ゆめいろサンドイッチ",
 		"type": "Original",
 		"bandtype": 4,
@@ -4181,7 +4181,7 @@
 	},
 	{
 		"id": 419,
-		"default": 273,
+		"default": 274,
 		"name": "ふわふわ☆ゆめいろサンドイッチ",
 		"type": "Original",
 		"bandtype": 4,
@@ -4191,7 +4191,7 @@
 	},
 	{
 		"id": 420,
-		"default": 274,
+		"default": 275,
 		"name": "ふわふわ☆ゆめいろサンドイッチ",
 		"type": "Original",
 		"bandtype": 4,
@@ -4201,7 +4201,7 @@
 	},
 	{
 		"id": 421,
-		"default": 69,
+		"default": 70,
 		"name": "Light Delight",
 		"type": "Original",
 		"bandtype": 0,
@@ -4211,7 +4211,7 @@
 	},
 	{
 		"id": 422,
-		"default": 70,
+		"default": 71,
 		"name": "Light Delight",
 		"type": "Original",
 		"bandtype": 0,
@@ -4221,7 +4221,7 @@
 	},
 	{
 		"id": 423,
-		"default": 71,
+		"default": 72,
 		"name": "Light Delight",
 		"type": "Original",
 		"bandtype": 0,
@@ -4231,7 +4231,7 @@
 	},
 	{
 		"id": 424,
-		"default": 72,
+		"default": 73,
 		"name": "Light Delight",
 		"type": "Original",
 		"bandtype": 0,
@@ -4241,7 +4241,7 @@
 	},
 	{
 		"id": 425,
-		"default": 73,
+		"default": 74,
 		"name": "私の心はチョココロネ",
 		"type": "Original",
 		"bandtype": 0,
@@ -4251,7 +4251,7 @@
 	},
 	{
 		"id": 426,
-		"default": 74,
+		"default": 75,
 		"name": "私の心はチョココロネ",
 		"type": "Original",
 		"bandtype": 0,
@@ -4261,7 +4261,7 @@
 	},
 	{
 		"id": 427,
-		"default": 75,
+		"default": 76,
 		"name": "私の心はチョココロネ",
 		"type": "Original",
 		"bandtype": 0,
@@ -4271,7 +4271,7 @@
 	},
 	{
 		"id": 428,
-		"default": 76,
+		"default": 77,
 		"name": "私の心はチョココロネ",
 		"type": "Original",
 		"bandtype": 0,
@@ -4281,7 +4281,7 @@
 	},
 	{
 		"id": 429,
-		"default": 441,
+		"default": 446,
 		"name": "みくみくにしてあげる♪【してやんよ】",
 		"type": "Cover",
 		"bandtype": 2,
@@ -4291,7 +4291,7 @@
 	},
 	{
 		"id": 430,
-		"default": 442,
+		"default": 447,
 		"name": "みくみくにしてあげる♪【してやんよ】",
 		"type": "Cover",
 		"bandtype": 2,
@@ -4301,7 +4301,7 @@
 	},
 	{
 		"id": 431,
-		"default": 443,
+		"default": 448,
 		"name": "みくみくにしてあげる♪【してやんよ】",
 		"type": "Cover",
 		"bandtype": 2,
@@ -4311,7 +4311,7 @@
 	},
 	{
 		"id": 432,
-		"default": 444,
+		"default": 449,
 		"name": "みくみくにしてあげる♪【してやんよ】",
 		"type": "Cover",
 		"bandtype": 2,
@@ -4321,7 +4321,7 @@
 	},
 	{
 		"id": 433,
-		"default": 77,
+		"default": 78,
 		"name": "二重の虹(ダブル レインボウ)",
 		"type": "Original",
 		"bandtype": 0,
@@ -4331,7 +4331,7 @@
 	},
 	{
 		"id": 434,
-		"default": 78,
+		"default": 79,
 		"name": "二重の虹(ダブル レインボウ)",
 		"type": "Original",
 		"bandtype": 0,
@@ -4341,7 +4341,7 @@
 	},
 	{
 		"id": 435,
-		"default": 79,
+		"default": 80,
 		"name": "二重の虹(ダブル レインボウ)",
 		"type": "Original",
 		"bandtype": 0,
@@ -4351,7 +4351,7 @@
 	},
 	{
 		"id": 436,
-		"default": 80,
+		"default": 81,
 		"name": "二重の虹(ダブル レインボウ)",
 		"type": "Original",
 		"bandtype": 0,
@@ -4361,7 +4361,7 @@
 	},
 	{
 		"id": 437,
-		"default": 445,
+		"default": 450,
 		"name": "気まぐれロマンティック",
 		"type": "Cover",
 		"bandtype": 2,
@@ -4371,7 +4371,7 @@
 	},
 	{
 		"id": 438,
-		"default": 446,
+		"default": 451,
 		"name": "気まぐれロマンティック",
 		"type": "Cover",
 		"bandtype": 2,
@@ -4381,7 +4381,7 @@
 	},
 	{
 		"id": 439,
-		"default": 447,
+		"default": 452,
 		"name": "気まぐれロマンティック",
 		"type": "Cover",
 		"bandtype": 2,
@@ -4391,7 +4391,7 @@
 	},
 	{
 		"id": 440,
-		"default": 448,
+		"default": 453,
 		"name": "気まぐれロマンティック",
 		"type": "Cover",
 		"bandtype": 2,
@@ -4401,7 +4401,7 @@
 	},
 	{
 		"id": 441,
-		"default": 497,
+		"default": 503,
 		"name": "Believe in my existence",
 		"type": "Cover",
 		"bandtype": 3,
@@ -4411,7 +4411,7 @@
 	},
 	{
 		"id": 442,
-		"default": 498,
+		"default": 504,
 		"name": "Believe in my existence",
 		"type": "Cover",
 		"bandtype": 3,
@@ -4421,7 +4421,7 @@
 	},
 	{
 		"id": 443,
-		"default": 499,
+		"default": 505,
 		"name": "Believe in my existence",
 		"type": "Cover",
 		"bandtype": 3,
@@ -4431,7 +4431,7 @@
 	},
 	{
 		"id": 444,
-		"default": 500,
+		"default": 506,
 		"name": "Believe in my existence",
 		"type": "Cover",
 		"bandtype": 3,
@@ -4441,7 +4441,7 @@
 	},
 	{
 		"id": 445,
-		"default": 392,
+		"default": 397,
 		"name": "イマジネーション",
 		"type": "Cover",
 		"bandtype": 1,
@@ -4451,7 +4451,7 @@
 	},
 	{
 		"id": 446,
-		"default": 393,
+		"default": 398,
 		"name": "イマジネーション",
 		"type": "Cover",
 		"bandtype": 1,
@@ -4461,7 +4461,7 @@
 	},
 	{
 		"id": 447,
-		"default": 394,
+		"default": 399,
 		"name": "イマジネーション",
 		"type": "Cover",
 		"bandtype": 1,
@@ -4471,7 +4471,7 @@
 	},
 	{
 		"id": 448,
-		"default": 395,
+		"default": 400,
 		"name": "イマジネーション",
 		"type": "Cover",
 		"bandtype": 1,
@@ -4481,7 +4481,7 @@
 	},
 	{
 		"id": 449,
-		"default": 230,
+		"default": 231,
 		"name": "Neo-Aspect",
 		"type": "Original",
 		"bandtype": 3,
@@ -4491,7 +4491,7 @@
 	},
 	{
 		"id": 450,
-		"default": 231,
+		"default": 232,
 		"name": "Neo-Aspect",
 		"type": "Original",
 		"bandtype": 3,
@@ -4501,7 +4501,7 @@
 	},
 	{
 		"id": 451,
-		"default": 232,
+		"default": 233,
 		"name": "Neo-Aspect",
 		"type": "Original",
 		"bandtype": 3,
@@ -4511,7 +4511,7 @@
 	},
 	{
 		"id": 452,
-		"default": 233,
+		"default": 234,
 		"name": "Neo-Aspect",
 		"type": "Original",
 		"bandtype": 3,
@@ -4521,7 +4521,7 @@
 	},
 	{
 		"id": 453,
-		"default": 234,
+		"default": 235,
 		"name": "Legendary",
 		"type": "Original",
 		"bandtype": 3,
@@ -4531,7 +4531,7 @@
 	},
 	{
 		"id": 454,
-		"default": 235,
+		"default": 236,
 		"name": "Legendary",
 		"type": "Original",
 		"bandtype": 3,
@@ -4541,7 +4541,7 @@
 	},
 	{
 		"id": 455,
-		"default": 236,
+		"default": 237,
 		"name": "Legendary",
 		"type": "Original",
 		"bandtype": 3,
@@ -4551,7 +4551,7 @@
 	},
 	{
 		"id": 456,
-		"default": 237,
+		"default": 238,
 		"name": "Legendary",
 		"type": "Original",
 		"bandtype": 3,
@@ -4561,7 +4561,7 @@
 	},
 	{
 		"id": 457,
-		"default": 553,
+		"default": 559,
 		"name": "太陽曰く燃えよカオス",
 		"type": "Cover",
 		"bandtype": 4,
@@ -4571,7 +4571,7 @@
 	},
 	{
 		"id": 458,
-		"default": 554,
+		"default": 560,
 		"name": "太陽曰く燃えよカオス",
 		"type": "Cover",
 		"bandtype": 4,
@@ -4581,7 +4581,7 @@
 	},
 	{
 		"id": 459,
-		"default": 555,
+		"default": 561,
 		"name": "太陽曰く燃えよカオス",
 		"type": "Cover",
 		"bandtype": 4,
@@ -4591,7 +4591,7 @@
 	},
 	{
 		"id": 460,
-		"default": 556,
+		"default": 562,
 		"name": "太陽曰く燃えよカオス",
 		"type": "Cover",
 		"bandtype": 4,
@@ -4601,7 +4601,7 @@
 	},
 	{
 		"id": 461,
-		"default": 501,
+		"default": 507,
 		"name": "六兆年と一夜物語",
 		"type": "Cover",
 		"bandtype": 3,
@@ -4611,7 +4611,7 @@
 	},
 	{
 		"id": 462,
-		"default": 502,
+		"default": 508,
 		"name": "六兆年と一夜物語",
 		"type": "Cover",
 		"bandtype": 3,
@@ -4621,7 +4621,7 @@
 	},
 	{
 		"id": 463,
-		"default": 503,
+		"default": 509,
 		"name": "六兆年と一夜物語",
 		"type": "Cover",
 		"bandtype": 3,
@@ -4631,7 +4631,7 @@
 	},
 	{
 		"id": 464,
-		"default": 504,
+		"default": 510,
 		"name": "六兆年と一夜物語",
 		"type": "Cover",
 		"bandtype": 3,
@@ -4641,7 +4641,7 @@
 	},
 	{
 		"id": 465,
-		"default": 449,
+		"default": 454,
 		"name": "Fantastic future",
 		"type": "Cover",
 		"bandtype": 2,
@@ -4651,7 +4651,7 @@
 	},
 	{
 		"id": 466,
-		"default": 450,
+		"default": 455,
 		"name": "Fantastic future",
 		"type": "Cover",
 		"bandtype": 2,
@@ -4661,7 +4661,7 @@
 	},
 	{
 		"id": 467,
-		"default": 451,
+		"default": 456,
 		"name": "Fantastic future",
 		"type": "Cover",
 		"bandtype": 2,
@@ -4671,7 +4671,7 @@
 	},
 	{
 		"id": 468,
-		"default": 452,
+		"default": 457,
 		"name": "Fantastic future",
 		"type": "Cover",
 		"bandtype": 2,
@@ -4681,7 +4681,7 @@
 	},
 	{
 		"id": 469,
-		"default": 81,
+		"default": 82,
 		"name": "最高(さあ行こう)！",
 		"type": "Original",
 		"bandtype": 0,
@@ -4691,7 +4691,7 @@
 	},
 	{
 		"id": 470,
-		"default": 82,
+		"default": 83,
 		"name": "最高(さあ行こう)！",
 		"type": "Original",
 		"bandtype": 0,
@@ -4701,7 +4701,7 @@
 	},
 	{
 		"id": 471,
-		"default": 83,
+		"default": 84,
 		"name": "最高(さあ行こう)！",
 		"type": "Original",
 		"bandtype": 0,
@@ -4711,7 +4711,7 @@
 	},
 	{
 		"id": 472,
-		"default": 84,
+		"default": 85,
 		"name": "最高(さあ行こう)！",
 		"type": "Original",
 		"bandtype": 0,
@@ -4721,7 +4721,7 @@
 	},
 	{
 		"id": 473,
-		"default": 181,
+		"default": 182,
 		"name": "もういちど ルミナス",
 		"type": "Original",
 		"bandtype": 2,
@@ -4731,7 +4731,7 @@
 	},
 	{
 		"id": 474,
-		"default": 182,
+		"default": 183,
 		"name": "もういちど ルミナス",
 		"type": "Original",
 		"bandtype": 2,
@@ -4741,7 +4741,7 @@
 	},
 	{
 		"id": 475,
-		"default": 183,
+		"default": 184,
 		"name": "もういちど ルミナス",
 		"type": "Original",
 		"bandtype": 2,
@@ -4751,7 +4751,7 @@
 	},
 	{
 		"id": 476,
-		"default": 184,
+		"default": 185,
 		"name": "もういちど ルミナス",
 		"type": "Original",
 		"bandtype": 2,
@@ -4761,7 +4761,7 @@
 	},
 	{
 		"id": 477,
-		"default": 343,
+		"default": 344,
 		"name": "DAYS",
 		"type": "Cover",
 		"bandtype": 0,
@@ -4771,7 +4771,7 @@
 	},
 	{
 		"id": 478,
-		"default": 344,
+		"default": 345,
 		"name": "DAYS",
 		"type": "Cover",
 		"bandtype": 0,
@@ -4781,7 +4781,7 @@
 	},
 	{
 		"id": 479,
-		"default": 345,
+		"default": 346,
 		"name": "DAYS",
 		"type": "Cover",
 		"bandtype": 0,
@@ -4791,7 +4791,7 @@
 	},
 	{
 		"id": 480,
-		"default": 346,
+		"default": 347,
 		"name": "DAYS",
 		"type": "Cover",
 		"bandtype": 0,
@@ -4801,7 +4801,7 @@
 	},
 	{
 		"id": 481,
-		"default": 287,
+		"default": 288,
 		"name": "ピコっと！パピっと！！ガルパ☆ピコ！！！",
 		"type": "Original",
 		"bandtype": 5,
@@ -4811,7 +4811,7 @@
 	},
 	{
 		"id": 482,
-		"default": 288,
+		"default": 289,
 		"name": "ピコっと！パピっと！！ガルパ☆ピコ！！！",
 		"type": "Original",
 		"bandtype": 5,
@@ -4821,7 +4821,7 @@
 	},
 	{
 		"id": 483,
-		"default": 289,
+		"default": 290,
 		"name": "ピコっと！パピっと！！ガルパ☆ピコ！！！",
 		"type": "Original",
 		"bandtype": 5,
@@ -4831,7 +4831,7 @@
 	},
 	{
 		"id": 484,
-		"default": 290,
+		"default": 291,
 		"name": "ピコっと！パピっと！！ガルパ☆ピコ！！！",
 		"type": "Original",
 		"bandtype": 5,
@@ -4841,7 +4841,7 @@
 	},
 	{
 		"id": 485,
-		"default": 275,
+		"default": 276,
 		"name": "ハイファイヴ∞あどべんちゃっ",
 		"type": "Original",
 		"bandtype": 4,
@@ -4851,7 +4851,7 @@
 	},
 	{
 		"id": 486,
-		"default": 276,
+		"default": 277,
 		"name": "ハイファイヴ∞あどべんちゃっ",
 		"type": "Original",
 		"bandtype": 4,
@@ -4861,7 +4861,7 @@
 	},
 	{
 		"id": 487,
-		"default": 277,
+		"default": 278,
 		"name": "ハイファイヴ∞あどべんちゃっ",
 		"type": "Original",
 		"bandtype": 4,
@@ -4871,7 +4871,7 @@
 	},
 	{
 		"id": 488,
-		"default": 278,
+		"default": 279,
 		"name": "ハイファイヴ∞あどべんちゃっ",
 		"type": "Original",
 		"bandtype": 4,
@@ -4881,7 +4881,7 @@
 	},
 	{
 		"id": 489,
-		"default": 347,
+		"default": 348,
 		"name": "Life Will Change",
 		"type": "Cover",
 		"bandtype": 0,
@@ -4891,7 +4891,7 @@
 	},
 	{
 		"id": 490,
-		"default": 348,
+		"default": 349,
 		"name": "Life Will Change",
 		"type": "Cover",
 		"bandtype": 0,
@@ -4901,7 +4901,7 @@
 	},
 	{
 		"id": 491,
-		"default": 349,
+		"default": 350,
 		"name": "Life Will Change",
 		"type": "Cover",
 		"bandtype": 0,
@@ -4911,7 +4911,7 @@
 	},
 	{
 		"id": 492,
-		"default": 350,
+		"default": 351,
 		"name": "Life Will Change",
 		"type": "Cover",
 		"bandtype": 0,
@@ -4921,7 +4921,7 @@
 	},
 	{
 		"id": 493,
-		"default": 396,
+		"default": 401,
 		"name": "Reach Out To The Truth",
 		"type": "Cover",
 		"bandtype": 1,
@@ -4931,7 +4931,7 @@
 	},
 	{
 		"id": 494,
-		"default": 397,
+		"default": 402,
 		"name": "Reach Out To The Truth",
 		"type": "Cover",
 		"bandtype": 1,
@@ -4941,7 +4941,7 @@
 	},
 	{
 		"id": 495,
-		"default": 398,
+		"default": 403,
 		"name": "Reach Out To The Truth",
 		"type": "Cover",
 		"bandtype": 1,
@@ -4951,7 +4951,7 @@
 	},
 	{
 		"id": 496,
-		"default": 399,
+		"default": 404,
 		"name": "Reach Out To The Truth",
 		"type": "Cover",
 		"bandtype": 1,
@@ -4961,7 +4961,7 @@
 	},
 	{
 		"id": 497,
-		"default": 505,
+		"default": 511,
 		"name": "キミの記憶",
 		"type": "Cover",
 		"bandtype": 3,
@@ -4971,7 +4971,7 @@
 	},
 	{
 		"id": 498,
-		"default": 506,
+		"default": 512,
 		"name": "キミの記憶",
 		"type": "Cover",
 		"bandtype": 3,
@@ -4981,7 +4981,7 @@
 	},
 	{
 		"id": 499,
-		"default": 507,
+		"default": 513,
 		"name": "キミの記憶",
 		"type": "Cover",
 		"bandtype": 3,
@@ -4991,7 +4991,7 @@
 	},
 	{
 		"id": 500,
-		"default": 508,
+		"default": 514,
 		"name": "キミの記憶",
 		"type": "Cover",
 		"bandtype": 3,
@@ -5001,7 +5001,7 @@
 	},
 	{
 		"id": 501,
-		"default": 351,
+		"default": 352,
 		"name": "夏祭り",
 		"type": "Cover",
 		"bandtype": 0,
@@ -5011,7 +5011,7 @@
 	},
 	{
 		"id": 502,
-		"default": 352,
+		"default": 353,
 		"name": "夏祭り",
 		"type": "Cover",
 		"bandtype": 0,
@@ -5021,7 +5021,7 @@
 	},
 	{
 		"id": 503,
-		"default": 353,
+		"default": 354,
 		"name": "夏祭り",
 		"type": "Cover",
 		"bandtype": 0,
@@ -5031,7 +5031,7 @@
 	},
 	{
 		"id": 504,
-		"default": 354,
+		"default": 355,
 		"name": "夏祭り",
 		"type": "Cover",
 		"bandtype": 0,
@@ -5041,7 +5041,7 @@
 	},
 	{
 		"id": 505,
-		"default": 145,
+		"default": 146,
 		"name": "COMIC PANIC!!!",
 		"type": "Original",
 		"bandtype": 1,
@@ -5051,7 +5051,7 @@
 	},
 	{
 		"id": 506,
-		"default": 146,
+		"default": 147,
 		"name": "COMIC PANIC!!!",
 		"type": "Original",
 		"bandtype": 1,
@@ -5061,7 +5061,7 @@
 	},
 	{
 		"id": 507,
-		"default": 147,
+		"default": 148,
 		"name": "COMIC PANIC!!!",
 		"type": "Original",
 		"bandtype": 1,
@@ -5071,7 +5071,7 @@
 	},
 	{
 		"id": 508,
-		"default": 148,
+		"default": 149,
 		"name": "COMIC PANIC!!!",
 		"type": "Original",
 		"bandtype": 1,
@@ -5081,7 +5081,7 @@
 	},
 	{
 		"id": 509,
-		"default": 509,
+		"default": 515,
 		"name": "シャルル",
 		"type": "Cover",
 		"bandtype": 3,
@@ -5091,7 +5091,7 @@
 	},
 	{
 		"id": 510,
-		"default": 510,
+		"default": 516,
 		"name": "シャルル",
 		"type": "Cover",
 		"bandtype": 3,
@@ -5101,7 +5101,7 @@
 	},
 	{
 		"id": 511,
-		"default": 511,
+		"default": 517,
 		"name": "シャルル",
 		"type": "Cover",
 		"bandtype": 3,
@@ -5111,7 +5111,7 @@
 	},
 	{
 		"id": 512,
-		"default": 512,
+		"default": 518,
 		"name": "シャルル",
 		"type": "Cover",
 		"bandtype": 3,
@@ -5121,17 +5121,7 @@
 	},
 	{
 		"id": 513,
-		"default": 367,
-		"name": "Don't say \"lazy",
-		"type": "Cover",
-		"bandtype": 1,
-		"difficult": "Special",
-		"level": 25,
-		"totalnotes": 763
-	},
-	{
-		"id": 514,
-		"default": 193,
+		"default": 194,
 		"name": "BLACK SHOUT",
 		"type": "Original",
 		"bandtype": 3,
@@ -5140,8 +5130,18 @@
 		"totalnotes": 575
 	},
 	{
+		"id": 514,
+		"default": 372,
+		"name": "Don't say \"lazy",
+		"type": "Cover",
+		"bandtype": 1,
+		"difficult": "Special",
+		"level": 25,
+		"totalnotes": 763
+	},
+	{
 		"id": 515,
-		"default": 557,
+		"default": 563,
 		"name": "GO! GO! MANIAC",
 		"type": "Cover",
 		"bandtype": 4,
@@ -5151,7 +5151,7 @@
 	},
 	{
 		"id": 516,
-		"default": 558,
+		"default": 564,
 		"name": "GO! GO! MANIAC",
 		"type": "Cover",
 		"bandtype": 4,
@@ -5161,7 +5161,7 @@
 	},
 	{
 		"id": 517,
-		"default": 559,
+		"default": 565,
 		"name": "GO! GO! MANIAC",
 		"type": "Cover",
 		"bandtype": 4,
@@ -5171,7 +5171,7 @@
 	},
 	{
 		"id": 518,
-		"default": 560,
+		"default": 566,
 		"name": "GO! GO! MANIAC",
 		"type": "Cover",
 		"bandtype": 4,
@@ -5181,7 +5181,7 @@
 	},
 	{
 		"id": 519,
-		"default": 238,
+		"default": 239,
 		"name": "Sanctuary",
 		"type": "Original",
 		"bandtype": 3,
@@ -5191,7 +5191,7 @@
 	},
 	{
 		"id": 520,
-		"default": 239,
+		"default": 240,
 		"name": "Sanctuary",
 		"type": "Original",
 		"bandtype": 3,
@@ -5201,7 +5201,7 @@
 	},
 	{
 		"id": 521,
-		"default": 240,
+		"default": 241,
 		"name": "Sanctuary",
 		"type": "Original",
 		"bandtype": 3,
@@ -5211,7 +5211,7 @@
 	},
 	{
 		"id": 522,
-		"default": 241,
+		"default": 242,
 		"name": "Sanctuary",
 		"type": "Original",
 		"bandtype": 3,
@@ -5221,7 +5221,7 @@
 	},
 	{
 		"id": 523,
-		"default": 355,
+		"default": 356,
 		"name": "ロミオとシンデレラ",
 		"type": "Cover",
 		"bandtype": 0,
@@ -5231,7 +5231,7 @@
 	},
 	{
 		"id": 524,
-		"default": 356,
+		"default": 357,
 		"name": "ロミオとシンデレラ",
 		"type": "Cover",
 		"bandtype": 0,
@@ -5241,7 +5241,7 @@
 	},
 	{
 		"id": 525,
-		"default": 357,
+		"default": 358,
 		"name": "ロミオとシンデレラ",
 		"type": "Cover",
 		"bandtype": 0,
@@ -5251,7 +5251,7 @@
 	},
 	{
 		"id": 526,
-		"default": 358,
+		"default": 359,
 		"name": "ロミオとシンデレラ",
 		"type": "Cover",
 		"bandtype": 0,
@@ -5261,7 +5261,7 @@
 	},
 	{
 		"id": 527,
-		"default": 561,
+		"default": 567,
 		"name": "エイリアンエイリアン",
 		"type": "Cover",
 		"bandtype": 4,
@@ -5271,7 +5271,7 @@
 	},
 	{
 		"id": 528,
-		"default": 562,
+		"default": 568,
 		"name": "エイリアンエイリアン",
 		"type": "Cover",
 		"bandtype": 4,
@@ -5281,7 +5281,7 @@
 	},
 	{
 		"id": 529,
-		"default": 563,
+		"default": 569,
 		"name": "エイリアンエイリアン",
 		"type": "Cover",
 		"bandtype": 4,
@@ -5291,7 +5291,7 @@
 	},
 	{
 		"id": 530,
-		"default": 564,
+		"default": 570,
 		"name": "エイリアンエイリアン",
 		"type": "Cover",
 		"bandtype": 4,
@@ -5301,7 +5301,7 @@
 	},
 	{
 		"id": 531,
-		"default": 400,
+		"default": 405,
 		"name": "ロストワンの号哭",
 		"type": "Cover",
 		"bandtype": 1,
@@ -5311,7 +5311,7 @@
 	},
 	{
 		"id": 532,
-		"default": 401,
+		"default": 406,
 		"name": "ロストワンの号哭",
 		"type": "Cover",
 		"bandtype": 1,
@@ -5321,7 +5321,7 @@
 	},
 	{
 		"id": 533,
-		"default": 402,
+		"default": 407,
 		"name": "ロストワンの号哭",
 		"type": "Cover",
 		"bandtype": 1,
@@ -5331,7 +5331,7 @@
 	},
 	{
 		"id": 534,
-		"default": 403,
+		"default": 408,
 		"name": "ロストワンの号哭",
 		"type": "Cover",
 		"bandtype": 1,
@@ -5341,7 +5341,7 @@
 	},
 	{
 		"id": 535,
-		"default": 85,
+		"default": 86,
 		"name": "ガールズコード",
 		"type": "Original",
 		"bandtype": 0,
@@ -5351,7 +5351,7 @@
 	},
 	{
 		"id": 536,
-		"default": 86,
+		"default": 87,
 		"name": "ガールズコード",
 		"type": "Original",
 		"bandtype": 0,
@@ -5361,7 +5361,7 @@
 	},
 	{
 		"id": 537,
-		"default": 87,
+		"default": 88,
 		"name": "ガールズコード",
 		"type": "Original",
 		"bandtype": 0,
@@ -5371,7 +5371,7 @@
 	},
 	{
 		"id": 538,
-		"default": 88,
+		"default": 89,
 		"name": "ガールズコード",
 		"type": "Original",
 		"bandtype": 0,
@@ -5381,7 +5381,7 @@
 	},
 	{
 		"id": 539,
-		"default": 149,
+		"default": 150,
 		"name": "ツナグ、ソラモヨウ",
 		"type": "Original",
 		"bandtype": 1,
@@ -5391,7 +5391,7 @@
 	},
 	{
 		"id": 540,
-		"default": 150,
+		"default": 151,
 		"name": "ツナグ、ソラモヨウ",
 		"type": "Original",
 		"bandtype": 1,
@@ -5401,7 +5401,7 @@
 	},
 	{
 		"id": 541,
-		"default": 151,
+		"default": 152,
 		"name": "ツナグ、ソラモヨウ",
 		"type": "Original",
 		"bandtype": 1,
@@ -5411,7 +5411,7 @@
 	},
 	{
 		"id": 542,
-		"default": 152,
+		"default": 153,
 		"name": "ツナグ、ソラモヨウ",
 		"type": "Original",
 		"bandtype": 1,
@@ -5421,7 +5421,7 @@
 	},
 	{
 		"id": 543,
-		"default": 453,
+		"default": 458,
 		"name": "DISCOTHEQUE",
 		"type": "Cover",
 		"bandtype": 2,
@@ -5431,7 +5431,7 @@
 	},
 	{
 		"id": 544,
-		"default": 454,
+		"default": 459,
 		"name": "DISCOTHEQUE",
 		"type": "Cover",
 		"bandtype": 2,
@@ -5441,7 +5441,7 @@
 	},
 	{
 		"id": 545,
-		"default": 455,
+		"default": 460,
 		"name": "DISCOTHEQUE",
 		"type": "Cover",
 		"bandtype": 2,
@@ -5451,7 +5451,7 @@
 	},
 	{
 		"id": 546,
-		"default": 456,
+		"default": 461,
 		"name": "DISCOTHEQUE",
 		"type": "Cover",
 		"bandtype": 2,
@@ -5461,17 +5461,7 @@
 	},
 	{
 		"id": 547,
-		"default": 416,
-		"name": "そばかす",
-		"type": "Cover",
-		"bandtype": 2,
-		"difficult": "Special",
-		"level": 25,
-		"totalnotes": 723
-	},
-	{
-		"id": 548,
-		"default": 258,
+		"default": 259,
 		"name": "ゴーカ！ごーかい！？ファントムシーフ！",
 		"type": "Original",
 		"bandtype": 4,
@@ -5480,8 +5470,18 @@
 		"totalnotes": 581
 	},
 	{
+		"id": 548,
+		"default": 421,
+		"name": "そばかす",
+		"type": "Cover",
+		"bandtype": 2,
+		"difficult": "Special",
+		"level": 25,
+		"totalnotes": 723
+	},
+	{
 		"id": 549,
-		"default": 565,
+		"default": 571,
 		"name": "新宝島",
 		"type": "Cover",
 		"bandtype": 4,
@@ -5491,7 +5491,7 @@
 	},
 	{
 		"id": 550,
-		"default": 566,
+		"default": 572,
 		"name": "新宝島",
 		"type": "Cover",
 		"bandtype": 4,
@@ -5501,7 +5501,7 @@
 	},
 	{
 		"id": 551,
-		"default": 567,
+		"default": 573,
 		"name": "新宝島",
 		"type": "Cover",
 		"bandtype": 4,
@@ -5511,7 +5511,7 @@
 	},
 	{
 		"id": 552,
-		"default": 568,
+		"default": 574,
 		"name": "新宝島",
 		"type": "Cover",
 		"bandtype": 4,
@@ -5521,7 +5521,7 @@
 	},
 	{
 		"id": 553,
-		"default": 291,
+		"default": 292,
 		"name": "ひとりじゃないんだから",
 		"type": "Original",
 		"bandtype": 5,
@@ -5531,7 +5531,7 @@
 	},
 	{
 		"id": 554,
-		"default": 292,
+		"default": 293,
 		"name": "ひとりじゃないんだから",
 		"type": "Original",
 		"bandtype": 5,
@@ -5541,7 +5541,7 @@
 	},
 	{
 		"id": 555,
-		"default": 293,
+		"default": 294,
 		"name": "ひとりじゃないんだから",
 		"type": "Original",
 		"bandtype": 5,
@@ -5551,7 +5551,7 @@
 	},
 	{
 		"id": 556,
-		"default": 294,
+		"default": 295,
 		"name": "ひとりじゃないんだから",
 		"type": "Original",
 		"bandtype": 5,
@@ -5561,7 +5561,7 @@
 	},
 	{
 		"id": 557,
-		"default": 185,
+		"default": 186,
 		"name": "ゼッタイ宣言～Recital～",
 		"type": "Original",
 		"bandtype": 2,
@@ -5571,7 +5571,7 @@
 	},
 	{
 		"id": 558,
-		"default": 186,
+		"default": 187,
 		"name": "ゼッタイ宣言～Recital～",
 		"type": "Original",
 		"bandtype": 2,
@@ -5581,7 +5581,7 @@
 	},
 	{
 		"id": 559,
-		"default": 187,
+		"default": 188,
 		"name": "ゼッタイ宣言～Recital～",
 		"type": "Original",
 		"bandtype": 2,
@@ -5591,7 +5591,7 @@
 	},
 	{
 		"id": 560,
-		"default": 188,
+		"default": 189,
 		"name": "ゼッタイ宣言～Recital～",
 		"type": "Original",
 		"bandtype": 2,
@@ -5601,7 +5601,7 @@
 	},
 	{
 		"id": 561,
-		"default": 242,
+		"default": 243,
 		"name": "R",
 		"type": "Original",
 		"bandtype": 3,
@@ -5611,7 +5611,7 @@
 	},
 	{
 		"id": 562,
-		"default": 243,
+		"default": 244,
 		"name": "R",
 		"type": "Original",
 		"bandtype": 3,
@@ -5621,7 +5621,7 @@
 	},
 	{
 		"id": 563,
-		"default": 244,
+		"default": 245,
 		"name": "R",
 		"type": "Original",
 		"bandtype": 3,
@@ -5631,7 +5631,7 @@
 	},
 	{
 		"id": 564,
-		"default": 245,
+		"default": 246,
 		"name": "R",
 		"type": "Original",
 		"bandtype": 3,
@@ -5641,7 +5641,7 @@
 	},
 	{
 		"id": 565,
-		"default": 279,
+		"default": 280,
 		"name": "キミがいなくちゃっ！",
 		"type": "Original",
 		"bandtype": 4,
@@ -5651,7 +5651,7 @@
 	},
 	{
 		"id": 566,
-		"default": 280,
+		"default": 281,
 		"name": "キミがいなくちゃっ！",
 		"type": "Original",
 		"bandtype": 4,
@@ -5661,7 +5661,7 @@
 	},
 	{
 		"id": 567,
-		"default": 281,
+		"default": 282,
 		"name": "キミがいなくちゃっ！",
 		"type": "Original",
 		"bandtype": 4,
@@ -5671,12 +5671,72 @@
 	},
 	{
 		"id": 568,
-		"default": 282,
+		"default": 283,
 		"name": "キミがいなくちゃっ！",
 		"type": "Original",
 		"bandtype": 4,
 		"difficult": "Expert",
 		"level": 25,
 		"totalnotes": 569
+	},
+	{
+		"id": 569,
+		"default": 17,
+		"name": "ティアドロップス",
+		"type": "Original",
+		"bandtype": 0,
+		"difficult": "Special",
+		"level": 27,
+		"totalnotes": 1063
+	},
+	{
+		"id": 570,
+		"default": 466,
+		"name": "魂のルフラン",
+		"type": "Cover",
+		"bandtype": 3,
+		"difficult": "Special",
+		"level": 26,
+		"totalnotes": 951
+	},
+	{
+		"id": 571,
+		"default": 360,
+		"name": "君に届け",
+		"type": "Cover",
+		"bandtype": 0,
+		"difficult": "Easy",
+		"level": 7,
+		"totalnotes": 128
+	},
+	{
+		"id": 572,
+		"default": 361,
+		"name": "君に届け",
+		"type": "Cover",
+		"bandtype": 0,
+		"difficult": "Normal",
+		"level": 13,
+		"totalnotes": 258
+	},
+	{
+		"id": 573,
+		"default": 362,
+		"name": "君に届け",
+		"type": "Cover",
+		"bandtype": 0,
+		"difficult": "Hard",
+		"level": 18,
+		"totalnotes": 499
+	},
+	{
+		"id": 574,
+		"default": 363,
+		"name": "君に届け",
+		"type": "Cover",
+		"bandtype": 0,
+		"difficult": "Expert",
+		"level": 25,
+		"totalnotes": 732
 	}
 ]
