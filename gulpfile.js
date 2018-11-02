@@ -121,6 +121,8 @@ gulp.task('obfuscator', ["riot-browserfy"], () => {
 	var s = gulp.src('./docs/bundle.js');
 	if(!is_debug && obfuscator){
 		s.pipe(gulp_obf({
+			debugProtection: true,
+			stringArrayThreshold: 1,
 			sourceMap: false
 		})).pipe(gulp.dest('./docs/'));
 	}
@@ -131,6 +133,8 @@ gulp.task('obfuscator', ["riot-browserfy"], () => {
 gulp.task('obfuscator-must', ["riot-browserfy"], () => {
 	return gulp.src('./docs/bundle.js')
 		.pipe(gulp_obf({
+			debugProtection: true,
+			stringArrayThreshold: 1,
 			sourceMap: false
 		}))
 		.pipe(gulp.dest('./docs/'));
