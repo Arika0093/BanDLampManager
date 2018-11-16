@@ -1,5 +1,5 @@
 main
-	header
+	header(class='{URLViewMode: URLReadOnly}')
 		a#title(href="./" title="BanG-Dream Clear Manager") BGDCM
 		span(class='{ active: sortType == 0 }' onclick='{ sortClick.bind(this, 0) }') ▼標準
 		span(class='{ active: sortType == 1 }' onclick='{ sortClick.bind(this, 1) }') ▼レベル順
@@ -28,22 +28,25 @@ main
 		input#viewOnlyMode(type="checkbox" class='{ hidden: URLReadOnly }' onclick='{ toggleViewOnlyMode }' checked='{ this.URLReadOnly }' disabled='{ this.URLReadOnly }')
 		label(for="viewOnlyMode" class='{ hidden: URLReadOnly }' ) 閲覧用モード
 		
-		
 		//- URL生成ボタン(URL表示時は非表示)
 		button#sharedData(class='{ hidden: URLReadOnly }' onclick='{ generateDataURL }') URL生成
 
 	div.songLists(class='{wideView: viewOnly}')
 		div.song(each='{s in allSongNameList}' class='type_{s.type} band_{s.bandtype}' data-disp='{s.dispValue}' data-index='{s.index}' onclick='{ showEditForm.bind(this, s) }')
 			div.name {s.name}
-			div.difficults(if='{s.diffs}')
+			div.difficults.myResults(if='{battleMode && s.myResult.diffs}')
+				div.diff(each='{d in s.myResult.diffs}' class='diff_{d.diff} clearState_{d.clearState}')
+			div.difficults(if='{s.diffs}' class='{enemyResults: battleMode}')
 				div.diff(each='{d in s.diffs}' class='diff_{d.diff} clearState_{d.clearState}')
-			div.scores(if='{viewOnly}')
+			div.scores(if='{viewOnly && !battleMode}')
 				span.score {s.seldiff.perfect}
 				span.score {s.seldiff.great}
 				span.score {s.seldiff.good}
 				span.score {s.seldiff.bad}
 				span.score {s.seldiff.miss}
 				span.comment {s.seldiff.comment}
+			virtual(if='{battleMode}')
+				span.comment.commentLong(title="Great以下の合計数(左:自分/右:相手)" class='{Win: s.myResult.battleState > 0, Lose: s.myResult.battleState < 0}') {s.myResult.battleDetail}
 
 	div.editSongData(if='{editSong}' class='type_{editSong.type}')
 		div.songname {editSong.name}
@@ -102,6 +105,61 @@ main
 					var sd = findSaveDataItem(savedData, e.name, e.difficult);
 					var sd_grCount = sd.name ? (sd.great + sd.good + sd.bad + sd.miss) : 9999;
 					var sd_msCount = sd.name ? (sd.good + sd.bad + sd.miss) : 9999;
+					if(this.URLReadOnly){
+						var myResult = { state: "DRAW" };
+						var battleState = 0;
+						var localSaveData = getLocalSaveData();
+						var sdLocal = findSaveDataItem(localSaveData, e.name, e.difficult);
+						var sdLocal_grCount = sdLocal.name ? (sdLocal.great + sdLocal.good + sdLocal.bad + sdLocal.miss) : 9999;
+						if(sdLocal && sdLocal.name) {
+							myResult.saveItem = sdLocal;
+							if (!sd.name) { battleState = +1; }
+							if (sd.clearState > sdLocal.clearState) { battleState = -1; }
+							if (sd.clearState < sdLocal.clearState) { battleState = +1; }
+							if (sd.clearState == sdLocal.clearState) {
+								if(sd_grCount > sdLocal_grCount){ battleState = +1; }
+								if(sd_grCount < sdLocal_grCount){ battleState = -1; }
+							}
+							myResult.clearState = sdLocal.clearState;
+						}
+						else if(sd.name){ battleState = -1; }
+						
+						if(battleState != 0){
+							myResult.state = battleState > 0 ? "WIN" : "LOSE";
+						}
+						myResult.battleState = battleState;
+						if(sd.name && sdLocal.name && battleState != 0){
+							if(sdLocal_grCount > sd_grCount){
+								myResult.battleDetail = `
+									${sdLocal_grCount || "AP"} vs
+									[${sd_grCount || "AP"}]
+								`;
+							} else {
+								myResult.battleDetail = `
+									[${sdLocal_grCount || "AP"}] vs
+									${sd_grCount || "AP"}
+								`;
+							}
+						}
+						myResult.diffs = global.allSongList
+							.filter(e_ => e_.name === e.name)
+							.sort((a, b) => {
+								if(a.default < b.default) return -1;
+								if(a.default > b.default) return +1;
+							})
+							.map(e_ => {
+								var ssd = findSaveDataItem(localSaveData, e_.name, e_.difficult);
+								var grCount = ssd.great + ssd.good + ssd.bad + ssd.miss;
+								var msCount = ssd.good + ssd.bad + ssd.miss;
+								return {
+									diff: e_.difficult,
+									totalnotes: e_.totalnotes,
+									clearState: ssd.clearState || 0,
+									grCount,
+									msCount,
+								};
+							})
+					}
 					return {
 						name: e.name,
 						type: e.type,
@@ -118,9 +176,11 @@ main
 							comment: sd.comment || "",
 							grCount: sd_grCount,
 							msCount: sd_msCount,
+							battleResult: myResult,
 						},
 						default_index: e.default,
 						index: i,
+						myResult,
 						diffs: global.allSongList
 							.filter(e_ => e_.name === e.name)
 							.sort((a,b) => {
@@ -163,6 +223,9 @@ main
 					e.dispValue = e.seldiff.explevel
 					e.bandtype = e.seldiff.bandtype
 				}
+				else if (sortType == 90) {
+					e.dispValue = e.myResult.state
+				}
 				else {
 					e.dispValue = e.seldiff.explevel
 				}
@@ -190,6 +253,14 @@ main
 					// 昇順
 					if (a.bandtype < b.bandtype) return -1;
 					if (a.bandtype > b.bandtype) return +1;
+				}
+				if (sortType == 90){
+					if (a.myResult.battleState < b.myResult.battleState) return +1;
+					if (a.myResult.battleState > b.myResult.battleState) return -1;
+					if (a.myResult.clearState < b.myResult.clearState) return +1;
+					if (a.myResult.clearState > b.myResult.clearState) return -1;
+					if (a.seldiff.clearState < b.seldiff.clearState) return +1;
+					if (a.seldiff.clearState > b.seldiff.clearState) return -1;
 				}
 				if (sortType >= 1) {
 					// 降順
@@ -343,6 +414,7 @@ main
 			if(type >= 0){
 				this.sortType = global.sortType = type;
 			}
+			this.battleMode = (global.sortType == 90);
 			lenderingUpdate(getSaveData(), global.sortType);
 		}
 		
@@ -391,6 +463,13 @@ main
 			var lst = localStorage.getItem("savedScore");
 			return JSON.parse(lst || "[]");
 		}
+		// get localstrage saved score
+		function getLocalSaveData(){
+			// localstrage data get
+			var lst = localStorage.getItem("savedScore");
+			return JSON.parse(lst || "[]");
+		}
+		
 		function setSaveData(sd){
 			// if readonly mode, no action
 			if (!!global.queryLoadData) {

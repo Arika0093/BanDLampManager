@@ -322,6 +322,32 @@ span.comment {
 	cursor: pointer;
 }
 
+span.comment.Win {
+	color: #C00;
+	font-weight: bolder;
+}
+span.comment.Lose {
+	color: #00C;
+	font-weight: bolder;
+}
+
+.difficults.enemyResults {
+	filter: contrast(0.8)
+}
+
+header.URLViewMode{
+	background-color: #F0F0F0;
+}
+header.URLViewMode::after{
+	content: "[URL Mode]";
+	position: absolute;
+	font-size: smaller;
+	color: #222;
+	right: 1ex;
+	bottom: 0;
+}
+
+
 
 
 .diff.clearState_0 {
@@ -341,6 +367,9 @@ span.comment {
 	transform: scale(1.2,1.2);
 	filter: contrast(1.15) brightness(1.00);
 }
+
+
+
 
 
 dialog#shortenCreate {
